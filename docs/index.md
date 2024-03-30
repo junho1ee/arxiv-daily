@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.29
+## Updated on 2024.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -630,7 +630,7 @@ layout: default
 |**2024-03-26**|**ChroniclingAmericaQA: A Large-scale Question Answering Dataset based on Historical American Newspaper Pages**|Bhawna Piryani et.al.|[2403.17859](http://arxiv.org/abs/2403.17859)|**[link](https://github.com/datascienceuibk/chroniclingamericaqa)**|
 |**2024-03-26**|**Climate Downscaling: A Deep-Learning Based Super-resolution Model of Precipitation Data with Attention Block and Skip Connections**|Chia-Hao Chiang et.al.|[2403.17847](http://arxiv.org/abs/2403.17847)|null|
 |**2024-03-26**|**Mechanistic Design and Scaling of Hybrid Architectures**|Michael Poli et.al.|[2403.17844](http://arxiv.org/abs/2403.17844)|null|
-|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|null|
+|**2024-03-26**|**GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction**|Hrishav Bakul Barua et.al.|[2403.17837](http://arxiv.org/abs/2403.17837)|**[link](https://github.com/hrishavbakulbarua/gta-hdr)**|
 |**2024-03-26**|**D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting**|Xiaobing Yuan et.al.|[2403.17814](http://arxiv.org/abs/2403.17814)|null|
 |**2024-03-26**|**Annotated Biomedical Video Generation using Denoising Diffusion Probabilistic Models and Flow Fields**|Rüveyda Yilmaz et.al.|[2403.17808](http://arxiv.org/abs/2403.17808)|null|
 |**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
