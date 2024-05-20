@@ -672,6 +672,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**A Versatile Framework for Analyzing Galaxy Image Data by Implanting Human-in-the-loop on a Large Vision Model**|Mingxiang Fu et.al.|[2405.10890](http://arxiv.org/abs/2405.10890)|null|
+|**2024-05-17**|**Application of Artificial Intelligence in Schizophrenia Rehabilitation Management: Systematic Literature Review**|Hongyi Yang et.al.|[2405.10883](http://arxiv.org/abs/2405.10883)|null|
+|**2024-05-17**|**WEITS: A Wavelet-enhanced residual framework for interpretable time series forecasting**|Ziyou Guo et.al.|[2405.10877](http://arxiv.org/abs/2405.10877)|null|
+|**2024-05-17**|**BraTS-Path Challenge: Assessing Heterogeneous Histopathologic Brain Tumor Sub-regions**|Spyridon Bakas et.al.|[2405.10871](http://arxiv.org/abs/2405.10871)|null|
+|**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|null|
+|**2024-05-17**|**Automated Radiology Report Generation: A Review of Recent Advances**|Phillip Sloan et.al.|[2405.10842](http://arxiv.org/abs/2405.10842)|null|
+|**2024-05-17**|**Automatic segmentation of Organs at Risk in Head and Neck cancer patients from CT and MRI scans**|Sébastien Quetin et.al.|[2405.10833](http://arxiv.org/abs/2405.10833)|null|
+|**2024-05-17**|**A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability**|Abdul Rehman et.al.|[2405.10803](http://arxiv.org/abs/2405.10803)|null|
+|**2024-05-17**|**Evaluating Saliency Explanations in NLP by Crowdsourcing**|Xiaotian Lu et.al.|[2405.10767](http://arxiv.org/abs/2405.10767)|**[link](https://github.com/xtlu/lreccoling_evaluation)**|
+|**2024-05-17**|**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems**|Hanyu Chen et.al.|[2405.10748](http://arxiv.org/abs/2405.10748)|**[link](https://github.com/hanyu-chen373/deepdataconsistency)**|
+|**2024-05-17**|**Eddeep: Fast eddy-current distortion correction for diffusion MRI with deep learning**|Antoine Legouhy et.al.|[2405.10723](http://arxiv.org/abs/2405.10723)|null|
+|**2024-05-17**|**Identifying L-H transition in HL-2A through deep learning**|Meihuizi He et.al.|[2405.10676](http://arxiv.org/abs/2405.10676)|null|
+|**2024-05-17**|**ECATS: Explainable-by-design concept-based anomaly detection for time series**|Irene Ferfoglia et.al.|[2405.10608](http://arxiv.org/abs/2405.10608)|null|
+|**2024-05-17**|**A Hybrid Deep Learning Framework for Stock Price Prediction Considering the Investor Sentiment of Online Forum Enhanced by Popularity**|Huiyu Li et.al.|[2405.10584](http://arxiv.org/abs/2405.10584)|null|
+|**2024-05-17**|**Simultaneous Deep Learning of Myocardium Segmentation and T2 Quantification for Acute Myocardial Infarction MRI**|Yirong Zhou et.al.|[2405.10570](http://arxiv.org/abs/2405.10570)|null|
+|**2024-05-17**|**Infrared Image Super-Resolution via Lightweight Information Split Network**|Shijie Liu et.al.|[2405.10561](http://arxiv.org/abs/2405.10561)|null|
+|**2024-05-17**|**Revealing the Trade-off in ISAC Systems: The KL Divergence Perspective**|Zesong Fei et.al.|[2405.10553](http://arxiv.org/abs/2405.10553)|null|
+|**2024-05-17**|**LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion**|Tong Chen et.al.|[2405.10550](http://arxiv.org/abs/2405.10550)|**[link](https://github.com/davismeee/lightdiff)**|
+|**2024-05-17**|**Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network**|Junhui Li et.al.|[2405.10518](http://arxiv.org/abs/2405.10518)|null|
+|**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
+|**2024-05-17**|**A Deep Learning Approach to Heterogeneous Consumer Aesthetics in Retail Fashion**|Pranjal Rawat et.al.|[2405.10498](http://arxiv.org/abs/2405.10498)|null|
+|**2024-05-17**|**Automatic News Generation and Fact-Checking System Based on Language Processing**|Xirui Peng et.al.|[2405.10492](http://arxiv.org/abs/2405.10492)|null|
+|**2024-05-16**|**Region-level labels in ice charts can produce pixel-level segmentation for Sea Ice types**|Muhammed Patel et.al.|[2405.10456](http://arxiv.org/abs/2405.10456)|null|
+|**2024-05-16**|**Data Selection for Transfer Unlearning**|Nazanin Mohammadi Sepahvand et.al.|[2405.10425](http://arxiv.org/abs/2405.10425)|null|
+|**2024-05-16**|**RGB Guided ToF Imaging System: A Survey of Deep Learning-based Methods**|Xin Qiao et.al.|[2405.10357](http://arxiv.org/abs/2405.10357)|null|
+|**2024-05-16**|**Networking Systems for Video Anomaly Detection: A Tutorial and Survey**|Jing Liu et.al.|[2405.10347](http://arxiv.org/abs/2405.10347)|**[link](https://github.com/fdjingliu/nsvad)**|
 |**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**Biasing & Debiasing based Approach Towards Fair Knowledge Transfer for Equitable Skin Analysis**|Anshul Pundhir et.al.|[2405.10256](http://arxiv.org/abs/2405.10256)|null|
 |**2024-05-15**|**Comparative Analysis of Predicting Subsequent Steps in Hénon Map**|Vismaya V S et.al.|[2405.10190](http://arxiv.org/abs/2405.10190)|null|
