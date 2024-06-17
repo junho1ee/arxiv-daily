@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -510,7 +510,7 @@ layout: default
 |**2024-06-04**|**Molecular-Resolution Imaging of Ice Crystallized from Liquid Water**|Jingshan S. Du et.al.|[2406.00915](http://arxiv.org/abs/2406.00915)|null|
 |**2024-06-01**|**Molecular Modelling of Aqueous Batteries**|Alicia van Hees et.al.|[2406.00468](http://arxiv.org/abs/2406.00468)|null|
 |**2024-06-01**|**Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes**|Ganesh K Rajahmundry et.al.|[2406.00270](http://arxiv.org/abs/2406.00270)|null|
-|**2024-05-31**|**Quantum Molecular Charge-Transfer Model for Multi-step Auger-Meitner Decay Cascade Dynamics**|Adam E. A. Fouda et.al.|[2406.00201](http://arxiv.org/abs/2406.00201)|null|
+|**2024-06-14**|**Quantum Molecular Charge-Transfer Model for Multi-step Auger-Meitner Decay Cascade Dynamics**|Adam E. A. Fouda et.al.|[2406.00201](http://arxiv.org/abs/2406.00201)|null|
 |**2024-05-31**|**Collective Variable Free Transition Path Sampling with Generative Flow Network**|Kiyoung Seong et.al.|[2405.19961](http://arxiv.org/abs/2405.19961)|null|
 |**2024-05-29**|**Thermomechanical properties of zero thermal expansion materials from theory and experiments**|Andreas Erlebach et.al.|[2405.19378](http://arxiv.org/abs/2405.19378)|null|
 |**2024-06-04**|**Quantum Tunneling Could Enable Proton Transfer Reactions on Titan**|Henry W. Longo et.al.|[2405.19195](http://arxiv.org/abs/2405.19195)|null|
@@ -563,7 +563,7 @@ layout: default
 |**2024-04-26**|**Simulating Crystallization in a Colloidal System Using State Predictive Information Bottleneck based Enhanced Sampling**|Vanessa J. Meraz et.al.|[2404.17722](http://arxiv.org/abs/2404.17722)|null|
 |**2024-04-25**|**Dichalcogenides and difulfides nanostructures for hydrogen storage**|Flavio Bento de Oliveira et.al.|[2404.16761](http://arxiv.org/abs/2404.16761)|null|
 |**2024-04-25**|**Stochastic Dissipative Euler's equations for a free body**|J. A. de la Torre et.al.|[2404.16613](http://arxiv.org/abs/2404.16613)|null|
-|**2024-04-25**|**Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe**|Arshad Mehmood et.al.|[2404.16568](http://arxiv.org/abs/2404.16568)|null|
+|**2024-06-13**|**Simulating Ultrafast Transient Absorption Spectra from First Principles using a Time-Dependent Configuration Interaction Probe**|Arshad Mehmood et.al.|[2404.16568](http://arxiv.org/abs/2404.16568)|null|
 |**2024-06-05**|**Elastic properties of three-dimensional Yukawa or dust-crystals from molecular dynamic simulations**|Sandeep Kumar et.al.|[2404.16335](http://arxiv.org/abs/2404.16335)|null|
 |**2024-05-14**|**Entropic signature of resonant thermal transport: Ordered form of heat conduction**|Albert Beardo et.al.|[2404.15831](http://arxiv.org/abs/2404.15831)|null|
 |**2024-05-07**|**Thermal boundary conductance and thermal conductivity strongly depend on nearby environment**|Khalid Zobaid Adnan et.al.|[2404.15439](http://arxiv.org/abs/2404.15439)|null|
@@ -718,7 +718,7 @@ layout: default
 |**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
 |**2024-06-13**|**Active Inference Meeting Energy-Efficient Control of Parallel and Identical Machines**|Yavar Taheri Yeganeh et.al.|[2406.09322](http://arxiv.org/abs/2406.09322)|null|
 |**2024-06-13**|**You Don't Need Data-Augmentation in Self-Supervised Learning**|Théo Moutakanni et.al.|[2406.09294](http://arxiv.org/abs/2406.09294)|null|
-|**2024-06-13**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
+|**2024-06-14**|**Generative Inverse Design of Crystal Structures via Diffusion Models with Transformers**|Izumi Takahara et.al.|[2406.09263](http://arxiv.org/abs/2406.09263)|null|
 |**2024-06-13**|**SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution**|Soufiane Belharbi et.al.|[2406.09168](http://arxiv.org/abs/2406.09168)|**[link](https://github.com/sbelharbi/sr-caco-2)**|
 |**2024-06-13**|**Vision Transformer Segmentation for Visual Bird Sound Denoising**|Sahil Kumar et.al.|[2406.09167](http://arxiv.org/abs/2406.09167)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
@@ -728,7 +728,7 @@ layout: default
 |**2024-06-11**|**ExioML: Eco-economic dataset for Machine Learning in Global Sectoral Sustainability**|Yanming Guo et.al.|[2406.09046](http://arxiv.org/abs/2406.09046)|null|
 |**2024-06-13**|**E(2)-Equivariant Features in Machine Learning for Morphological Classification of Radio Galaxies**|Natalie E. P. Lines et.al.|[2406.09024](http://arxiv.org/abs/2406.09024)|null|
 |**2024-06-13**|**Schur's Positive-Definite Network: Deep Learning in the SPD cone with structure**|Can Pouliquen et.al.|[2406.09023](http://arxiv.org/abs/2406.09023)|null|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
+|**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-13**|**Finite-temperature properties of antiferroelectric perovskite $\rm PbZrO_3$ from deep learning interatomic potential**|Huazhang Zhang et.al.|[2406.09011](http://arxiv.org/abs/2406.09011)|null|
 |**2024-06-13**|**Privacy Aware Memory Forensics**|Janardhan Kalikiri et.al.|[2406.09005](http://arxiv.org/abs/2406.09005)|null|
 |**2024-06-13**|**Tool Wear Prediction in CNC Turning Operations using Ultrasonic Microphone Arrays and CNNs**|Jan Steckel et.al.|[2406.08957](http://arxiv.org/abs/2406.08957)|null|
@@ -803,7 +803,7 @@ layout: default
 |**2024-06-10**|**Synthetic Face Ageing: Evaluation, Analysis and Facilitation of Age-Robust Facial Recognition Algorithms**|Wang Yao et.al.|[2406.06932](http://arxiv.org/abs/2406.06932)|null|
 |**2024-06-11**|**Developing, Analyzing, and Evaluating Vehicular Lane Keeping Algorithms Under Dynamic Lighting and Weather Conditions Using Electric Vehicles**|Michael Khalfin et.al.|[2406.06899](http://arxiv.org/abs/2406.06899)|null|
 |**2024-06-11**|**Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot**|Zixuan Wang et.al.|[2406.06893](http://arxiv.org/abs/2406.06893)|null|
-|**2024-06-12**|**FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion**|Liwen Chang et.al.|[2406.06858](http://arxiv.org/abs/2406.06858)|null|
+|**2024-06-14**|**FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion**|Li-Wen Chang et.al.|[2406.06858](http://arxiv.org/abs/2406.06858)|null|
 |**2024-06-10**|**A Multi-module Robust Method for Transient Stability Assessment against False Label Injection Cyberattacks**|Hanxuan Wang et.al.|[2406.06744](http://arxiv.org/abs/2406.06744)|null|
 |**2024-06-10**|**Leveraging Large Language Models for Knowledge-free Weak Supervision in Clinical Natural Language Processing**|Enshuo Hsu et.al.|[2406.06723](http://arxiv.org/abs/2406.06723)|null|
 |**2024-06-10**|**Video-based Exercise Classification and Activated Muscle Group Prediction with Hybrid X3D-SlowFast Network**|Manvik Pasula et.al.|[2406.06703](http://arxiv.org/abs/2406.06703)|null|
