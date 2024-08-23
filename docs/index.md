@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -937,7 +937,7 @@ layout: default
 |**2024-08-20**|**Vision Calorimeter for Anti-neutron Reconstruction: A Baseline**|Hongtian Yu et.al.|[2408.10599](http://arxiv.org/abs/2408.10599)|**[link](https://github.com/yuhongtian17/vic)**|
 |**2024-08-20**|**Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking**|Tutian Tang et.al.|[2408.10562](http://arxiv.org/abs/2408.10562)|null|
 |**2024-08-20**|**Forecasting seasonal rainfall in SE Australia using Empirical Orthogonal Functions and Neural Networks**|Stjepan Marcelja et.al.|[2408.10550](http://arxiv.org/abs/2408.10550)|null|
-|**2024-08-21**|**Automated Detection of Algorithm Debt in Deep Learning Frameworks: An Empirical Study**|Emmanuel Iko-Ojo Simon et.al.|[2408.10529](http://arxiv.org/abs/2408.10529)|null|
+|**2024-08-22**|**Automated Detection of Algorithm Debt in Deep Learning Frameworks: An Empirical Study**|Emmanuel Iko-Ojo Simon et.al.|[2408.10529](http://arxiv.org/abs/2408.10529)|null|
 |**2024-08-20**|**BAUST Lipi: A BdSL Dataset with Deep Learning Based Bangla Sign Language Recognition**|Md Hadiuzzaman et.al.|[2408.10518](http://arxiv.org/abs/2408.10518)|null|
 |**2024-08-20**|**Cervical Cancer Detection Using Multi-Branch Deep Learning Model**|Tatsuhiro Baba et.al.|[2408.10498](http://arxiv.org/abs/2408.10498)|null|
 |**2024-08-19**|**Parkinson's Disease Classification via EEG: All You Need is a Single Convolutional Layer**|Md Fahim Anjum et.al.|[2408.10457](http://arxiv.org/abs/2408.10457)|null|
