@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -358,7 +358,7 @@ layout: default
 |**2022-05-01**|**Conditional $β$ -VAE for De Novo Molecular Generation**|Ryan J Richards et.al.|[2205.01592](http://arxiv.org/abs/2205.01592)|null|
 |**2022-06-16**|**Equivariant Diffusion for Molecule Generation in 3D**|Emiel Hoogeboom et.al.|[2203.17003](http://arxiv.org/abs/2203.17003)|**[link](https://github.com/ehoogeboom/e3_diffusion_for_molecules)**|
 |**2022-03-15**|**Data-Efficient Graph Grammar Learning for Molecular Generation**|Minghao Guo et.al.|[2203.08031](http://arxiv.org/abs/2203.08031)|**[link](https://github.com/gmh14/data_efficient_grammar)**|
-|**2022-02-14**|**Disentangle VAE for Molecular Generation**|Yanbo Wang et.al.|[2202.06794](http://arxiv.org/abs/2202.06794)|null|
+|**2024-08-23**|**Disentangle VAE for Molecular Generation**|Yanbo Wang et.al.|[2202.06794](http://arxiv.org/abs/2202.06794)|null|
 |**2022-10-21**|**Target-aware Molecular Graph Generation**|Cheng Tan et.al.|[2202.04829](http://arxiv.org/abs/2202.04829)|null|
 |**2022-01-28**|**FastFlows: Flow-Based Models for Molecular Graph Generation**|Nathan C. Frey et.al.|[2201.12419](http://arxiv.org/abs/2201.12419)|**[link](https://github.com/aspuru-guzik-group/selfies)**|
 |**2022-01-28**|**Biases in In Silico Evaluation of Molecular Optimization Methods and Bias-Reduced Evaluation Methodology**|Hiroshi Kajino et.al.|[2201.12163](http://arxiv.org/abs/2201.12163)|null|
