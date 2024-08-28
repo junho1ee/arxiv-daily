@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -271,7 +271,7 @@ layout: default
 |**2024-08-18**|**Crossing New Frontiers: Knowledge-Augmented Large Language Model Prompting for Zero-Shot Text-Based De Novo Molecule Design**|Sakhinana Sagar Srinivas et.al.|[2408.11866](http://arxiv.org/abs/2408.11866)|null|
 |**2024-08-17**|**Fragment-Masked Molecular Optimization**|Kun Li et.al.|[2408.09106](http://arxiv.org/abs/2408.09106)|null|
 |**2024-08-16**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|V Shreyas et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
-|**2024-07-29**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
+|**2024-08-26**|**Closure to the PRISM equation derived from nonlinear response theory**|James P. Donley et.al.|[2407.20392](http://arxiv.org/abs/2407.20392)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
 |**2024-07-20**|**Diff4VS: HIV-inhibiting Molecules Generation with Classifier Guidance Diffusion for Virtual Screening**|Jiaqing Lyu et.al.|[2407.15880](http://arxiv.org/abs/2407.15880)|null|
 |**2024-07-19**|**Decomposed Direct Preference Optimization for Structure-Based Drug Design**|Xiwei Cheng et.al.|[2407.13981](http://arxiv.org/abs/2407.13981)|null|
