@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -985,7 +985,7 @@ layout: default
 |**2024-09-02**|**A practical generalization metric for deep networks benchmarking**|Mengqing Huang et.al.|[2409.01498](http://arxiv.org/abs/2409.01498)|null|
 |**2024-09-02**|**Estimating Heterogenous Treatment Effects for Survival Data with Doubly Doubly Robust Estimator**|Guanghui Pan et.al.|[2409.01412](http://arxiv.org/abs/2409.01412)|null|
 |**2024-09-02**|**VLSI Hypergraph Partitioning with Deep Learning**|Muhammad Hadir Khan et.al.|[2409.01387](http://arxiv.org/abs/2409.01387)|null|
-|**2024-09-02**|**Explanation Space: A New Perspective into Time Series Interpretability**|Shahbaz Rezaei et.al.|[2409.01354](http://arxiv.org/abs/2409.01354)|null|
+|**2024-09-05**|**Explanation Space: A New Perspective into Time Series Interpretability**|Shahbaz Rezaei et.al.|[2409.01354](http://arxiv.org/abs/2409.01354)|null|
 |**2024-09-02**|**Spectron: Target Speaker Extraction using Conditional Transformer with Adversarial Refinement**|Tathagata Bandyopadhyay et.al.|[2409.01352](http://arxiv.org/abs/2409.01352)|null|
 |**2024-09-02**|**Pediatric brain tumor classification using digital histopathology and deep learning: evaluation of SOTA methods on a multi-center Swedish cohort**|Iulian Emil Tampu et.al.|[2409.01330](http://arxiv.org/abs/2409.01330)|null|
 |**2024-09-02**|**Multi-frequency Neural Born Iterative Method for Solving 2-D Inverse Scattering Problems**|Daoqi Liu et.al.|[2409.01315](http://arxiv.org/abs/2409.01315)|null|
@@ -4008,7 +4008,7 @@ layout: default
 |**2024-03-15**|**Simplicial Representation Learning with Neural $k$ -Forms**|Kelly Maggs et.al.|[2312.08515](http://arxiv.org/abs/2312.08515)|**[link](https://github.com/aidos-lab/neural-k-forms)**|
 |**2024-07-12**|**3DReact: Geometric deep learning for chemical reactions**|Puck van Gerwen et.al.|[2312.08307](http://arxiv.org/abs/2312.08307)|null|
 |**2024-04-25**|**Stochastic Nash evolution**|Dominik Inauen et.al.|[2312.06541](http://arxiv.org/abs/2312.06541)|null|
-|**2023-12-06**|**Geometric Deep Learning Towards the Iterative Classification of Graph-Based Aircraft Thermal Management Systems**|Anthony Sirico Jr. et.al.|[2312.03270](http://arxiv.org/abs/2312.03270)|null|
+|**2024-09-05**|**Iterative Classification of Graph-Set-Based Designs (IC-GSBD) for the Down-Selection of Aircraft Thermal Management Systems**|Anthony Sirico Jr. et.al.|[2312.03270](http://arxiv.org/abs/2312.03270)|null|
 |**2023-11-30**|**Multi-scale Iterative Refinement towards Robust and Versatile Molecular Docking**|Jiaxian Yan et.al.|[2311.18574](http://arxiv.org/abs/2311.18574)|null|
 |**2023-11-21**|**Unsupervised Multimodal Surface Registration with Geometric Deep Learning**|Mohamed A. Suliman et.al.|[2311.13022](http://arxiv.org/abs/2311.13022)|**[link](https://github.com/mohamedasuliman/geomorph)**|
 |**2023-11-01**|**Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods**|Minsi Ren et.al.|[2311.12035](http://arxiv.org/abs/2311.12035)|null|
