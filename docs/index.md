@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -932,7 +932,7 @@ layout: default
 |**2024-09-06**|**Enhancing Skin Lesion Diagnosis with Ensemble Learning**|Xiaoyi Liu et.al.|[2409.04381](http://arxiv.org/abs/2409.04381)|null|
 |**2024-09-06**|**The Impact of Scanner Domain Shift on Deep Learning Performance in Medical Imaging: an Experimental Study**|Gregory Szumel et.al.|[2409.04368](http://arxiv.org/abs/2409.04368)|null|
 |**2024-09-06**|**Fast Adaptation for Deep Learning-based Wireless Communications**|Ouya Wang et.al.|[2409.04302](http://arxiv.org/abs/2409.04302)|null|
-|**2024-09-06**|**CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis**|William Knottenbelt et.al.|[2409.04290](http://arxiv.org/abs/2409.04290)|null|
+|**2024-09-06**|**CoxKAN: Kolmogorov-Arnold Networks for Interpretable, High-Performance Survival Analysis**|William Knottenbelt et.al.|[2409.04290](http://arxiv.org/abs/2409.04290)|**[link](https://github.com/knottwill/CoxKAN)**|
 |**2024-09-06**|**Cycle Pixel Difference Network for Crisp Edge Detection**|Changsong Liu et.al.|[2409.04272](http://arxiv.org/abs/2409.04272)|null|
 |**2024-09-06**|**WarpAdam: A new Adam optimizer based on Meta-Learning approach**|Chengxi Pan et.al.|[2409.04244](http://arxiv.org/abs/2409.04244)|null|
 |**2024-09-06**|**MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection**|Yubiao Yue et.al.|[2409.04218](http://arxiv.org/abs/2409.04218)|**[link](https://github.com/yubiaoyue/mpoxmamba)**|
