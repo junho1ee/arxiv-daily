@@ -24,7 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-16**|**Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators**|Thomas P. Fay et.al.|[2409.10483](http://arxiv.org/abs/2409.10483)|null|
+|**2024-09-16**|**Efficient polarizable QM/MM using the direct reaction field Hamiltonian with electrostatic potential fitted multipole operators**|Thomas P. Fay et.al.|[2409.10483](http://arxiv.org/abs/2409.10483)|**[link](https://github.com/tomfay/pyespf)**|
 |**2024-09-12**|**Measuring the limit of perception of bond stiffness of interactive molecules in VR via a gamified psychophysics experiment**|Rhoslyn Roebuck Williams et.al.|[2409.07836](http://arxiv.org/abs/2409.07836)|null|
 |**2024-09-05**|**A Molecular Communication Perspective of Alzheimer's Disease: Impact of Amyloid Beta Oligomers on Glutamate Diffusion in the Synaptic Cleft**|Nayereh FallahBagheri et.al.|[2409.03396](http://arxiv.org/abs/2409.03396)|null|
 |**2024-09-01**|**DNA transport is topologically sculpted by active microtubule dynamics**|Dylan P. McCuskey et.al.|[2409.00569](http://arxiv.org/abs/2409.00569)|null|
@@ -102,7 +102,7 @@
 |**2023-08-10**|**Fokker-Planck-Poisson kinetics: Multi-phase flow beyond equilibrium**|Mohsen Sadr et.al.|[2308.05580](http://arxiv.org/abs/2308.05580)|null|
 |**2024-06-04**|**Stochastic Metholodgy Shows Molecular Interactions Protect 2D Polaritons**|Nadine Bradbury et.al.|[2308.04385](http://arxiv.org/abs/2308.04385)|null|
 |**2024-01-18**|**Coherent electron-vibron interactions in Surface-Enhanced Raman Scattering (SERS)**|Miguel A. Martínez-García et.al.|[2307.16859](http://arxiv.org/abs/2307.16859)|null|
-|**2023-07-31**|**On the kinetic description of the objective molecular dynamics**|Richard D. James et.al.|[2307.16814](http://arxiv.org/abs/2307.16814)|null|
+|**2024-09-23**|**On the kinetic description of the objective molecular dynamics**|Richard D. James et.al.|[2307.16814](http://arxiv.org/abs/2307.16814)|null|
 |**2024-03-16**|**Hadronic structure on the light-front VIII. Light scalar and vector mesons**|Wei-Yang Liu et.al.|[2307.16302](http://arxiv.org/abs/2307.16302)|null|
 |**2023-07-26**|**Can spin-component scaled MP2 achieve kJ/mol accuracy for cohesive energies of molecular crystals?**|Yu Hsuan Liang et.al.|[2307.14514](http://arxiv.org/abs/2307.14514)|null|
 |**2023-07-26**|**Establishing Magnetic Coupling in Spin-crossover-2D Hybrid Nanostructures via Interfacial Charge-transfer Interaction**|Shatabda Bhattacharya et.al.|[2307.14135](http://arxiv.org/abs/2307.14135)|null|
@@ -469,7 +469,7 @@
 |**2024-09-01**|**ApisTox: a new benchmark dataset for the classification of small molecules toxicity on honey bees**|Jakub Adamczyk et.al.|[2404.16196](http://arxiv.org/abs/2404.16196)|**[link](https://github.com/j-adamczyk/apistox_dataset)**|
 |**2024-04-20**|**Transfer Learning for Molecular Property Predictions from Small Data Sets**|Thorren Kirschbaum et.al.|[2404.13393](http://arxiv.org/abs/2404.13393)|null|
 |**2024-04-05**|**Transformers for molecular property prediction: Lessons learned from the past five years**|Afnan Sultan et.al.|[2404.03969](http://arxiv.org/abs/2404.03969)|**[link](https://github.com/volkamerlab/transformers4mpp_review)**|
-|**2024-08-07**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
+|**2024-09-23**|**Generalizable, Fast, and Accurate DeepQSPR with fastprop**|Jackson Burns et.al.|[2404.02058](http://arxiv.org/abs/2404.02058)|**[link](https://github.com/jacksonburns/fastprop)**|
 |**2024-03-27**|**A Python library for efficient computation of molecular fingerprints**|Michał Szafarczyk et.al.|[2403.19718](http://arxiv.org/abs/2403.19718)|**[link](https://github.com/arch4ngel21/scikit-fingerprints)**|
 |**2024-03-10**|**Sort & Slice: A Simple and Superior Alternative to Hash-Based Folding for Extended-Connectivity Fingerprints**|Markus Dablander et.al.|[2403.17954](http://arxiv.org/abs/2403.17954)|null|
 |**2024-02-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al.|[2402.13577](http://arxiv.org/abs/2402.13577)|null|
@@ -995,7 +995,7 @@
 |**2024-09-19**|**Adaptive Selection of Sampling-Reconstruction in Fourier Compressed Sensing**|Seongmin Hong et.al.|[2409.11738](http://arxiv.org/abs/2409.11738)|null|
 |**2024-09-18**|**Detecting Underdiagnosed Medical Conditions with Deep Learning-Based Opportunistic CT Imaging**|Asad Aali et.al.|[2409.11686](http://arxiv.org/abs/2409.11686)|null|
 |**2024-09-19**|**WALLABY Pilot Survey: HI source-finding with a machine learning framework**|Li Wang et.al.|[2409.11668](http://arxiv.org/abs/2409.11668)|null|
-|**2024-09-18**|**GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
+|**2024-09-21**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
 |**2024-09-18**|**Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection**|Qian Shao et.al.|[2409.11653](http://arxiv.org/abs/2409.11653)|null|
 |**2024-09-18**|**Relax DARTS: Relaxing the Constraints of Differentiable Architecture Search for Eye Movement Recognition**|Hongyu Zhu et.al.|[2409.11652](http://arxiv.org/abs/2409.11652)|null|
 |**2024-09-17**|**DiffESM: Conditional Emulation of Temperature and Precipitation in Earth System Models with 3D Diffusion Models**|Seth Bassetti et.al.|[2409.11601](http://arxiv.org/abs/2409.11601)|null|
@@ -1009,10 +1009,10 @@
 |**2024-09-17**|**Golden Ratio Search: A Low-Power Adversarial Attack for Deep Learning based Modulation Classification**|Deepsayan Sadhukhan et.al.|[2409.11454](http://arxiv.org/abs/2409.11454)|null|
 |**2024-09-20**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438](http://arxiv.org/abs/2409.11438)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
 |**2024-09-17**|**Multi-OCT-SelfNet: Integrating Self-Supervised Learning with Multi-Source Data Fusion for Enhanced Multi-Class Retinal Disease Classification**|Fatema-E- Jannat et.al.|[2409.11375](http://arxiv.org/abs/2409.11375)|null|
-|**2024-09-18**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|null|
+|**2024-09-18**|**Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions**|Ninghan Zhong et.al.|[2409.11326](http://arxiv.org/abs/2409.11326)|**[link](https://github.com/ivaniz/predictive-asv-planner)**|
 |**2024-09-17**|**SOAP: Improving and Stabilizing Shampoo using Adam**|Nikhil Vyas et.al.|[2409.11321](http://arxiv.org/abs/2409.11321)|**[link](https://github.com/nikhilvyas/soap)**|
 |**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
-|**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|null|
+|**2024-09-17**|**Generalized Few-Shot Semantic Segmentation in Remote Sensing: Challenge and Benchmark**|Clifford Broni-Bediako et.al.|[2409.11227](http://arxiv.org/abs/2409.11227)|**[link](https://github.com/cliffbb/oem-fewshot-challenge)**|
 |**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223](http://arxiv.org/abs/2409.11223)|null|
 |**2024-09-16**|**Deep Learning tools to support deforestation monitoring in the Ivory Coast using SAR and Optical satellite imagery**|Gabriele Sartor et.al.|[2409.11186](http://arxiv.org/abs/2409.11186)|null|
 |**2024-09-17**|**Identifying Influential nodes in Brain Networks via Self-Supervised Graph-Transformer**|Yanqing Kang et.al.|[2409.11174](http://arxiv.org/abs/2409.11174)|null|
