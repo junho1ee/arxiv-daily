@@ -698,7 +698,7 @@
 |**2024-07-30**|**Multi-GPU RI-HF Energies and Analytic Gradients $-$ Towards High Throughput Ab Initio Molecular Dynamics**|Ryan Stocks et.al.|[2407.19614](http://arxiv.org/abs/2407.19614)|null|
 |**2024-07-27**|**Mesoscale properties of biomolecular condensates emerging from protein chain dynamics**|Nicola Galvanetto et.al.|[2407.19202](http://arxiv.org/abs/2407.19202)|null|
 |**2024-07-27**|**Effect of lattice relaxation on electronic spectra of helically twisted trilayer graphene: Large-scale atomistic simulation approach**|Joonho Jang et.al.|[2407.19143](http://arxiv.org/abs/2407.19143)|null|
-|**2024-07-26**|**Modelling realistic clay systems with ClayCode**|Hannah Pollak et.al.|[2407.18882](http://arxiv.org/abs/2407.18882)|null|
+|**2024-07-26**|**Modelling realistic clay systems with ClayCode**|Hannah Pollak et.al.|[2407.18882](http://arxiv.org/abs/2407.18882)|**[link](https://github.com/erastova-group/claycode)**|
 |**2024-07-26**|**Structural Reorganizations and Nanodomain Emergence in Lipid Membrane Driven by Ionic Liquids**|J. Gupta et.al.|[2407.18706](http://arxiv.org/abs/2407.18706)|null|
 |**2024-07-26**|**Lattice distortion leads to glassy thermal transport in crystalline Cs $_3$Bi$_2$I$_6$Cl$_3$**|Zezhu Zeng et.al.|[2407.18510](http://arxiv.org/abs/2407.18510)|null|
 |**2024-07-25**|**Preserving Surface Strain in Nanocatalysts via Morphology Control**|Chuqiao Shi et.al.|[2407.18374](http://arxiv.org/abs/2407.18374)|null|
@@ -888,7 +888,7 @@
 |**2024-03-20**|**Spontaneous formation of Frenkel defects in high-entropy-alloys-type compound**|Rikuya Ishikawa et.al.|[2403.13323](http://arxiv.org/abs/2403.13323)|null|
 |**2024-03-19**|**Predicted Complex Lithium Phases at Terapascal Pressures**|Jack Whaley-Baldwin et.al.|[2403.13137](http://arxiv.org/abs/2403.13137)|null|
 |**2024-03-19**|**Elucidating the Nature of $π$ -hydrogen Bonding in Liquid Water and Ammonia**|Krystof Brezina et.al.|[2403.12937](http://arxiv.org/abs/2403.12937)|null|
-|**2024-03-18**|**Molecular dynamics simulation with finite electric fields using Perturbed Neural Network Potentials**|Kit Joll et.al.|[2403.12319](http://arxiv.org/abs/2403.12319)|null|
+|**2024-03-18**|**Molecular dynamics simulation with finite electric fields using Perturbed Neural Network Potentials**|Kit Joll et.al.|[2403.12319](http://arxiv.org/abs/2403.12319)|**[link](https://github.com/pschienbein/atomicpolartensor)**|
 |**2024-03-18**|**Quantifying the efficiency of principal signal transmission modes in proteins**|Anil Kumar Sahoo et.al.|[2403.12312](http://arxiv.org/abs/2403.12312)|null|
 |**2024-03-18**|**Grain Boundary Defect Production during Successive Displacement Cascades on a Tungsten Surface**|Yang Zhang et.al.|[2403.12261](http://arxiv.org/abs/2403.12261)|null|
 |**2024-03-18**|**Primary Defect Production in Doped Iron Grain Boundaries during Low Energy Collision Cascades**|Yang Zhang et.al.|[2403.12257](http://arxiv.org/abs/2403.12257)|null|
@@ -1283,13 +1283,13 @@
 |**2024-09-13**|**Are Sparse Neural Networks Better Hard Sample Learners?**|Qiao Xiao et.al.|[2409.09196](http://arxiv.org/abs/2409.09196)|null|
 |**2024-09-13**|**Hierarchical Hypercomplex Network for Multimodal Emotion Recognition**|Eleonora Lopez et.al.|[2409.09194](http://arxiv.org/abs/2409.09194)|**[link](https://github.com/ispamm/mhyeeg)**|
 |**2024-09-13**|**FiAt-Net: Detecting Fibroatheroma Plaque Cap in 3D Intravascular OCT Images**|Yaopeng Peng et.al.|[2409.09188](http://arxiv.org/abs/2409.09188)|null|
-|**2024-09-13**|**MambaFoley: Foley Sound Generation using Selective State-Space Models**|Marco Furio Colombo et.al.|[2409.09162](http://arxiv.org/abs/2409.09162)|null|
+|**2024-09-13**|**MambaFoley: Foley Sound Generation using Selective State-Space Models**|Marco Furio Colombo et.al.|[2409.09162](http://arxiv.org/abs/2409.09162)|**[link](https://github.com/furiocolombo/mamba-foley)**|
 |**2024-09-13**|**DomURLs_BERT: Pre-trained BERT-based Model for Malicious Domains and URLs Detection and Classification**|Abdelkader El Mahdaouy et.al.|[2409.09143](http://arxiv.org/abs/2409.09143)|**[link](https://github.com/AbdelkaderMH/DomURLs_BERT)**|
 |**2024-09-13**|**Trimming the Risk: Towards Reliable Continuous Training for Deep Learning Inspection Systems**|Altaf Allah Abbassi et.al.|[2409.09108](http://arxiv.org/abs/2409.09108)|null|
 |**2024-09-13**|**Recent Trends in Modelling the Continuous Time Series using Deep Learning: A Survey**|Mansura Habiba et.al.|[2409.09106](http://arxiv.org/abs/2409.09106)|null|
 |**2024-09-13**|**Measurability and continuity of parametric low-rank approximation in Hilbert spaces: linear operators and random variables**|Nicola Rares Franco et.al.|[2409.09102](http://arxiv.org/abs/2409.09102)|null|
 |**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
-|**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999](http://arxiv.org/abs/2409.08999)|null|
+|**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999](http://arxiv.org/abs/2409.08999)|**[link](https://github.com/jfagin/quasar_event_predictor)**|
 |**2024-09-13**|**Biomimetic Frontend for Differentiable Audio Processing**|Ruolan Leslie Famularo et.al.|[2409.08997](http://arxiv.org/abs/2409.08997)|**[link](https://github.com/pirl-lab/diffAudNeuro)**|
 |**2024-09-13**|**PINNfluence: Influence Functions for Physics-Informed Neural Networks**|Jonas R. Naujoks et.al.|[2409.08958](http://arxiv.org/abs/2409.08958)|**[link](https://github.com/aleks-krasowski/PINNfluence)**|
 |**2024-09-13**|**Optimization and Generalization Guarantees for Weight Normalization**|Pedro Cisneros-Velarde et.al.|[2409.08935](http://arxiv.org/abs/2409.08935)|null|
@@ -1305,7 +1305,7 @@
 |**2024-09-13**|**TapToTab : Video-Based Guitar Tabs Generation using AI and Audio Analysis**|Ali Ghaleb et.al.|[2409.08618](http://arxiv.org/abs/2409.08618)|null|
 |**2024-09-13**|**DualSep: A Light-weight dual-encoder convolutional recurrent network for real-time in-car speech separation**|Ziqian Wang et.al.|[2409.08610](http://arxiv.org/abs/2409.08610)|null|
 |**2024-09-13**|**Deep learning-based shot-domain seismic deblending**|Jing Sun et.al.|[2409.08602](http://arxiv.org/abs/2409.08602)|null|
-|**2024-09-16**|**Domain-Invariant Representation Learning of Bird Sounds**|Ilyass Moummad et.al.|[2409.08589](http://arxiv.org/abs/2409.08589)|null|
+|**2024-09-16**|**Domain-Invariant Representation Learning of Bird Sounds**|Ilyass Moummad et.al.|[2409.08589](http://arxiv.org/abs/2409.08589)|**[link](https://github.com/ilyassmoummad/ProtoCLR)**|
 |**2024-09-13**|**Learning Short Codes for Fading Channels with No or Receiver-Only Channel State Information**|Rishabh Sharad Pomaje et.al.|[2409.08581](http://arxiv.org/abs/2409.08581)|**[link](https://github.com/RishP11/Learning-Short-Codes-for-Fading-Channels-with-No-or-Receiver-Only-Channel-State-Information)**|
 |**2024-09-13**|**Integration of Mamba and Transformer -- MAT for Long-Short Range Time Series Forecasting with Application to Weather Dynamics**|Wenqing Zhang et.al.|[2409.08530](http://arxiv.org/abs/2409.08530)|null|
 |**2024-09-13**|**Deep Picard Iteration for High-Dimensional Nonlinear PDEs**|Jiequn Han et.al.|[2409.08526](http://arxiv.org/abs/2409.08526)|null|
@@ -1314,7 +1314,7 @@
 |**2024-09-13**|**PSTNet: Enhanced Polyp Segmentation with Multi-scale Alignment and Frequency Domain Integration**|Wenhao Xu et.al.|[2409.08501](http://arxiv.org/abs/2409.08501)|null|
 |**2024-09-13**|**Cross-conditioned Diffusion Model for Medical Image to Image Translation**|Zhaohu Xing et.al.|[2409.08500](http://arxiv.org/abs/2409.08500)|null|
 |**2024-09-13**|**An Intent Modeling and Inference Framework for Autonomous and Remotely Piloted Aerial Systems**|Kesav Kaza et.al.|[2409.08472](http://arxiv.org/abs/2409.08472)|null|
-|**2024-09-13**|**Evaluating the Quality of Brain MRI Generators**|Jiaqi Wu et.al.|[2409.08463](http://arxiv.org/abs/2409.08463)|null|
+|**2024-09-13**|**Evaluating the Quality of Brain MRI Generators**|Jiaqi Wu et.al.|[2409.08463](http://arxiv.org/abs/2409.08463)|**[link](https://github.com/jiaqiw01/MRIAnatEval)**|
 |**2024-09-12**|**Customized Mid-Air Gestures for Accessibility: A $B Recognizer for Multi-Dimensional Biosignal Gestures**|Momona Yamagami et.al.|[2409.08402](http://arxiv.org/abs/2409.08402)|null|
 |**2024-09-12**|**Higher-Order Topological Directionality and Directed Simplicial Neural Networks**|Manuel Lecha et.al.|[2409.08389](http://arxiv.org/abs/2409.08389)|**[link](https://github.com/andrea-cavallo-98/DirSNN)**|
 |**2024-09-12**|**Learned Compression for Images and Point Clouds**|Mateen Ulhaq et.al.|[2409.08376](http://arxiv.org/abs/2409.08376)|**[link](https://github.com/multimedialabsfu/learned-point-cloud-compression-for-classification)**|
@@ -1365,7 +1365,7 @@
 |**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
 |**2024-09-11**|**Current Symmetry Group Equivariant Convolution Frameworks for Representation Learning**|Ramzan Basheer et.al.|[2409.07327](http://arxiv.org/abs/2409.07327)|null|
 |**2024-09-11**|**ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel Electroencephalographic Signals**|Chun-Hsiang Chuang et.al.|[2409.07326](http://arxiv.org/abs/2409.07326)|null|
-|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|null|
+|**2024-09-11**|**Three-Dimensional, Multimodal Synchrotron Data for Machine Learning Applications**|Calum Green et.al.|[2409.07322](http://arxiv.org/abs/2409.07322)|**[link](https://github.com/calum-green/xct-xdrct_paper_code)**|
 |**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
 |**2024-09-11**|**Optimizing Neural Network Performance and Interpretability with Diophantine Equation Encoding**|Ronald Katende et.al.|[2409.07310](http://arxiv.org/abs/2409.07310)|null|
 |**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295](http://arxiv.org/abs/2409.07295)|null|
@@ -1471,7 +1471,7 @@
 |**2024-09-08**|**Quantum Geometric Machine Learning**|Elija Perrier et.al.|[2409.04955](http://arxiv.org/abs/2409.04955)|**[link](https://github.com/eperrier/quant-geom-machine-learning)**|
 |**2024-09-10**|**Deep Bayesian Active Learning-to-Rank with Relative Annotation for Estimation of Ulcerative Colitis Severity**|Takeaki Kadota et.al.|[2409.04952](http://arxiv.org/abs/2409.04952)|null|
 |**2024-09-08**|**Attention-Based Efficient Breath Sound Removal in Studio Audio Recordings**|Nidula Elgiriyewithana et.al.|[2409.04949](http://arxiv.org/abs/2409.04949)|null|
-|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|null|
+|**2024-09-08**|**Sparse learning enabled by constraints on connectivity and function**|Mirza M. Junaid Baig et.al.|[2409.04946](http://arxiv.org/abs/2409.04946)|**[link](https://github.com/neurogeometry/sparse_learning)**|
 |**2024-09-07**|**MoistNet: Machine Vision-based Deep Learning Models for Wood Chip Moisture Content Measurement**|Abdur Rahman et.al.|[2409.04920](http://arxiv.org/abs/2409.04920)|null|
 |**2024-09-07**|**Activation Function Optimization Scheme for Image Classification**|Abdur Rahman et.al.|[2409.04915](http://arxiv.org/abs/2409.04915)|**[link](https://github.com/abdurrahman1828/afos)**|
 |**2024-09-07**|**A Quantitative Approach for Evaluating Disease Focus and Interpretability of Deep Learning Models for Alzheimer's Disease Classification**|Thomas Yu Chow Tam et.al.|[2409.04888](http://arxiv.org/abs/2409.04888)|null|
@@ -1608,7 +1608,7 @@
 |**2024-09-02**|**Estimating Heterogenous Treatment Effects for Survival Data with Doubly Doubly Robust Estimator**|Guanghui Pan et.al.|[2409.01412](http://arxiv.org/abs/2409.01412)|null|
 |**2024-09-02**|**VLSI Hypergraph Partitioning with Deep Learning**|Muhammad Hadir Khan et.al.|[2409.01387](http://arxiv.org/abs/2409.01387)|null|
 |**2024-09-05**|**Explanation Space: A New Perspective into Time Series Interpretability**|Shahbaz Rezaei et.al.|[2409.01354](http://arxiv.org/abs/2409.01354)|**[link](https://github.com/shrezaei/ts-x-spaces)**|
-|**2024-09-02**|**Spectron: Target Speaker Extraction using Conditional Transformer with Adversarial Refinement**|Tathagata Bandyopadhyay et.al.|[2409.01352](http://arxiv.org/abs/2409.01352)|null|
+|**2024-09-02**|**Spectron: Target Speaker Extraction using Conditional Transformer with Adversarial Refinement**|Tathagata Bandyopadhyay et.al.|[2409.01352](http://arxiv.org/abs/2409.01352)|**[link](https://github.com/tatban/Spectron)**|
 |**2024-09-02**|**Pediatric brain tumor classification using digital histopathology and deep learning: evaluation of SOTA methods on a multi-center Swedish cohort**|Iulian Emil Tampu et.al.|[2409.01330](http://arxiv.org/abs/2409.01330)|null|
 |**2024-09-02**|**Multi-frequency Neural Born Iterative Method for Solving 2-D Inverse Scattering Problems**|Daoqi Liu et.al.|[2409.01315](http://arxiv.org/abs/2409.01315)|null|
 |**2024-09-02**|**Highly Accurate Real-space Electron Densities with Neural Networks**|Lixue Cheng et.al.|[2409.01306](http://arxiv.org/abs/2409.01306)|null|
@@ -1922,7 +1922,7 @@
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831](http://arxiv.org/abs/2408.10831)|null|
 |**2024-08-20**|**Deep Learning-based Classification of Dementia using Image Representation of Subcortical Signals**|Shivani Ranjan et.al.|[2408.10816](http://arxiv.org/abs/2408.10816)|null|
 |**2024-08-20**|**Inverse Deep Learning Ray Tracing for Heliostat Surface Prediction**|Jan Lewen et.al.|[2408.10802](http://arxiv.org/abs/2408.10802)|null|
-|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|null|
+|**2024-08-20**|**Detection of Intracranial Hemorrhage for Trauma Patients**|Antoine P. Sanner et.al.|[2408.10768](http://arxiv.org/abs/2408.10768)|**[link](https://github.com/MECLabTUDA/VoxelSceneGraph)**|
 |**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|**[link](https://github.com/dalqattan/sechfl)**|
 |**2024-08-20**|**Accelerated training of deep learning surrogate models for surface displacement and flow, with application to MCMC-based history matching of CO2 storage operations**|Yifu Han et.al.|[2408.10717](http://arxiv.org/abs/2408.10717)|null|
 |**2024-08-20**|**Coarse-to-Fine Detection of Multiple Seams for Robotic Welding**|Pengkun Wei et.al.|[2408.10710](http://arxiv.org/abs/2408.10710)|null|
@@ -2223,7 +2223,7 @@
 |**2024-06-13**|**NeRF Director: Revisiting View Selection in Neural Volume Rendering**|Wenhui Xiao et.al.|[2406.08839](http://arxiv.org/abs/2406.08839)|null|
 |**2024-06-13**|**Research on Optimization of Natural Language Processing Model Based on Multimodal Deep Learning**|Dan Sun et.al.|[2406.08838](http://arxiv.org/abs/2406.08838)|null|
 |**2024-06-13**|**Research on Deep Learning Model of Feature Extraction Based on Convolutional Neural Network**|Houze Liu et.al.|[2406.08837](http://arxiv.org/abs/2406.08837)|null|
-|**2024-06-13**|**Are we there yet? A brief survey of Music Emotion Prediction Datasets, Models and Outstanding Challenges**|Jaeyong Kang et.al.|[2406.08809](http://arxiv.org/abs/2406.08809)|null|
+|**2024-06-13**|**Are we there yet? A brief survey of Music Emotion Prediction Datasets, Models and Outstanding Challenges**|Jaeyong Kang et.al.|[2406.08809](http://arxiv.org/abs/2406.08809)|**[link](https://github.com/amaai-lab/awesome-mer)**|
 |**2024-06-13**|**Hybrid Spatial-spectral Neural Network for Hyperspectral Image Denoising**|Hao Liang et.al.|[2406.08782](http://arxiv.org/abs/2406.08782)|**[link](https://github.com/hlimg/hssd)**|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
 |**2024-06-13**|**VISinger2+: End-to-End Singing Voice Synthesis Augmented by Self-Supervised Learning Representation**|Yifeng Yu et.al.|[2406.08761](http://arxiv.org/abs/2406.08761)|null|
@@ -2779,7 +2779,7 @@
 |**2024-05-23**|**Magnetic Resonance Image Processing Transformer for General Reconstruction**|Guoyao Shen et.al.|[2405.15098](http://arxiv.org/abs/2405.15098)|null|
 |**2024-05-23**|**A Survey of Distributed Learning in Cloud, Mobile, and Edge Settings**|Madison Threadgill et.al.|[2405.15079](http://arxiv.org/abs/2405.15079)|null|
 |**2024-05-23**|**Temporal Stamp Classifier: Classifying Short Sequences of Astronomical Alerts**|Daniel Neira O. et.al.|[2405.15073](http://arxiv.org/abs/2405.15073)|null|
-|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|null|
+|**2024-05-23**|**Message-Passing Monte Carlo: Generating low-discrepancy point sets via Graph Neural Networks**|T. Konstantin Rusch et.al.|[2405.15059](http://arxiv.org/abs/2405.15059)|**[link](https://github.com/tk-rusch/mpmc)**|
 |**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario Döbler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|
 |**2024-05-23**|**Two-Stage ML-Guided Decision Rules for Sequential Decision Making under Uncertainty**|Andrew Rosemberg et.al.|[2405.14973](http://arxiv.org/abs/2405.14973)|null|
 |**2024-05-23**|**Universal Robustness via Median Randomized Smoothing for Real-World Super-Resolution**|Zakariya Chaouai et.al.|[2405.14934](http://arxiv.org/abs/2405.14934)|null|
@@ -4375,7 +4375,7 @@
 |**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
 |**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|**[link](https://github.com/yuboqiuab/multifunctional)**|
-|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|null|
+|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|**[link](https://github.com/azuma164/zodi)**|
 |**2024-03-20**|**Deep Learning and IACT: Bridging the gap between Monte-Carlo simulations and LST-1 data using domain adaptation**|Michael Dellaiera et.al.|[2403.13633](http://arxiv.org/abs/2403.13633)|null|
 |**2024-03-20**|**MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems**|Haotian Wu et.al.|[2403.13615](http://arxiv.org/abs/2403.13615)|null|
 |**2024-03-23**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
