@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -572,7 +572,7 @@ layout: default
 |**2024-09-26**|**Shock propagation following an intense explosion in an inhomogeneous gas: core scaling and hydrodynamics**|Amit Kumar et.al.|[2409.17799](http://arxiv.org/abs/2409.17799)|null|
 |**2024-09-26**|**Force Fields for Molecular Dynamics Simulations of Charged Dust Particles with Finite Size in Complex Plasmas**|N. Kh. Bastykova et.al.|[2409.17782](http://arxiv.org/abs/2409.17782)|null|
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
-|**2024-09-25**|**Flow of supercooled liquids under dipolar force field**|Kento Maeda et.al.|[2409.16725](http://arxiv.org/abs/2409.16725)|null|
+|**2024-09-27**|**Flow of supercooled liquids under dipolar force field**|Kento Maeda et.al.|[2409.16725](http://arxiv.org/abs/2409.16725)|null|
 |**2024-09-24**|**Machine learning potential for serpentines**|Hongjin Wang et.al.|[2409.16402](http://arxiv.org/abs/2409.16402)|null|
 |**2024-09-24**|**Kinetically Consistent Coarse Graining using Kernel-based Extended Dynamic Mode Decomposition**|Vahid Nateghi et.al.|[2409.16396](http://arxiv.org/abs/2409.16396)|null|
 |**2024-09-24**|**Tracing Ion Migration in Halide Perovskites with Machine Learned Force Fields**|Viren Tyagi et.al.|[2409.16051](http://arxiv.org/abs/2409.16051)|null|
