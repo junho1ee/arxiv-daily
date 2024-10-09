@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1021,7 +1021,7 @@ layout: default
 |**2024-10-06**|**Look Around and Find Out: OOD Detection with Relative Angles**|Berker Demirel et.al.|[2410.04525](http://arxiv.org/abs/2410.04525)|null|
 |**2024-10-06**|**Adjusting Pretrained Backbones for Performativity**|Berker Demirel et.al.|[2410.04499](http://arxiv.org/abs/2410.04499)|null|
 |**2024-10-06**|**Generalizability analysis of deep learning predictions of human brain responses to augmented and semantically novel visual stimuli**|Valentyn Piskovskyi et.al.|[2410.04497](http://arxiv.org/abs/2410.04497)|null|
-|**2024-10-06**|**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**|Zhaorui Tan et.al.|[2410.04492](http://arxiv.org/abs/2410.04492)|null|
+|**2024-10-06**|**Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification**|Zhaorui Tan et.al.|[2410.04492](http://arxiv.org/abs/2410.04492)|**[link](https://github.com/zhaorui-tan/L-Reg_NeurIPS24)**|
 |**2024-10-06**|**uDiG-DIP: Unrolled Diffusion-Guided Deep Image Prior For Medical Image Reconstruction**|Shijun Liang et.al.|[2410.04482](http://arxiv.org/abs/2410.04482)|null|
 |**2024-10-06**|**U-net based prediction of cerebrospinal fluid distribution and ventricular reflux grading**|Melanie Rieff et.al.|[2410.04460](http://arxiv.org/abs/2410.04460)|null|
 |**2024-10-06**|**A Comprehensive Framework for Analyzing the Convergence of Adam: Bridging the Gap with SGD**|Ruinan Jin et.al.|[2410.04458](http://arxiv.org/abs/2410.04458)|null|
