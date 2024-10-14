@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -585,7 +585,7 @@ layout: default
 |**2024-10-10**|**Homogeneous Nucleation of Undercooled Al-Ni melts via a Machine-Learned Interaction Potential**|Johannes Sandberg et.al.|[2410.07886](http://arxiv.org/abs/2410.07886)|null|
 |**2024-10-10**|**Porous carbon nitride fullerenes: a novel family of porous cage molecules**|Zacharias G. Fthenakis et.al.|[2410.07822](http://arxiv.org/abs/2410.07822)|null|
 |**2024-10-09**|**Thermal Nanoquakes: Terahertz Frequency Surface Rayleigh Waves in Diamond Nanocrystals**|Caleb Stamper et.al.|[2410.07480](http://arxiv.org/abs/2410.07480)|null|
-|**2024-10-09**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050](http://arxiv.org/abs/2410.07050)|null|
+|**2024-10-11**|**Unveiling the Face-Dependent Ice Growth Kinetics: Insights from Molecular Dynamics on the Basal and Prism Surfaces**|Jihong Shi et.al.|[2410.07050](http://arxiv.org/abs/2410.07050)|null|
 |**2024-10-07**|**Nanoconfined Water Phase Transitions in Infinite Graphene Slits: Molecular Dynamics Simulations and Mean-Field Insights**|Felipe Hawthorne et.al.|[2410.05053](http://arxiv.org/abs/2410.05053)|null|
 |**2024-10-07**|**Classical molecular dynamic simulation to assess the non-Maxwellian behavior of inverse bremsstrahlung heating in weakly coupled plasmas**|Ronan Devriendt et.al.|[2410.04945](http://arxiv.org/abs/2410.04945)|null|
 |**2024-10-05**|**Neutral polymer conformations with attractive bridging crowder interactions: role of crowder size**|Hitesh Garg et.al.|[2410.04113](http://arxiv.org/abs/2410.04113)|null|
