@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1092,7 +1092,7 @@ layout: default
 |**2024-10-09**|**On The Relationship between Visual Anomaly-free and Anomalous Representations**|Riya Sadrani et.al.|[2410.06576](http://arxiv.org/abs/2410.06576)|null|
 |**2024-10-09**|**Convex Distillation: Efficient Compression of Deep Networks via Convex Optimization**|Prateek Varshney et.al.|[2410.06567](http://arxiv.org/abs/2410.06567)|null|
 |**2024-10-10**|**DeepMuon: Accelerating Cosmic-Ray Muon Simulation Based on Optimal Transport**|Ao-Bo Wang et.al.|[2410.06539](http://arxiv.org/abs/2410.06539)|**[link](https://github.com/wangab0/deepmuon)**|
-|**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530](http://arxiv.org/abs/2410.06530)|**[link](https://github.com/pyt-team/TopoBenchmarkX)**|
+|**2024-10-11**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530](http://arxiv.org/abs/2410.06530)|**[link](https://github.com/pyt-team/TopoBenchmarkX)**|
 |**2024-10-09**|**Transformer-assisted Parametric CSI Feedback for mmWave Massive MIMO Systems**|Hyungyu Ju et.al.|[2410.06504](http://arxiv.org/abs/2410.06504)|null|
 |**2024-10-09**|**ERCache: An Efficient and Reliable Caching Framework for Large-Scale User Representations in Meta's Ads System**|Fang Zhou et.al.|[2410.06497](http://arxiv.org/abs/2410.06497)|null|
 |**2024-10-09**|**Detection of the solar internal flows with numerical simulation and machine learning**|Hiroyuki Masaki et.al.|[2410.06487](http://arxiv.org/abs/2410.06487)|**[link](https://github.com/HiroyukiMasaki/Solar_Interior)**|
