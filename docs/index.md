@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1075,7 +1075,7 @@ layout: default
 |**2024-10-13**|**LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition**|Huan Liu et.al.|[2410.09767](http://arxiv.org/abs/2410.09767)|**[link](https://github.com/buttersen/libeer)**|
 |**2024-10-13**|**Comparison of Machine Learning Approaches for Classifying Spinodal Events**|Ashwini Malviya et.al.|[2410.09756](http://arxiv.org/abs/2410.09756)|null|
 |**2024-10-13**|**EMWaveNet: Physically Explainable Neural Network Based on Microwave Propagation for SAR Target Recognition**|Zhuoxuan Li et.al.|[2410.09749](http://arxiv.org/abs/2410.09749)|null|
-|**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[2410.09731](http://arxiv.org/abs/2410.09731)|null|
+|**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[2410.09731](http://arxiv.org/abs/2410.09731)|**[link](https://github.com/Coding-Rod/crime_detection)**|
 |**2024-10-13**|**Learning from the past: predicting critical transitions with machine learning trained on surrogates of historical data**|Zhiqin Ma et.al.|[2410.09707](http://arxiv.org/abs/2410.09707)|**[link](https://github.com/zhiqinma/surrogate_data_based_machine_learning)**|
 |**2024-10-13**|**Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**|Dong Chen et.al.|[2410.09680](http://arxiv.org/abs/2410.09680)|null|
 |**2024-10-13**|**Uncovering Attacks and Defenses in Secure Aggregation for Federated Deep Learning**|Yiwei Zhang et.al.|[2410.09676](http://arxiv.org/abs/2410.09676)|null|
