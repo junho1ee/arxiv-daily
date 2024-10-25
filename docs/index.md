@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1092,7 +1092,7 @@ layout: default
 |**2024-10-22**|**A Deep Learning-Based Method for Metal Artifact-Resistant Syn-MP-RAGE Contrast Synthesis**|Ziyi Zeng et.al.|[2410.16817](http://arxiv.org/abs/2410.16817)|null|
 |**2024-10-22**|**Test-time Adversarial Defense with Opposite Adversarial Path and High Attack Time Cost**|Cheng-Han Yeh et.al.|[2410.16805](http://arxiv.org/abs/2410.16805)|null|
 |**2024-10-22**|**Efficient Frequency Selective Surface Analysis via End-to-End Model-Based Learning**|Cheima Hammami et.al.|[2410.16760](http://arxiv.org/abs/2410.16760)|null|
-|**2024-10-22**|**Optimal Partial Graph Matching**|Gathika Ratnayaka et.al.|[2410.16718](http://arxiv.org/abs/2410.16718)|null|
+|**2024-10-23**|**Optimal Partial Graph Matching**|Gathika Ratnayaka et.al.|[2410.16718](http://arxiv.org/abs/2410.16718)|null|
 |**2024-10-22**|**Development of CNN Architectures using Transfer Learning Methods for Medical Image Classification**|Ganga Prasad Basyal et.al.|[2410.16711](http://arxiv.org/abs/2410.16711)|null|
 |**2024-10-22**|**Universal approximation property of ODENet and ResNet with a single activation function**|Masato Kimura et.al.|[2410.16709](http://arxiv.org/abs/2410.16709)|null|
 |**2024-10-22**|**Privacy-hardened and hallucination-resistant synthetic data generation with logic-solvers**|Mark A. Burgess et.al.|[2410.16705](http://arxiv.org/abs/2410.16705)|null|
@@ -1146,7 +1146,7 @@ layout: default
 |**2024-10-20**|**LTPNet Integration of Deep Learning and Environmental Decision Support Systems for Renewable Energy Demand Forecasting**|Te Li et.al.|[2410.15286](http://arxiv.org/abs/2410.15286)|null|
 |**2024-10-20**|**TRIZ Method for Urban Building Energy Optimization: GWO-SARIMA-LSTM Forecasting model**|Shirong Zheng et.al.|[2410.15283](http://arxiv.org/abs/2410.15283)|null|
 |**2024-10-20**|**Neural Normalized Compression Distance and the Disconnect Between Compression and Classification**|John Hurwitz et.al.|[2410.15280](http://arxiv.org/abs/2410.15280)|null|
-|**2024-10-20**|**Physically Guided Deep Unsupervised Inversion for 1D Magnetotelluric Models**|Paul Goyes-Peñafiel et.al.|[2410.15274](http://arxiv.org/abs/2410.15274)|null|
+|**2024-10-20**|**Physically Guided Deep Unsupervised Inversion for 1D Magnetotelluric Models**|Paul Goyes-Peñafiel et.al.|[2410.15274](http://arxiv.org/abs/2410.15274)|**[link](https://github.com/PAULGOYES/MT_guided1DInversion)**|
 |**2024-10-19**|**Modeling Visual Memorability Assessment with Autoencoders Reveals Characteristics of Memorable Images**|Elham Bagheri et.al.|[2410.15235](http://arxiv.org/abs/2410.15235)|**[link](https://github.com/Elham-Bagheri1/image_memorability)**|
 |**2024-10-19**|**Deep Learning-based Detection of Bacterial Swarm Motion Using a Single Image**|Yuzhu Li et.al.|[2410.15229](http://arxiv.org/abs/2410.15229)|null|
 |**2024-10-19**|**Science Time Series: Deep Learning in Hydrology**|Junyang He et.al.|[2410.15218](http://arxiv.org/abs/2410.15218)|null|
