@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.25
+## Updated on 2024.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -441,7 +441,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|null|
+|**2024-10-24**|**Homomorphism Counts as Structural Encodings for Graph Learning**|Linus Bao et.al.|[2410.18676](http://arxiv.org/abs/2410.18676)|**[link](https://github.com/linusbao/MoSE)**|
 |**2024-10-22**|**Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy**|Fabian P. Krüger et.al.|[2410.16975](http://arxiv.org/abs/2410.16975)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
 |**2024-10-16**|**FragNet: A Graph Neural Network for Molecular Property Prediction with Four Layers of Interpretability**|Gihan Panapitiya et.al.|[2410.12156](http://arxiv.org/abs/2410.12156)|**[link](https://github.com/pnnl/FragNet)**|
@@ -610,7 +610,7 @@ layout: default
 |**2024-10-23**|**Advanced simulations with PLUMED: OPES and Machine Learning Collective Variables**|Enrico Trizio et.al.|[2410.18019](http://arxiv.org/abs/2410.18019)|null|
 |**2024-10-23**|**Water cavitation results from the kinetic competition of bulk, surface and surface-defect nucleation events**|Philip Loche et.al.|[2410.17626](http://arxiv.org/abs/2410.17626)|null|
 |**2024-10-21**|**Tunable Crystalline Order and Growth Kinetics in 2D Binary Colloidal Self-assembly Driven by Depletion Interactions**|S. k. Tahmid Shahriar et.al.|[2410.16568](http://arxiv.org/abs/2410.16568)|null|
-|**2024-10-20**|**The Association of Zn $^{2+}$-SO$_4^{2-}$ and Mg$^{2+}$-SO$_4^{2-}$ in Aqueous MgSO$_4$/ZnSO$_4$ Hybrid Electrolytes: Insights from All-Atom Molecular Dynamics Simulations Molecular Dynamics Simulations**|Mayank Dixit et.al.|[2410.15309](http://arxiv.org/abs/2410.15309)|null|
+|**2024-10-20**|**The Association of Zn $^{2+}$-SO$_4^{2-}$ and Mg$^{2+}$-SO$_4^{2-}$ in Aqueous MgSO$_4$/ZnSO$_4$ Hybrid Electrolytes: Insights from All-Atom Molecular Dynamics Simulations Molecular Dynamics Simulations**|Mayank Dixit et.al.|[2410.15309](http://arxiv.org/abs/2410.15309)|**[link](https://github.com/mayankmoni/PMF-from-gr)**|
 |**2024-10-18**|**Intrinsic bulk viscosity of the one-component plasma**|Jarett LeVan et.al.|[2410.14813](http://arxiv.org/abs/2410.14813)|null|
 |**2024-10-03**|**Excess Density as a Descriptor for Electrolyte Solvent Design**|Celia Kelly et.al.|[2410.14689](http://arxiv.org/abs/2410.14689)|null|
 |**2024-10-18**|**A Bond-Based Machine Learning Model for Molecular Polarizabilities and A Priori Raman Spectra**|Jakub K. Sowa et.al.|[2410.14498](http://arxiv.org/abs/2410.14498)|**[link](https://github.com/jakubks/bpm)**|
@@ -1071,7 +1071,7 @@ layout: default
 |**2024-10-24**|**Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**|Yanguang Zhao et.al.|[2410.18698](http://arxiv.org/abs/2410.18698)|null|
 |**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678](http://arxiv.org/abs/2410.18678)|null|
 |**2024-10-24**|**TripCast: Pre-training of Masked 2D Transformers for Trip Time Series Forecasting**|Yuhua Liao et.al.|[2410.18612](http://arxiv.org/abs/2410.18612)|null|
-|**2024-10-24**|**A Joint Representation Using Continuous and Discrete Features for Cardiovascular Diseases Risk Prediction on Chest CT Scans**|Minfeng Xu et.al.|[2410.18610](http://arxiv.org/abs/2410.18610)|null|
+|**2024-10-24**|**A Joint Representation Using Continuous and Discrete Features for Cardiovascular Diseases Risk Prediction on Chest CT Scans**|Minfeng Xu et.al.|[2410.18610](http://arxiv.org/abs/2410.18610)|**[link](https://github.com/yhygao/cbim-medical-image-segmentation)**|
 |**2024-10-24**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
 |**2024-10-24**|**Optimal Equivariant Architectures from the Symmetries of Matrix-Element Likelihoods**|Daniel Maître et.al.|[2410.18553](http://arxiv.org/abs/2410.18553)|null|
 |**2024-10-24**|**Interpretable Representation Learning from Videos using Nonlinear Priors**|Marian Longa et.al.|[2410.18539](http://arxiv.org/abs/2410.18539)|null|
@@ -1086,9 +1086,9 @@ layout: default
 |**2024-10-24**|**DMVC: Multi-Camera Video Compression Network aimed at Improving Deep Learning Accuracy**|Huan Cui et.al.|[2410.18400](http://arxiv.org/abs/2410.18400)|null|
 |**2024-10-24**|**CloudEye: A New Paradigm of Video Analysis System for Mobile Visual Scenarios**|Huan Cui et.al.|[2410.18399](http://arxiv.org/abs/2410.18399)|null|
 |**2024-10-24**|**Precision Soil Quality Analysis Using Transformer-based Data Fusion Strategies: A Systematic Review**|Mahdi Saki et.al.|[2410.18353](http://arxiv.org/abs/2410.18353)|null|
-|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|null|
+|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|**[link](https://github.com/thorhojhus/ssl)**|
 |**2024-10-23**|**MsMorph: An Unsupervised pyramid learning network for brain image registration**|Jiaofen Nan et.al.|[2410.18228](http://arxiv.org/abs/2410.18228)|null|
-|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|null|
+|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|**[link](https://github.com/nasrin117/Piarom-datenet)**|
 |**2024-10-23**|**Bridging the Diagnostic Divide: Classical Computer Vision and Advanced AI methods for distinguishing ITB and CD through CTE Scans**|Shashwat Gupta et.al.|[2410.18161](http://arxiv.org/abs/2410.18161)|**[link](https://github.com/ShashwatGupta2001/CrohnVsITB)**|
 |**2024-10-23**|**Dreaming Learning**|Alessandro Londei et.al.|[2410.18156](http://arxiv.org/abs/2410.18156)|null|
 |**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
