@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1087,7 +1087,7 @@ layout: default
 |**2024-10-27**|**Detection of adrenal anomalous findings in spinal CT images using multi model graph aggregatio**|Shabalin Carmel et.al.|[2410.20568](http://arxiv.org/abs/2410.20568)|null|
 |**2024-10-27**|**Sebica: Lightweight Spatial and Efficient Bidirectional Channel Attention Super Resolution Network**|Chongxiao Liu et.al.|[2410.20546](http://arxiv.org/abs/2410.20546)|null|
 |**2024-10-27**|**Search Wide, Focus Deep: Automated Fetal Brain Extraction with Sparse Training Data**|Javid Dadashkarimi et.al.|[2410.20532](http://arxiv.org/abs/2410.20532)|null|
-|**2024-10-27**|**Fractal and Turbulent Feature Extraction and NFT Label Generation for Pollock Style Migration Paintings Based on VGG19**|Yiquan Wang et.al.|[2410.20519](http://arxiv.org/abs/2410.20519)|null|
+|**2024-10-27**|**Fractal and Turbulent Feature Extraction and NFT Label Generation for Pollock Style Migration Paintings Based on VGG19**|Yiquan Wang et.al.|[2410.20519](http://arxiv.org/abs/2410.20519)|**[link](https://github.com/mindspore-lab/models/tree/master/research/arxiv_papers/pollock_vgg19)**|
 |**2024-10-27**|**Efficient Diversity-based Experience Replay for Deep Reinforcement Learning**|Kaiyan Zhao et.al.|[2410.20487](http://arxiv.org/abs/2410.20487)|null|
 |**2024-10-27**|**Unlocking Comics: The AI4VA Dataset for Visual Understanding**|Peter Grönquist et.al.|[2410.20459](http://arxiv.org/abs/2410.20459)|**[link](https://github.com/ivrl/ai4va)**|
 |**2024-10-27**|**Large Scale Raman Spectrum Calculations in Defective 2D Materials using Deep Learning**|Olivier Malenfant-Thuot et.al.|[2410.20417](http://arxiv.org/abs/2410.20417)|null|
