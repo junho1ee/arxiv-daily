@@ -526,6 +526,7 @@
 |**2024-04-25**|**ChemLLM: A Chemical Large Language Model**|Di Zhang et.al.|[2402.06852](http://arxiv.org/abs/2402.06852)|null|
 |**2024-06-10**|**Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers**|Md Shamim Hussain et.al.|[2402.04538](http://arxiv.org/abs/2402.04538)|**[link](https://github.com/shamim-hussain/tgt)**|
 |**2024-08-19**|**Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks**|Duy M. H. Nguyen et.al.|[2402.01975](http://arxiv.org/abs/2402.01975)|**[link](https://github.com/duyhominhnguyen/conan-fgw)**|
+|**2024-10-31**|**Diverse Explanations From Data-Driven and Domain-Driven Perspectives in the Physical Sciences**|Sichao Li et.al.|[2402.00347](http://arxiv.org/abs/2402.00347)|**[link](https://github.com/sichao-li/diverse-explanations-physical-sciences)**|
 |**2024-05-21**|**Can Large Language Models Understand Molecules?**|Shaghayegh Sadeghi et.al.|[2402.00024](http://arxiv.org/abs/2402.00024)|**[link](https://github.com/sshaghayeghs/llama-vs-gpt)**|
 |**2024-02-02**|**Graph Multi-Similarity Learning for Molecular Property Prediction**|Hao Xu et.al.|[2401.17615](http://arxiv.org/abs/2401.17615)|null|
 |**2024-01-30**|**MolPLA: A Molecular Pretraining Framework for Learning Cores, R-Groups and their Linker Joints**|Mogan Gim et.al.|[2401.16771](http://arxiv.org/abs/2401.16771)|**[link](https://github.com/dmis-lab/molpla)**|
@@ -629,7 +630,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-31**|**Learning Macroscopic Dynamics from Partial Microscopic Observations**|Mengyi Chen et.al.|[2410.23938](http://arxiv.org/abs/2410.23938)|null|
+|**2024-11-01**|**Learning Macroscopic Dynamics from Partial Microscopic Observations**|Mengyi Chen et.al.|[2410.23938](http://arxiv.org/abs/2410.23938)|null|
 |**2024-10-31**|**Performance of the MACE-MP-0 potential for calculating viscosity in LiF molten salt**|Harvey L. Devereux et.al.|[2410.23679](http://arxiv.org/abs/2410.23679)|null|
 |**2024-10-30**|**Mesoscopic modelling of bio-compatible PLGA polymers with coarse-grained molecular dynamics simulations**|Francesco Maria Bellussi et.al.|[2410.22836](http://arxiv.org/abs/2410.22836)|null|
 |**2024-10-29**|**Orb: A Fast, Scalable Neural Network Potential**|Mark Neumann et.al.|[2410.22570](http://arxiv.org/abs/2410.22570)|**[link](https://github.com/orbital-materials/orb-models)**|
@@ -1129,7 +1130,7 @@
 |**2024-10-30**|**Classically studied coherent structures only paint a partial picture of wall-bounded turbulence**|Andrés Cremades et.al.|[2410.23189](http://arxiv.org/abs/2410.23189)|null|
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
 |**2024-10-30**|**Nested ResNet: A Vision-Based Method for Detecting the Sensing Area of a Drop-in Gamma Probe**|Songyu Xu et.al.|[2410.23154](http://arxiv.org/abs/2410.23154)|null|
-|**2024-10-30**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109](http://arxiv.org/abs/2410.23109)|null|
+|**2024-10-31**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109](http://arxiv.org/abs/2410.23109)|null|
 |**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
 |**2024-10-30**|**AI-assisted prostate cancer detection and localisation on biparametric MR by classifying radiologist-positives**|Xiangcen Wu et.al.|[2410.23084](http://arxiv.org/abs/2410.23084)|null|
 |**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
@@ -1154,7 +1155,7 @@
 |**2024-10-28**|**Vascular Segmentation of Functional Ultrasound Images using Deep Learning**|Hana Sebia et.al.|[2410.22365](http://arxiv.org/abs/2410.22365)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Effective Guidance for Model Attention with Simple Yes-no Annotations**|Seongmin Lee et.al.|[2410.22312](http://arxiv.org/abs/2410.22312)|null|
-|**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
+|**2024-11-01**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
 |**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|**[link](https://github.com/MECLabTUDA/NCA-Morph)**|
 |**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation**|Ovais Iqbal Shah et.al.|[2410.22223](http://arxiv.org/abs/2410.22223)|null|
