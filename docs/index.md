@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1175,12 +1175,12 @@ layout: default
 |**2024-11-08**|**SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection**|Tamara R. Lenhard et.al.|[2411.05633](http://arxiv.org/abs/2411.05633)|null|
 |**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
 |**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
-|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/abs/2411.05516)|null|
+|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/abs/2411.05516)|**[link](https://github.com/airlabiisc/eroas)**|
 |**2024-11-08**|**An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking**|Zijian Chen et.al.|[2411.05508](http://arxiv.org/abs/2411.05508)|null|
 |**2024-11-08**|**FGGP: Fixed-Rate Gradient-First Gradual Pruning**|Lingkai Zhu et.al.|[2411.05500](http://arxiv.org/abs/2411.05500)|null|
 |**2024-11-08**|**Do Histopathological Foundation Models Eliminate Batch Effects? A Comparative Study**|Jonah Kömen et.al.|[2411.05489](http://arxiv.org/abs/2411.05489)|null|
 |**2024-11-08**|**Handling geometrical variability in nonlinear reduced order modeling through Continuous Geometry-Aware DL-ROMs**|Simone Brivio et.al.|[2411.05486](http://arxiv.org/abs/2411.05486)|null|
-|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456](http://arxiv.org/abs/2411.05456)|null|
+|**2024-11-08**|**Comparative Study of Probabilistic Atlas and Deep Learning Approaches for Automatic Brain Tissue Segmentation from MRI Using N4 Bias Field Correction and Anisotropic Diffusion Pre-processing Techniques**|Mohammad Imran Hossain et.al.|[2411.05456](http://arxiv.org/abs/2411.05456)|**[link](https://github.com/imran-maia/ibsr_18_bratseg_deep_learning)**|
 |**2024-11-08**|**The sampling complexity of learning invertible residual neural networks**|Yuanyuan Li et.al.|[2411.05453](http://arxiv.org/abs/2411.05453)|null|
 |**2024-11-08**|**SASWISE-UE: Segmentation and Synthesis with Interpretable Scalable Ensembles for Uncertainty Estimation**|Weijie Chen et.al.|[2411.05324](http://arxiv.org/abs/2411.05324)|null|
 |**2024-11-08**|**GPUVM: GPU-driven Unified Virtual Memory**|Nurlan Nazaraliyev et.al.|[2411.05309](http://arxiv.org/abs/2411.05309)|null|
@@ -1199,7 +1199,7 @@ layout: default
 |**2024-11-07**|**Multi-language Video Subtitle Dataset for Image-based Text Recognition**|Thanadol Singkhornart et.al.|[2411.05043](http://arxiv.org/abs/2411.05043)|null|
 |**2024-11-05**|**Leveraging Transfer Learning and Multiple Instance Learning for HER2 Automatic Scoring of H\&E Whole Slide Images**|Rawan S. Abdulsadig et.al.|[2411.05028](http://arxiv.org/abs/2411.05028)|null|
 |**2024-11-07**|**Fed-LDR: Federated Local Data-infused Graph Creation with Node-centric Model Refinement**|Jiechao Gao et.al.|[2411.04936](http://arxiv.org/abs/2411.04936)|null|
-|**2024-11-07**|**Bridging an energy system model with an ensemble deep-learning approach for electricity price forecasting**|Souhir Ben Amor et.al.|[2411.04880](http://arxiv.org/abs/2411.04880)|null|
+|**2024-11-07**|**Bridging an energy system model with an ensemble deep-learning approach for electricity price forecasting**|Souhir Ben Amor et.al.|[2411.04880](http://arxiv.org/abs/2411.04880)|**[link](https://github.com/BTU-EnerEcon/Bridging-ESM-and-Deep-Learning-Models)**|
 |**2024-11-07**|**Differentiable Gaussian Representation for Incomplete CT Reconstruction**|Shaokai Wu et.al.|[2411.04844](http://arxiv.org/abs/2411.04844)|null|
 |**2024-11-07**|**End-to-end Inception-Unet based Generative Adversarial Networks for Snow and Rain Removals**|Ibrahim Kajo et.al.|[2411.04821](http://arxiv.org/abs/2411.04821)|null|
 |**2024-11-07**|**Soft Hoeffding Tree: A Transparent and Differentiable Model on Data Streams**|Kirsten Köbschall et.al.|[2411.04812](http://arxiv.org/abs/2411.04812)|null|
