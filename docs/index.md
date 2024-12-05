@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1172,7 +1172,7 @@ layout: default
 |**2024-12-03**|**Unsupervised Learning-based Calibration Scheme for the Rough Bergomi Model**|Changqing Teng et.al.|[2412.02135](http://arxiv.org/abs/2412.02135)|null|
 |**2024-12-03**|**Performance Comparison of Deep Learning Techniques in Naira Classification**|Ismail Ismail Tijjani et.al.|[2412.02072](http://arxiv.org/abs/2412.02072)|null|
 |**2024-12-03**|**A Classic-Quantum Hybrid Network Framework: CQH-Net**|Ao Liu et.al.|[2412.02059](http://arxiv.org/abs/2412.02059)|null|
-|**2024-12-03**|**BN-AuthProf: Benchmarking Machine Learning for Bangla Author Profiling on Social Media Texts**|Raisa Tasnim et.al.|[2412.02058](http://arxiv.org/abs/2412.02058)|null|
+|**2024-12-03**|**BN-AuthProf: Benchmarking Machine Learning for Bangla Author Profiling on Social Media Texts**|Raisa Tasnim et.al.|[2412.02058](http://arxiv.org/abs/2412.02058)|**[link](https://github.com/crusnic-corp/BN-AuthProf)**|
 |**2024-12-03**|**Impact of Data Snooping on Deep Learning Models for Locating Vulnerabilities in Lifted Code**|Gary A. McCully et.al.|[2412.02048](http://arxiv.org/abs/2412.02048)|null|
 |**2024-12-02**|**Linear Supervision for Nonlinear, High-Dimensional Neural Control and Differential Games**|William Sharpless et.al.|[2412.02033](http://arxiv.org/abs/2412.02033)|null|
 |**2024-12-02**|**Learning Ensembles of Vision-based Safety Control Filters**|Ihab Tabbara et.al.|[2412.02029](http://arxiv.org/abs/2412.02029)|null|
@@ -1232,7 +1232,7 @@ layout: default
 |**2024-12-01**|**Deep Learning for Longitudinal Gross Tumor Volume Segmentation in MRI-Guided Adaptive Radiotherapy for Head and Neck Cancer**|Xin Tie et.al.|[2412.00663](http://arxiv.org/abs/2412.00663)|**[link](https://github.com/xtie97/hnts-mrg24-uwlair)**|
 |**2024-12-01**|**Predictive Inference With Fast Feature Conformal Prediction**|Zihao Tang et.al.|[2412.00653](http://arxiv.org/abs/2412.00653)|null|
 |**2024-11-30**|**Parameter estimation of microlensed gravitational waves with Conditional Variational Autoencoders**|Roberto Bada Nerin et.al.|[2412.00566](http://arxiv.org/abs/2412.00566)|null|
-|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|null|
+|**2024-11-30**|**Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling**|Peihao Dong et.al.|[2412.00562](http://arxiv.org/abs/2412.00562)|**[link](https://github.com/AI4CogComm/PCA-WSSNet)**|
 |**2024-11-30**|**A Self-Explainable Heterogeneous GNN for Relational Deep Learning**|Francesco Ferrini et.al.|[2412.00521](http://arxiv.org/abs/2412.00521)|null|
 |**2024-11-30**|**Automatic Differentiation-based Full Waveform Inversion with Flexible Workflows**|Feng Liu et.al.|[2412.00486](http://arxiv.org/abs/2412.00486)|**[link](https://github.com/liufeng2317/ADFWI)**|
 |**2024-11-30**|**Enhancing Skin Cancer Diagnosis (SCD) Using Late Discrete Wavelet Transform (DWT) and New Swarm-Based Optimizers**|Ramin Mousa et.al.|[2412.00472](http://arxiv.org/abs/2412.00472)|null|
