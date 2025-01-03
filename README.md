@@ -33,7 +33,7 @@
 |**2024-12-09**|**Timing consistency of T cell receptor activation in a stochastic model combining kinetic segregation and proofreading**|Thorsten Prüstel et.al.|[2412.06773](http://arxiv.org/abs/2412.06773)|null|
 |**2024-12-05**|**Surface molecular engineering to enable processing of sulfide solid electrolytes in humid ambient air**|Mengchen Liu et.al.|[2412.04633](http://arxiv.org/abs/2412.04633)|null|
 |**2024-12-04**|**3D Interaction Geometric Pre-training for Molecular Relational Learning**|Namkyeong Lee et.al.|[2412.02957](http://arxiv.org/abs/2412.02957)|**[link](https://github.com/Namkyeong/3DMRL)**|
-|**2024-12-03**|**COMET:Combined Matrix for Elucidating Targets**|Haojie Wang et.al.|[2412.02471](http://arxiv.org/abs/2412.02471)|null|
+|**2025-01-02**|**COMET:Combined Matrix for Elucidating Targets**|Haojie Wang et.al.|[2412.02471](http://arxiv.org/abs/2412.02471)|null|
 |**2024-11-27**|**A Size-Dependent Ideal Solution Model for Liquid-Solid Phase Equilibria Prediction in Aqueous Organic Solutions**|Spencer P. Alliston et.al.|[2411.17968](http://arxiv.org/abs/2411.17968)|null|
 |**2024-11-23**|**SPRINT Enables Interpretable and Ultra-Fast Virtual Screening against Thousands of Proteomes**|Andrew T. McNutt et.al.|[2411.15418](http://arxiv.org/abs/2411.15418)|**[link](https://github.com/abhinadduri/panspecies-dti)**|
 |**2024-11-12**|**Feedback between microscopic activity and macroscopic dynamics drives excitability and oscillations in mechanochemical matter**|Tim Dullweber et.al.|[2411.15165](http://arxiv.org/abs/2411.15165)|null|
@@ -1238,13 +1238,13 @@
 |**2024-12-30**|**Acquisition-Independent Deep Learning for Quantitative MRI Parameter Estimation using Neural Controlled Differential Equations**|Daan Kuppens et.al.|[2412.20844](http://arxiv.org/abs/2412.20844)|null|
 |**2024-12-30**|**Fine-Tuning TransMorph with Gradient Correlation for Anatomical Alignment**|Lukas Förner et.al.|[2412.20822](http://arxiv.org/abs/2412.20822)|null|
 |**2024-12-30**|**SFE-Net: Harnessing Biological Principles of Differential Gene Expression for Improved Feature Selection in Deep Learning Networks**|Yuqi Li et.al.|[2412.20799](http://arxiv.org/abs/2412.20799)|null|
-|**2024-12-30**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798](http://arxiv.org/abs/2412.20798)|**[link](https://github.com/humblef-oo-l/DP)**|
+|**2024-12-31**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798](http://arxiv.org/abs/2412.20798)|**[link](https://github.com/humblef-oo-l/DP)**|
 |**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[2412.20784](http://arxiv.org/abs/2412.20784)|null|
 |**2024-12-30**|**Sample Correlation for Fingerprinting Deep Face Recognition**|Jiyang Guan et.al.|[2412.20768](http://arxiv.org/abs/2412.20768)|**[link](https://github.com/guanjiyang/sac_jc)**|
 |**2024-12-30**|**High-Sensitivity Vision-Based Tactile Sensing Enhanced by Microstructures and Lightweight CNN**|Mayue Shi et.al.|[2412.20758](http://arxiv.org/abs/2412.20758)|null|
 |**2024-12-30**|**Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them**|Zixuan Tan et.al.|[2412.20740](http://arxiv.org/abs/2412.20740)|null|
 |**2024-12-30**|**Differentiable Convex Optimization Layers in Neural Architectures: Foundations and Perspectives**|Calder Katyal et.al.|[2412.20679](http://arxiv.org/abs/2412.20679)|null|
-|**2024-12-30**|**Recurrence-based Vanishing Point Detection**|Skanda Bharadwaj et.al.|[2412.20666](http://arxiv.org/abs/2412.20666)|null|
+|**2025-01-01**|**Recurrence-based Vanishing Point Detection**|Skanda Bharadwaj et.al.|[2412.20666](http://arxiv.org/abs/2412.20666)|null|
 |**2024-12-29**|**Hilbert Curve Based Molecular Sequence Analysis**|Sarwan Ali et.al.|[2412.20616](http://arxiv.org/abs/2412.20616)|null|
 |**2024-12-29**|**Conformable Convolution for Topologically Aware Learning of Complex Anatomical Structures**|Yousef Yeganeh et.al.|[2412.20608](http://arxiv.org/abs/2412.20608)|null|
 |**2024-12-29**|**Bridging the Gap: A Decade Review of Time-Series Clustering Methods**|John Paparrizos et.al.|[2412.20582](http://arxiv.org/abs/2412.20582)|null|
@@ -1257,14 +1257,14 @@
 |**2024-12-29**|**Impact of Data Distribution on Fairness Guarantees in Equitable Deep Learning**|Yan Luo et.al.|[2412.20377](http://arxiv.org/abs/2412.20377)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairness_guarantees)**|
 |**2024-12-29**|**Differential Evolution Integrated Hybrid Deep Learning Model for Object Detection in Pre-made Dishes**|Lujia Lv et.al.|[2412.20370](http://arxiv.org/abs/2412.20370)|null|
 |**2024-12-29**|**Emittance Minimization for Aberration Correction I: Aberration correction of an electron microscope without knowing the aberration coefficients**|Desheng Ma et.al.|[2412.20358](http://arxiv.org/abs/2412.20358)|null|
-|**2024-12-29**|**Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks**|Carlos Misael Madrid Padilla et.al.|[2412.20355](http://arxiv.org/abs/2412.20355)|null|
+|**2025-01-01**|**Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks**|Carlos Misael Madrid Padilla et.al.|[2412.20355](http://arxiv.org/abs/2412.20355)|null|
 |**2024-12-29**|**Deep Learning in Image Classification: Evaluating VGG19's Performance on Complex Visual Data**|Weijie He et.al.|[2412.20345](http://arxiv.org/abs/2412.20345)|null|
 |**2024-12-29**|**Protein Structure Prediction in the 3D HP Model Using Deep Reinforcement Learning**|Giovanny Espitia et.al.|[2412.20329](http://arxiv.org/abs/2412.20329)|null|
 |**2024-12-29**|**Motion Transfer-Driven intra-class data augmentation for Finger Vein Recognition**|Xiu-Feng Huang et.al.|[2412.20327](http://arxiv.org/abs/2412.20327)|**[link](https://github.com/kevinhuangxf/fingerveinrecognition)**|
 |**2024-12-28**|**Transformer-Based Contrastive Meta-Learning For Low-Resource Generalizable Activity Recognition**|Junyao Wang et.al.|[2412.20290](http://arxiv.org/abs/2412.20290)|null|
 |**2024-12-28**|**Deep Generalized Schrödinger Bridges: From Image Generation to Solving Mean-Field Games**|Guan-Horng Liu et.al.|[2412.20279](http://arxiv.org/abs/2412.20279)|null|
 |**2024-12-28**|**Few-shot Algorithm Assurance**|Dang Nguyen et.al.|[2412.20275](http://arxiv.org/abs/2412.20275)|null|
-|**2024-12-28**|**TeLU Activation Function for Fast and Stable Deep Learning**|Alfredo Fernandez et.al.|[2412.20269](http://arxiv.org/abs/2412.20269)|**[link](https://github.com/alfredofernandez2021/TeLU-Experiments)**|
+|**2025-01-02**|**TeLU Activation Function for Fast and Stable Deep Learning**|Alfredo Fernandez et.al.|[2412.20269](http://arxiv.org/abs/2412.20269)|**[link](https://github.com/alfredofernandez2021/TeLU-Experiments)**|
 |**2024-12-28**|**Plastic Waste Classification Using Deep Learning: Insights from the WaDaBa Dataset**|Suman Kunwar et.al.|[2412.20232](http://arxiv.org/abs/2412.20232)|null|
 |**2024-12-28**|**Machine and Deep Learning for Credit Scoring: A compliant approach**|Abdollah Rida et.al.|[2412.20225](http://arxiv.org/abs/2412.20225)|null|
 |**2024-12-28**|**IMSSA: Deploying modern state-space models on memristive in-memory compute hardware**|Sebastian Siegel et.al.|[2412.20215](http://arxiv.org/abs/2412.20215)|null|
@@ -1301,7 +1301,7 @@
 |**2024-12-27**|**Revisiting PCA for time series reduction in temporal dimension**|Jiaxin Gao et.al.|[2412.19423](http://arxiv.org/abs/2412.19423)|**[link](https://github.com/yuqinie98/patchtst)**|
 |**2024-12-27**|**Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning**|Chen Li et.al.|[2412.19422](http://arxiv.org/abs/2412.19422)|**[link](https://github.com/naruto7283/gx2mol)**|
 |**2024-12-27**|**A Matrix Logic Approach to Efficient Frequent Itemset Discovery in Large Data Sets**|Xuan Li et.al.|[2412.19420](http://arxiv.org/abs/2412.19420)|null|
-|**2024-12-26**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
+|**2024-12-30**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
 |**2024-12-26**|**Deep learning and whole-brain networks for biomarker discovery: modeling the dynamics of brain fluctuations in resting-state and cognitive tasks**|Facundo Roffet et.al.|[2412.19329](http://arxiv.org/abs/2412.19329)|**[link](https://github.com/FacuRoffet99/paper-hcp-tasks-hopf-bifurcation)**|
 |**2024-12-26**|**Time Series Foundational Models: Their Role in Anomaly Detection and Prediction**|Chathurangi Shyalika et.al.|[2412.19286](http://arxiv.org/abs/2412.19286)|**[link](https://github.com/smtmnfg/tsfm)**|
 |**2024-12-26**|**Applying the maximum entropy principle to multi-species neural networks improves species distribution models**|Maxime Ryckewaert et.al.|[2412.19217](http://arxiv.org/abs/2412.19217)|null|
@@ -1311,7 +1311,7 @@
 |**2024-12-26**|**Accelerating Stochastic Gravitational Wave Backgrounds Parameter Estimation in Pulsar Timing Arrays with Flow Matching**|Bo Liang et.al.|[2412.19169](http://arxiv.org/abs/2412.19169)|null|
 |**2024-12-26**|**Impact of color and mixing proportion of synthetic point clouds on semantic segmentation**|Shaojie Zhou et.al.|[2412.19145](http://arxiv.org/abs/2412.19145)|null|
 |**2024-12-26**|**How Panel Layouts Define Manga: Insights from Visual Ablation Experiments**|Siyuan Feng et.al.|[2412.19141](http://arxiv.org/abs/2412.19141)|null|
-|**2024-12-26**|**Spectral Enhancement and Pseudo-Anchor Guidance for Infrared-Visible Person Re-Identification**|Yiyuan Ge et.al.|[2412.19111](http://arxiv.org/abs/2412.19111)|**[link](https://github.com/1024ailab/reid-sepg)**|
+|**2025-01-02**|**Spectral Enhancement and Pseudo-Anchor Guidance for Infrared-Visible Person Re-Identification**|Yiyuan Ge et.al.|[2412.19111](http://arxiv.org/abs/2412.19111)|**[link](https://github.com/1024ailab/reid-sepg)**|
 |**2024-12-26**|**Robust Speech and Natural Language Processing Models for Depression Screening**|Y. Lu et.al.|[2412.19072](http://arxiv.org/abs/2412.19072)|null|
 |**2024-12-26**|**Cross-Demographic Portability of Deep NLP-Based Depression Models**|Tomek Rutowski et.al.|[2412.19070](http://arxiv.org/abs/2412.19070)|null|
 |**2024-12-26**|**Performance Characterization and Optimizations of Traditional ML Applications**|Harsh Kumar et.al.|[2412.19051](http://arxiv.org/abs/2412.19051)|null|
@@ -7162,7 +7162,7 @@
 |**2024-12-28**|**Relative Binding Free Energy Estimation of Congeneric Ligands and Macromolecular Mutants with the Alchemical Transfer with Coordinate Swapping Method**|Emilio Gallicchio et.al.|[2412.19971](http://arxiv.org/abs/2412.19971)|null|
 |**2024-12-10**|**Pharmacophore-constrained de novo drug design with diffusion bridge**|Conghao Wang et.al.|[2412.19812](http://arxiv.org/abs/2412.19812)|null|
 |**2024-12-24**|**PLD-Tree: Persistent Laplacian Decision Tree for Protein-Protein Binding Free Energy Prediction**|Xingjian Xu et.al.|[2412.18541](http://arxiv.org/abs/2412.18541)|null|
-|**2024-12-30**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
+|**2025-01-01**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-18**|**Fool's gold: ligand-receptor interactions and the origins of life**|Betony Adams et.al.|[2412.13836](http://arxiv.org/abs/2412.13836)|null|
 |**2024-12-18**|**Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules**|Andrew G. T. Pyo et.al.|[2412.13722](http://arxiv.org/abs/2412.13722)|null|
 |**2024-12-17**|**Guiding Generative Protein Language Models with Reinforcement Learning**|Filippo Stocco et.al.|[2412.12979](http://arxiv.org/abs/2412.12979)|**[link](https://github.com/ai4pdlab/dpo_plm)**|
