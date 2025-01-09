@@ -678,6 +678,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Chondrule dust rim growth: Influence of restructuring using molecular dynamics simulations**|Chuchu Xiang et.al.|[2501.04625](http://arxiv.org/abs/2501.04625)|null|
 |**2025-01-07**|**Grain boundaries amplify local chemical ordering in CrCoNi**|Ian Geiger et.al.|[2501.03901](http://arxiv.org/abs/2501.03901)|null|
 |**2024-12-23**|**Precision Evaluation Criteria for Simulation Algorithms in Infinite Systems: A Network Model-Based Approach**|Yonglong Ding et.al.|[2501.03248](http://arxiv.org/abs/2501.03248)|null|
 |**2025-01-06**|**Coarse-Grained Molecular Dynamics Simulations for Oxidative Aging of Polymers under Various O2 Concentration**|Takato Ishida et.al.|[2501.02898](http://arxiv.org/abs/2501.02898)|null|
@@ -1239,6 +1240,29 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Grokking at the Edge of Numerical Stability**|Lucas Prieto et.al.|[2501.04697](http://arxiv.org/abs/2501.04697)|**[link](https://github.com/lucasprietoal/grokking-at-the-edge-of-numerical-stability)**|
+|**2025-01-08**|**Quantum-inspired Embeddings Projection and Similarity Metrics for Representation Learning**|Ivan Kankeu et.al.|[2501.04591](http://arxiv.org/abs/2501.04591)|null|
+|**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
+|**2025-01-08**|**Hybrid Artificial Intelligence Strategies for Drone Navigation**|Rubén San-Segundo et.al.|[2501.04472](http://arxiv.org/abs/2501.04472)|null|
+|**2025-01-08**|**Rapid Automated Mapping of Clouds on Titan With Instance Segmentation**|Zachary Yahn et.al.|[2501.04459](http://arxiv.org/abs/2501.04459)|**[link](https://github.com/zacharyyahn/titancloudssegmentation)**|
+|**2025-01-08**|**Resource Allocation for the Training of Image Semantic Communication Networks**|Yang Li et.al.|[2501.04408](http://arxiv.org/abs/2501.04408)|null|
+|**2025-01-08**|**Tracking UWB Devices Through Radio Frequency Fingerprinting Is Possible**|Thibaud Ardoin et.al.|[2501.04401](http://arxiv.org/abs/2501.04401)|null|
+|**2025-01-08**|**DispFormer: Pretrained Transformer for Flexible Dispersion Curve Inversion from Global Synthesis to Regional Applications**|Feng Liu et.al.|[2501.04366](http://arxiv.org/abs/2501.04366)|**[link](https://github.com/liufeng2317/DispFormer)**|
+|**2025-01-08**|**Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**|Terrance Yu-Hao Chen et.al.|[2501.04359](http://arxiv.org/abs/2501.04359)|null|
+|**2025-01-08**|**DCIts -- Deep Convolutional Interpreter for time series**|Davor Horvatic et.al.|[2501.04339](http://arxiv.org/abs/2501.04339)|**[link](https://github.com/hc-xai/dcits)**|
+|**2025-01-08**|**Neural Parameter Estimation with Incomplete Data**|Matthew Sainsbury-Dale et.al.|[2501.04330](http://arxiv.org/abs/2501.04330)|**[link](https://github.com/msainsburydale/neuralincompletedata)**|
+|**2025-01-08**|**Your Fix Is My Exploit: Enabling Comprehensive DL Library API Fuzzing with Large Language Models**|Kunpeng Zhang et.al.|[2501.04312](http://arxiv.org/abs/2501.04312)|null|
+|**2025-01-08**|**Separate Source Channel Coding Is Still What You Need: An LLM-based Rethinking**|Tianqi Ren et.al.|[2501.04285](http://arxiv.org/abs/2501.04285)|null|
+|**2025-01-08**|**CURing Large Models: Compression via CUR Decomposition**|Sanghyeon Park et.al.|[2501.04211](http://arxiv.org/abs/2501.04211)|null|
+|**2025-01-08**|**Recognition-Oriented Low-Light Image Enhancement based on Global and Pixelwise Optimization**|Seitaro Ono et.al.|[2501.04210](http://arxiv.org/abs/2501.04210)|null|
+|**2025-01-08**|**GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology**|Raktim Kumar Mondol et.al.|[2501.04206](http://arxiv.org/abs/2501.04206)|null|
+|**2025-01-08**|**LipGen: Viseme-Guided Lip Video Generation for Enhancing Visual Speech Recognition**|Bowen Hao et.al.|[2501.04204](http://arxiv.org/abs/2501.04204)|null|
+|**2025-01-08**|**STLCG++: A Masking Approach for Differentiable Signal Temporal Logic Specification**|Parv Kapoor et.al.|[2501.04194](http://arxiv.org/abs/2501.04194)|null|
+|**2025-01-07**|**Deep Learning-based Feature Discovery for Decoding Phenotypic Plasticity in Pediatric High-Grade Gliomas Single-Cell Transcriptomics**|Abicumaran Uthamacumaran et.al.|[2501.04181](http://arxiv.org/abs/2501.04181)|null|
+|**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161](http://arxiv.org/abs/2501.04161)|null|
+|**2025-01-07**|**Deep Learning for Ophthalmology: The State-of-the-Art and Future Trends**|Duy M. H. Nguyen et.al.|[2501.04073](http://arxiv.org/abs/2501.04073)|null|
+|**2025-01-07**|**Explainable Time Series Prediction of Tyre Energy in Formula One Race Strategy**|Jamie Todd et.al.|[2501.04067](http://arxiv.org/abs/2501.04067)|null|
+|**2025-01-07**|**Causal Machine Learning Methods for Estimating Personalised Treatment Effects -- Insights on validity from two large trials**|Hongruyu Chen et.al.|[2501.04061](http://arxiv.org/abs/2501.04061)|null|
 |**2025-01-07**|**Synthetic Data for Portfolios: A Throw of the Dice Will Never Abolish Chance**|Adil Rengim Cetingoz et.al.|[2501.03993](http://arxiv.org/abs/2501.03993)|null|
 |**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
 |**2025-01-07**|**Superpixel Boundary Correction for Weakly-Supervised Semantic Segmentation on Histopathology Images**|Hongyi Wu et.al.|[2501.03891](http://arxiv.org/abs/2501.03891)|null|
@@ -1299,7 +1323,7 @@
 |**2025-01-06**|**Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?**|Fei Gao et.al.|[2501.02766](http://arxiv.org/abs/2501.02766)|null|
 |**2025-01-06**|**Interpretable Recognition of Fused Magnesium Furnace Working Conditions with Deep Convolutional Stochastic Configuration Networks**|Li Weitao et.al.|[2501.02740](http://arxiv.org/abs/2501.02740)|null|
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
-|**2025-01-05**|**Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks**|Yang Wang et.al.|[2501.02654](http://arxiv.org/abs/2501.02654)|**[link](https://github.com/puredefence/advbench4text)**|
+|**2025-01-08**|**Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks**|Yang Wang et.al.|[2501.02654](http://arxiv.org/abs/2501.02654)|**[link](https://github.com/puredefence/advbench4text)**|
 |**2025-01-05**|**LLMs Help Alleviate the Cross-Subject Variability in Brain Signal and Language Alignment**|Yifei Liu et.al.|[2501.02621](http://arxiv.org/abs/2501.02621)|null|
 |**2025-01-05**|**Identifying Surgical Instruments in Pedagogical Cataract Surgery Videos through an Optimized Aggregation Network**|Sanya Sinha et.al.|[2501.02618](http://arxiv.org/abs/2501.02618)|null|
 |**2025-01-05**|**LWFNet: Coherent Doppler Wind Lidar-Based Network for Wind Field Retrieval**|Ran Tao et.al.|[2501.02613](http://arxiv.org/abs/2501.02613)|null|
@@ -1312,7 +1336,7 @@
 |**2025-01-04**|**GNSS/GPS Spoofing and Jamming Identification Using Machine Learning and Deep Learning**|Ali Ghanbarzade et.al.|[2501.02352](http://arxiv.org/abs/2501.02352)|null|
 |**2025-01-04**|**Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones**|Hieu D. Nguyen et.al.|[2501.02344](http://arxiv.org/abs/2501.02344)|null|
 |**2025-01-04**|**Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**|Ashiqur Rahman et.al.|[2501.02287](http://arxiv.org/abs/2501.02287)|null|
-|**2025-01-04**|**Efficient Video-Based ALPR System Using YOLO and Visual Rhythm**|Victor Nascimento Ribeiro et.al.|[2501.02270](http://arxiv.org/abs/2501.02270)|null|
+|**2025-01-08**|**Efficient Video-Based ALPR System Using YOLO and Visual Rhythm**|Victor Nascimento Ribeiro et.al.|[2501.02270](http://arxiv.org/abs/2501.02270)|null|
 |**2025-01-04**|**Distillation-Enhanced Physical Adversarial Attacks**|Wei Liu et.al.|[2501.02232](http://arxiv.org/abs/2501.02232)|null|
 |**2025-01-04**|**AdaMixup: A Dynamic Defense Framework for Membership Inference Attack Mitigation**|Ying Chen et.al.|[2501.02182](http://arxiv.org/abs/2501.02182)|null|
 |**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177](http://arxiv.org/abs/2501.02177)|null|
