@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.09
+## Updated on 2025.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1316,7 +1316,7 @@ layout: default
 |**2025-01-04**|**GNSS/GPS Spoofing and Jamming Identification Using Machine Learning and Deep Learning**|Ali Ghanbarzade et.al.|[2501.02352](http://arxiv.org/abs/2501.02352)|null|
 |**2025-01-04**|**Accurate Crop Yield Estimation of Blueberries using Deep Learning and Smart Drones**|Hieu D. Nguyen et.al.|[2501.02344](http://arxiv.org/abs/2501.02344)|null|
 |**2025-01-04**|**Deep Learning-Driven Segmentation of Ischemic Stroke Lesions Using Multi-Channel MRI**|Ashiqur Rahman et.al.|[2501.02287](http://arxiv.org/abs/2501.02287)|null|
-|**2025-01-08**|**Efficient Video-Based ALPR System Using YOLO and Visual Rhythm**|Victor Nascimento Ribeiro et.al.|[2501.02270](http://arxiv.org/abs/2501.02270)|null|
+|**2025-01-08**|**Efficient Video-Based ALPR System Using YOLO and Visual Rhythm**|Victor Nascimento Ribeiro et.al.|[2501.02270](http://arxiv.org/abs/2501.02270)|**[link](https://github.com/victor-nasc/Vehicle-Licence-Plate-Recognition)**|
 |**2025-01-04**|**Distillation-Enhanced Physical Adversarial Attacks**|Wei Liu et.al.|[2501.02232](http://arxiv.org/abs/2501.02232)|null|
 |**2025-01-04**|**AdaMixup: A Dynamic Defense Framework for Membership Inference Attack Mitigation**|Ying Chen et.al.|[2501.02182](http://arxiv.org/abs/2501.02182)|null|
 |**2025-01-04**|**IMUFace: Real-Time, Low-Power, Continuous 3D Facial Reconstruction Through Earphones**|Xianrong Yao et.al.|[2501.02177](http://arxiv.org/abs/2501.02177)|null|
