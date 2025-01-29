@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1312,7 +1312,7 @@ layout: default
 |**2025-01-25**|**A Floating Normalization Scheme for Deep Learning-Based Custom-Range Parameter Extraction in BSIM-CMG Compact Models**|Aasim Ashai et.al.|[2501.15190](http://arxiv.org/abs/2501.15190)|null|
 |**2025-01-25**|**Learning with Noisy Labels: the Exploration of Error Bounds in Classification**|Haixia Liu et.al.|[2501.15163](http://arxiv.org/abs/2501.15163)|null|
 |**2025-01-25**|**Mapping Galaxy Images Across Ultraviolet, Visible and Infrared Bands Using Generative Deep Learning**|Youssef Zaazou et.al.|[2501.15149](http://arxiv.org/abs/2501.15149)|**[link](https://github.com/yazaazou/galaxy-band-conversion)**|
-|**2025-01-25**|**Discovering Dynamics with Kolmogorov Arnold Networks: Linear Multistep Method-Based Algorithms and Error Estimation**|Jintao Hu et.al.|[2501.15066](http://arxiv.org/abs/2501.15066)|null|
+|**2025-01-25**|**Discovering Dynamics with Kolmogorov Arnold Networks: Linear Multistep Method-Based Algorithms and Error Estimation**|Jintao Hu et.al.|[2501.15066](http://arxiv.org/abs/2501.15066)|**[link](https://github.com/johnhu94/KAN-LMM)**|
 |**2025-01-25**|**Cross-modal Context Fusion and Adaptive Graph Convolutional Network for Multimodal Conversational Emotion Recognition**|Junwei Feng et.al.|[2501.15063](http://arxiv.org/abs/2501.15063)|null|
 |**2025-01-25**|**Exact Fit Attention in Node-Holistic Graph Convolutional Network for Improved EEG-Based Driver Fatigue Detection**|Meiyan Xu et.al.|[2501.15062](http://arxiv.org/abs/2501.15062)|null|
 |**2025-01-25**|**Prompt-Aware Controllable Shadow Removal**|Kerui Chen et.al.|[2501.15043](http://arxiv.org/abs/2501.15043)|null|
@@ -8028,7 +8028,7 @@ layout: default
 |**2025-01-09**|**LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning**|Jianchao Lu et.al.|[2501.05589](http://arxiv.org/abs/2501.05589)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
 |**2024-12-17**|**Image registration is a geometric deep learning task**|Vasiliki Sideri-Lampretsa et.al.|[2412.13294](http://arxiv.org/abs/2412.13294)|null|
-|**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|null|
+|**2024-12-12**|**Geometric Deep Learning for Realized Covariance Matrix Forecasting**|Andrea Bucci et.al.|[2412.09517](http://arxiv.org/abs/2412.09517)|**[link](https://github.com/C4ntor/GeoHAR-SPDNet)**|
 |**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402](http://arxiv.org/abs/2412.07402)|null|
 |**2024-12-06**|**Rethink Deep Learning with Invariance in Data Representation**|Shuren Qi et.al.|[2412.04858](http://arxiv.org/abs/2412.04858)|null|
 |**2024-11-19**|**E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting**|Madhurima Panja et.al.|[2411.12258](http://arxiv.org/abs/2411.12258)|null|
