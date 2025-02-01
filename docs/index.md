@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -701,7 +701,7 @@ layout: default
 |**2025-01-16**|**Very soft microgels at the interface behave and flow as Hertzian-like spheres**|José Ruiz-Franco et.al.|[2501.09472](http://arxiv.org/abs/2501.09472)|null|
 |**2025-01-16**|**Edge-Dependent Step-Flow Growth Mechanism in $β$-Ga$_{2}$O$_{3}$ (100) Facet at the Atomic Level**|Qi Li et.al.|[2501.09427](http://arxiv.org/abs/2501.09427)|null|
 |**2025-01-15**|**Selective Excitation of IR-Inactive Vibrations via Vibrational Polaritons: Insights from Atomistic Simulations**|Xinwei Ji et.al.|[2501.09094](http://arxiv.org/abs/2501.09094)|**[link](https://github.com/TaoELi/cavity-md-ipi)**|
-|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
+|**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|**[link](https://github.com/ASK-Berkeley/MLFF-distill)**|
 |**2025-01-15**|**WeTICA: A directed search weighted ensemble based enhanced sampling method to estimate rare event kinetics in a reduced dimensional space**|Sudipta Mitra et.al.|[2501.08926](http://arxiv.org/abs/2501.08926)|**[link](https://github.com/teamsuman/wetica)**|
 |**2025-01-15**|**Simulating inverse patchy colloid models**|Daniele Notarmuzi et.al.|[2501.08920](http://arxiv.org/abs/2501.08920)|null|
 |**2025-01-15**|**Investigation on non-ergodicity of protein dynamics**|Luca Maggi et.al.|[2501.08754](http://arxiv.org/abs/2501.08754)|null|
@@ -1271,7 +1271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|null|
+|**2025-01-30**|**UDC-VIT: A Real-World Video Dataset for Under-Display Cameras**|Kyusu Ahn et.al.|[2501.18545](http://arxiv.org/abs/2501.18545)|**[link](https://github.com/mcrl/UDC-VIT)**|
 |**2025-01-30**|**Deep learning with reflection high-energy electron diffraction images to predict cation ratio in Sr $_x$Ti$_{1-x}$ O3 thin films**|Sumner B. Harris et.al.|[2501.18523](http://arxiv.org/abs/2501.18523)|null|
 |**2025-01-30**|**Comprehensive Enumeration of Three-Dimensional Photonic Crystals Enabled through Deep Learning Assisted Fourier Synthesis**|Congcong Cui et.al.|[2501.18495](http://arxiv.org/abs/2501.18495)|null|
 |**2025-01-30**|**DeepExtractor: Time-domain reconstruction of signals and glitches in gravitational wave data with deep learning**|Tom Dooney et.al.|[2501.18423](http://arxiv.org/abs/2501.18423)|null|
@@ -1284,15 +1284,15 @@ layout: default
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246](http://arxiv.org/abs/2501.18246)|null|
 |**2025-01-30**|**Machine Learning Fairness for Depression Detection using EEG Data**|Angus Man Ho Kwok et.al.|[2501.18192](http://arxiv.org/abs/2501.18192)|null|
 |**2025-01-30**|**Using Computer Vision for Skin Disease Diagnosis in Bangladesh Enhancing Interpretability and Transparency in Deep Learning Models for Skin Cancer Classification**|Rafiul Islam et.al.|[2501.18161](http://arxiv.org/abs/2501.18161)|null|
-|**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|null|
+|**2025-01-30**|**VQLTI: Long-Term Tropical Cyclone Intensity Forecasting with Physical Constraints**|Xinyu Wang et.al.|[2501.18122](http://arxiv.org/abs/2501.18122)|**[link](https://github.com/1457756434/VQLTI)**|
 |**2025-01-30**|**DeepFRC: An End-to-End Deep Learning Model for Functional Registration and Classification**|Siyuan Jiang et.al.|[2501.18116](http://arxiv.org/abs/2501.18116)|**[link](https://github.com/drivergo-93589/deepfrc)**|
 |**2025-01-30**|**Influence of High-Performance Image-to-Image Translation Networks on Clinical Visual Assessment and Outcome Prediction: Utilizing Ultrasound to MRI Translation in Prostate Cancer**|Mohammad R. Salmanpour et.al.|[2501.18109](http://arxiv.org/abs/2501.18109)|null|
 |**2025-01-30**|**Learning Provablely Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
 |**2025-01-30**|**ISAM-MTL: Cross-subject multi-task learning model with identifiable spikes and associative memory networks**|Junyan Li et.al.|[2501.18089](http://arxiv.org/abs/2501.18089)|null|
-|**2025-01-30**|**Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning**|Mirage Modi et.al.|[2501.18074](http://arxiv.org/abs/2501.18074)|null|
+|**2025-01-30**|**Input layer regularization and automated regularization hyperparameter tuning for myelin water estimation using deep learning**|Mirage Modi et.al.|[2501.18074](http://arxiv.org/abs/2501.18074)|**[link](https://github.com/ShashankSule/ILR-for-MWF)**|
 |**2025-01-29**|**Reinforcement-Learning Portfolio Allocation with Dynamic Embedding of Market Information**|Jinghai He et.al.|[2501.17992](http://arxiv.org/abs/2501.17992)|null|
 |**2025-01-29**|**KoopAGRU: A Koopman-based Anomaly Detection in Time-Series using Gated Recurrent Units**|Issam Ait Yahia et.al.|[2501.17976](http://arxiv.org/abs/2501.17976)|null|
-|**2025-01-29**|**Molecular Fingerprints Are Strong Models for Peptide Function Prediction**|Jakub Adamczyk et.al.|[2501.17901](http://arxiv.org/abs/2501.17901)|null|
+|**2025-01-29**|**Molecular Fingerprints Are Strong Models for Peptide Function Prediction**|Jakub Adamczyk et.al.|[2501.17901](http://arxiv.org/abs/2501.17901)|**[link](https://github.com/AGH-ML-and-Chemoinformatics-Group/peptides_molecular_fingerprints_classification)**|
 |**2025-01-28**|**Object Detection with Deep Learning for Rare Event Search in the GADGET II TPC**|Tyler Wheeler et.al.|[2501.17892](http://arxiv.org/abs/2501.17892)|null|
 |**2025-01-28**|**VidSole: A Multimodal Dataset for Joint Kinetics Quantification and Disease Detection with Deep Learning**|Archit Kambhamettu et.al.|[2501.17890](http://arxiv.org/abs/2501.17890)|null|
 |**2025-01-28**|**RadioLLM: Introducing Large Language Model into Cognitive Radio via Hybrid Prompt and Token Reprogrammings**|Shuai Chen et.al.|[2501.17888](http://arxiv.org/abs/2501.17888)|null|
@@ -1308,8 +1308,8 @@ layout: default
 |**2025-01-28**|**Deep-and-Wide Learning: Enhancing Data-Driven Inference via Synergistic Learning of Inter- and Intra-Data Representations**|Md Tauhidul Islam et.al.|[2501.17347](http://arxiv.org/abs/2501.17347)|null|
 |**2025-01-28**|**Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines**|Chongyu Qu et.al.|[2501.17343](http://arxiv.org/abs/2501.17343)|null|
 |**2025-01-28**|**WASUP: Interpretable Classification with Weight-Input Alignment and Class-Discriminative SUPports Vectors**|Tom Nuno Wolf et.al.|[2501.17328](http://arxiv.org/abs/2501.17328)|null|
-|**2025-01-28**|**Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures**|Sahar Ghoflsaz Ghinani et.al.|[2501.17292](http://arxiv.org/abs/2501.17292)|null|
-|**2025-01-28**|**ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification**|Mohammadreza Saraei et.al.|[2501.17260](http://arxiv.org/abs/2501.17260)|null|
+|**2025-01-28**|**Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures**|Sahar Ghoflsaz Ghinani et.al.|[2501.17292](http://arxiv.org/abs/2501.17292)|**[link](https://github.com/secure-upmem/secupmem)**|
+|**2025-01-28**|**ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification**|Mohammadreza Saraei et.al.|[2501.17260](http://arxiv.org/abs/2501.17260)|**[link](https://github.com/mrsaraei/vit-2spn)**|
 |**2025-01-28**|**Rethinking Functional Brain Connectome Analysis: Do Graph Deep Learning Models Help?**|Keqi Han et.al.|[2501.17207](http://arxiv.org/abs/2501.17207)|**[link](https://github.com/learningkeqi/rethinkingbca)**|
 |**2025-01-25**|**Deep Learning in Wireless Communication Receiver: A Survey**|Shadman Rahman Doha et.al.|[2501.17184](http://arxiv.org/abs/2501.17184)|null|
 |**2025-01-28**|**A Hybrid Deep Learning CNN Model for Enhanced COVID-19 Detection from Computed Tomography (CT) Scan Images**|Suresh Babu Nettur et.al.|[2501.17160](http://arxiv.org/abs/2501.17160)|null|
