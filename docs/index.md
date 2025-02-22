@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1342,7 +1342,7 @@ layout: default
 |**2025-02-20**|**Port-Hamiltonian Neural Networks with Output Error Noise Models**|Sarvin Moradi et.al.|[2502.14432](http://arxiv.org/abs/2502.14432)|null|
 |**2025-02-20**|**Cardiac Evidence Backtracking for Eating Behavior Monitoring using Collocative Electrocardiogram Imagining**|Xu-Lu Zhang et.al.|[2502.14430](http://arxiv.org/abs/2502.14430)|null|
 |**2025-02-20**|**Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2502.14416](http://arxiv.org/abs/2502.14416)|null|
-|**2025-02-20**|**MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields**|Paul Friedrich et.al.|[2502.14401](http://arxiv.org/abs/2502.14401)|null|
+|**2025-02-20**|**MedFuncta: Modality-Agnostic Representations Based on Efficient Neural Fields**|Paul Friedrich et.al.|[2502.14401](http://arxiv.org/abs/2502.14401)|**[link](https://github.com/pfriedri/medfuncta)**|
 |**2025-02-20**|**Leveraging Small LLMs for Argument Mining in Education: Argument Component Identification, Classification, and Assessment**|Lucile Favero et.al.|[2502.14389](http://arxiv.org/abs/2502.14389)|null|
 |**2025-02-20**|**A Collaborative Jade Recognition System for Mobile Devices Based on Lightweight and Large Models**|Zhenyu Wang et.al.|[2502.14332](http://arxiv.org/abs/2502.14332)|null|
 |**2025-02-20**|**SleepGMUformer: A gated multimodal temporal neural network for sleep staging**|Chenjun Zhao et.al.|[2502.14227](http://arxiv.org/abs/2502.14227)|null|
