@@ -67,7 +67,7 @@ layout: default
 |**2024-08-29**|**Molecular interaction volume model of mixing enthalpy for molten salt system: An integrated calorimetry-model case study of LaCl $_3$ -(LiCl-KCl)**|Vitaliy G. Goncharov et.al.|[2408.16943](http://arxiv.org/abs/2408.16943)|null|
 |**2024-08-27**|**Fully Polarizable Multiconfigurational Self-consistent Field/Fluctuating Charge Approach**|Chiara Sepali et.al.|[2408.14891](http://arxiv.org/abs/2408.14891)|null|
 |**2024-08-26**|**Liquid-liquid phase separation at the interface of an evaporating droplet; formation of a regular lattice pattern**|Vahid Nasirimarekani et.al.|[2408.14129](http://arxiv.org/abs/2408.14129)|null|
-|**2024-09-11**|**Quantum-machine-assisted Drug Discovery: Survey and Perspective**|Yidong Zhou et.al.|[2408.13479](http://arxiv.org/abs/2408.13479)|null|
+|**2025-02-28**|**Quantum-machine-assisted Drug Discovery: Survey and Perspective**|Yidong Zhou et.al.|[2408.13479](http://arxiv.org/abs/2408.13479)|null|
 |**2024-09-16**|**DrugAgent: Explainable Drug Repurposing Agent with Large Language Model-based Reasoning**|Yoshitaka Inoue et.al.|[2408.13378](http://arxiv.org/abs/2408.13378)|null|
 |**2024-08-22**|**Extrinsic Fluctuations in the p53 Cycle**|Manuel Eduardo Hernández-García et.al.|[2408.12107](http://arxiv.org/abs/2408.12107)|null|
 |**2024-08-17**|**NP-TCMtarget: a network pharmacology platform for exploring mechanisms of action of Traditional Chinese medicine**|Aoyi Wang et.al.|[2408.09142](http://arxiv.org/abs/2408.09142)|null|
@@ -362,7 +362,7 @@ layout: default
 |**2024-10-17**|**Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**|Yida Xiong et.al.|[2410.13597](http://arxiv.org/abs/2410.13597)|null|
 |**2025-02-17**|**MING: A Functional Approach to Learning Molecular Generative Models**|Van Khoa Nguyen et.al.|[2410.12522](http://arxiv.org/abs/2410.12522)|null|
 |**2024-10-15**|**It Takes Two to Tango: Directly Optimizing for Constrained Synthesizability in Generative Molecular Design**|Jeff Guo et.al.|[2410.11527](http://arxiv.org/abs/2410.11527)|**[link](https://github.com/schwallergroup/saturn)**|
-|**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
+|**2025-02-28**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-11**|**nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder**|Maksim Kuznetsov et.al.|[2410.09240](http://arxiv.org/abs/2410.09240)|null|
 |**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
 |**2024-10-08**|**SymDiff: Equivariant Diffusion via Stochastic Symmetrisation**|Leo Zhang et.al.|[2410.06262](http://arxiv.org/abs/2410.06262)|null|
@@ -371,7 +371,7 @@ layout: default
 |**2024-10-04**|**Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**|Wenhao Gao et.al.|[2410.03494](http://arxiv.org/abs/2410.03494)|**[link](https://github.com/wenhao-gao/synformer)**|
 |**2025-02-17**|**Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**|Hyosoon Jang et.al.|[2410.03138](http://arxiv.org/abs/2410.03138)|null|
 |**2024-10-03**|**G2T-LLM: Graph-to-Tree Text Encoding for Molecule Generation with Fine-Tuned Large Language Models**|Zhaoning Yu et.al.|[2410.02198](http://arxiv.org/abs/2410.02198)|null|
-|**2024-10-02**|**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**|Jun Hyeong Kim et.al.|[2410.01500](http://arxiv.org/abs/2410.01500)|null|
+|**2025-02-28**|**Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation**|Jun Hyeong Kim et.al.|[2410.01500](http://arxiv.org/abs/2410.01500)|null|
 |**2024-09-29**|**When Molecular GAN Meets Byte-Pair Encoding**|Huidong Tang et.al.|[2409.19740](http://arxiv.org/abs/2409.19740)|null|
 |**2024-09-24**|**Quantum Machine Learning in Drug Discovery: Applications in Academia and Pharmaceutical Industries**|Anthony M. Smaldone et.al.|[2409.15645](http://arxiv.org/abs/2409.15645)|null|
 |**2024-09-13**|**Quantum-inspired Reinforcement Learning for Synthesizable Drug Design**|Dannong Wang et.al.|[2409.09183](http://arxiv.org/abs/2409.09183)|null|
@@ -392,7 +392,7 @@ layout: default
 |**2024-06-15**|**Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space**|Mohamed Amine Ketata et.al.|[2406.10513](http://arxiv.org/abs/2406.10513)|null|
 |**2024-06-07**|**Diffusion Models in $\textit{De Novo}$ Drug Design**|Amira Alakhdar et.al.|[2406.08511](http://arxiv.org/abs/2406.08511)|null|
 |**2024-11-06**|**RGFN: Synthesizable Molecular Generation Using GFlowNets**|Michał Koziarski et.al.|[2406.08506](http://arxiv.org/abs/2406.08506)|**[link](https://github.com/koziarskilab/rgfn)**|
-|**2024-06-25**|**Efficient 3D Molecular Generation with Flow Matching and Scale Optimal Transport**|Ross Irwin et.al.|[2406.07266](http://arxiv.org/abs/2406.07266)|null|
+|**2025-02-28**|**SemlaFlow -- Efficient 3D Molecular Generation with Latent Attention and Equivariant Flow Matching**|Ross Irwin et.al.|[2406.07266](http://arxiv.org/abs/2406.07266)|null|
 |**2024-06-07**|**Variational Flow Matching for Graph Generation**|Floor Eijkelboom et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|**[link](https://github.com/MoleculeAI/TAGMol)**|
@@ -545,7 +545,7 @@ layout: default
 |**2024-10-16**|**Multimodal Fusion with Relational Learning for Molecular Property Prediction**|Zhengyang Zhou et.al.|[2410.12128](http://arxiv.org/abs/2410.12128)|null|
 |**2024-10-15**|**Large-Scale Knowledge Integration for Enhanced Molecular Property Prediction**|Yasir Ghunaim et.al.|[2410.11914](http://arxiv.org/abs/2410.11914)|**[link](https://github.com/yasir-ghunaim/kano-chebi)**|
 |**2024-12-18**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
-|**2024-10-14**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
+|**2025-02-28**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-13**|**TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining**|Ruiyi Zhang et.al.|[2410.10006](http://arxiv.org/abs/2410.10006)|null|
 |**2024-10-30**|**Predicting Molecular Ground-State Conformation via Conformation Optimization**|Fanmeng Wang et.al.|[2410.09795](http://arxiv.org/abs/2410.09795)|null|
 |**2024-10-11**|**Unveiling Molecular Secrets: An LLM-Augmented Linear Model for Explainable and Calibratable Molecular Property Prediction**|Zhuoran Li et.al.|[2410.08829](http://arxiv.org/abs/2410.08829)|**[link](https://github.com/molex2024/molex)**|
@@ -704,6 +704,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Structure and Dynamics of Deep Eutectic Systems from Cluster-Optimized Energy Functions**|Kai Töpfer et.al.|[2502.21233](http://arxiv.org/abs/2502.21233)|null|
 |**2025-02-27**|**Atomistic insights into solid solution strengthening: size misfit versus stiffness misfit**|Aoyan Liang et.al.|[2502.19637](http://arxiv.org/abs/2502.19637)|null|
 |**2025-02-26**|**Evidence for strongly correlated superconductivity in La $_3$Ni$_2$O$_7$ from first principles**|Daan Verraes et.al.|[2502.19501](http://arxiv.org/abs/2502.19501)|null|
 |**2025-02-26**|**Towards a robust approach to infer causality in molecular systems satisfying detailed balance**|Vittorio Del Tatto et.al.|[2502.19384](http://arxiv.org/abs/2502.19384)|null|
@@ -1351,13 +1352,46 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**TomoSelfDEQ: Self-Supervised Deep Equilibrium Learning for Sparse-Angle CT Reconstruction**|Tatiana A. Bubba et.al.|[2502.21320](http://arxiv.org/abs/2502.21320)|null|
+|**2025-02-28**|**AutoComb: Automated Comb Sign Detector for 3D CTE Scans**|Shashwat Gupta et.al.|[2502.21311](http://arxiv.org/abs/2502.21311)|null|
+|**2025-02-28**|**Bilevel Optimized Implicit Neural Representation for Scan-Specific Accelerated MRI Reconstruction**|Hongze Yu et.al.|[2502.21292](http://arxiv.org/abs/2502.21292)|null|
+|**2025-02-28**|**BAnG: Bidirectional Anchored Generation for Conditional RNA Design**|Roman Klypa et.al.|[2502.21274](http://arxiv.org/abs/2502.21274)|null|
+|**2025-02-28**|**End-to-End Deep Learning in Phase Noisy Coherent Optical Link**|Omar Alnaseri et.al.|[2502.21209](http://arxiv.org/abs/2502.21209)|null|
+|**2025-02-28**|**AI-Enhanced Self-Triggering for Extensive Air Showers: Performance and FPGA Feasibility**|Qader Dorosti et.al.|[2502.21198](http://arxiv.org/abs/2502.21198)|null|
+|**2025-02-28**|**Variational Bayesian Pseudo-Coreset**|Hyungi Lee et.al.|[2502.21143](http://arxiv.org/abs/2502.21143)|null|
+|**2025-02-28**|**Multimodal Dreaming: A Global Workspace Approach to World Model-Based Reinforcement Learning**|Léopold Maytié et.al.|[2502.21142](http://arxiv.org/abs/2502.21142)|null|
+|**2025-02-28**|**Deep learning-based filtering of cross-spectral matrices using generative adversarial networks**|Christof Puhle et.al.|[2502.21097](http://arxiv.org/abs/2502.21097)|null|
+|**2025-02-28**|**Enhancing deep neural networks through complex-valued representations and Kuramoto synchronization dynamics**|Sabine Muzellec et.al.|[2502.21077](http://arxiv.org/abs/2502.21077)|null|
+|**2025-02-28**|**HoloMine: A Synthetic Dataset for Buried Landmines Recognition using Microwave Holographic Imaging**|Emanuele Vivoli et.al.|[2502.21054](http://arxiv.org/abs/2502.21054)|null|
+|**2025-02-28**|**Position: Solve Layerwise Linear Models First to Understand Neural Dynamical Phenomena (Neural Collapse, Emergence, Lazy/Rich Regime, and Grokking)**|Yoonsoo Nam et.al.|[2502.21009](http://arxiv.org/abs/2502.21009)|null|
+|**2025-02-28**|**Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management**|Z. Wu et.al.|[2502.20959](http://arxiv.org/abs/2502.20959)|null|
+|**2025-02-28**|**Concealed Adversarial attacks on neural networks for sequential data**|Petr Sokerin et.al.|[2502.20948](http://arxiv.org/abs/2502.20948)|null|
+|**2025-02-28**|**Variations in Relevance Judgments and the Shelf Life of Test Collections**|Andrew Parry et.al.|[2502.20937](http://arxiv.org/abs/2502.20937)|null|
+|**2025-02-28**|**A Fused Gromov-Wasserstein Approach to Subgraph Contrastive Learning**|Amadou S. Sangare et.al.|[2502.20885](http://arxiv.org/abs/2502.20885)|null|
+|**2025-02-28**|**Weakly Supervised Multiple Instance Learning for Whale Call Detection and Localization in Long-Duration Passive Acoustic Monitoring**|Ragib Amin Nihal et.al.|[2502.20838](http://arxiv.org/abs/2502.20838)|null|
+|**2025-02-28**|**Learning-Based Leader Localization for Underwater Vehicles With Optical-Acoustic-Pressure Sensor Fusion**|Mingyang Yang et.al.|[2502.20817](http://arxiv.org/abs/2502.20817)|null|
+|**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[2502.20806](http://arxiv.org/abs/2502.20806)|null|
+|**2025-02-28**|**Towards Ultimate NMR Resolution with Deep Learning**|Amir Jahangiri et.al.|[2502.20793](http://arxiv.org/abs/2502.20793)|null|
+|**2025-02-28**|**Autoregressive Medical Image Segmentation via Next-Scale Mask Prediction**|Tao Chen et.al.|[2502.20784](http://arxiv.org/abs/2502.20784)|null|
+|**2025-02-28**|**SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models**|Yichi Zhang et.al.|[2502.20749](http://arxiv.org/abs/2502.20749)|null|
+|**2025-02-28**|**Deep RC: A Scalable Data Engineering and Deep Learning Pipeline**|Arup Kumar Sarker et.al.|[2502.20724](http://arxiv.org/abs/2502.20724)|null|
+|**2025-02-28**|**A Quantum-Empowered SPEI Drought Forecasting Algorithm Using Spatially-Aware Mamba Network**|Po-Wei Tang et.al.|[2502.20703](http://arxiv.org/abs/2502.20703)|null|
+|**2025-02-28**|**FoCTTA: Low-Memory Continual Test-Time Adaptation with Focus**|Youbing Hu et.al.|[2502.20677](http://arxiv.org/abs/2502.20677)|null|
+|**2025-02-28**|**Dataset Distillation with Neural Characteristic Function: A Minmax Perspective**|Shaobo Wang et.al.|[2502.20653](http://arxiv.org/abs/2502.20653)|null|
+|**2025-02-28**|**TractCloud-FOV: Deep Learning-based Robust Tractography Parcellation in Diffusion MRI with Incomplete Field of View**|Yuqian Chen et.al.|[2502.20637](http://arxiv.org/abs/2502.20637)|null|
+|**2025-02-28**|**Exploring the Impact of Temperature Scaling in Softmax for Classification and Adversarial Robustness**|Hao Xuan et.al.|[2502.20604](http://arxiv.org/abs/2502.20604)|null|
+|**2025-02-28**|**Deep Learning of the Evolution Operator Enables Forecasting of Out-of-Training Dynamics in Chaotic Systems**|Ira J. S. Shokar et.al.|[2502.20603](http://arxiv.org/abs/2502.20603)|null|
+|**2025-02-27**|**LLMs Have Rhythm: Fingerprinting Large Language Models Using Inter-Token Times and Network Traffic Analysis**|Saeif Alhazbi et.al.|[2502.20589](http://arxiv.org/abs/2502.20589)|null|
+|**2025-02-27**|**PFformer: A Position-Free Transformer Variant for Extreme-Adaptive Multivariate Time Series Forecasting**|Yanhong Li et.al.|[2502.20571](http://arxiv.org/abs/2502.20571)|null|
+|**2025-02-27**|**An Integrated Deep Learning Framework Leveraging NASNet and Vision Transformer with MixProcessing for Accurate and Precise Diagnosis of Lung Diseases**|Sajjad Saleem et.al.|[2502.20570](http://arxiv.org/abs/2502.20570)|null|
+|**2025-02-27**|**Unified Kernel-Segregated Transpose Convolution Operation**|Vijay Srinivas Tida et.al.|[2502.20493](http://arxiv.org/abs/2502.20493)|null|
 |**2025-02-27**|**SecureGaze: Defending Gaze Estimation Against Backdoor Attacks**|Lingyu Du et.al.|[2502.20306](http://arxiv.org/abs/2502.20306)|null|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
 |**2025-02-27**|**On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+( $λ$,$λ$ ))-GA**|Tai Nguyen et.al.|[2502.20265](http://arxiv.org/abs/2502.20265)|null|
 |**2025-02-27**|**RURANET++: An Unsupervised Learning Method for Diabetic Macular Edema Based on SCSE Attention Mechanisms and Dynamic Multi-Projection Head Clustering**|Wei Yang et.al.|[2502.20224](http://arxiv.org/abs/2502.20224)|null|
 |**2025-02-27**|**Deep Convolutional Neural Networks for Palm Fruit Maturity Classification**|Mingqiang Han et.al.|[2502.20223](http://arxiv.org/abs/2502.20223)|null|
 |**2025-02-27**|**Balanced Rate-Distortion Optimization in Learned Image Compression**|Yichi Zhang et.al.|[2502.20161](http://arxiv.org/abs/2502.20161)|null|
-|**2025-02-27**|**Regional climate projections using a deep learning--based model-ranking and downscaling framework: Application to European climate zones**|Parthiban Loganathan et.al.|[2502.20132](http://arxiv.org/abs/2502.20132)|null|
+|**2025-02-28**|**Regional climate projections using a deep-learning-based model-ranking and downscaling framework: Application to European climate zones**|Parthiban Loganathan et.al.|[2502.20132](http://arxiv.org/abs/2502.20132)|null|
 |**2025-02-27**|**Learning Hamiltonian Density Using DeepONet**|Baige Xu et.al.|[2502.19994](http://arxiv.org/abs/2502.19994)|null|
 |**2025-02-27**|**SeisMoLLM: Advancing Seismic Monitoring via Cross-modal Transfer with Pre-trained Large Language Model**|Xinghao Wang et.al.|[2502.19960](http://arxiv.org/abs/2502.19960)|**[link](https://github.com/StarMoonWang/SeisMoLLM)**|
 |**2025-02-27**|**Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning**|Berken Utku Demirel et.al.|[2502.19921](http://arxiv.org/abs/2502.19921)|null|
@@ -1413,11 +1447,11 @@ layout: default
 |**2025-02-25**|**Understanding Untrained Deep Models for Inverse Problems: Algorithms and Theory**|Ismail Alkhouri et.al.|[2502.18612](http://arxiv.org/abs/2502.18612)|null|
 |**2025-02-25**|**Tighten The Lasso: A Convex Hull Volume-based Anomaly Detection Method**|Uri Itai et.al.|[2502.18601](http://arxiv.org/abs/2502.18601)|null|
 |**2025-02-25**|**Application of Attention Mechanism with Bidirectional Long Short-Term Memory (BiLSTM) and CNN for Human Conflict Detection using Computer Vision**|Erick da Silva Farias et.al.|[2502.18555](http://arxiv.org/abs/2502.18555)|null|
-|**2025-02-25**|**Applications of Statistical Field Theory in Deep Learning**|Zohar Ringel et.al.|[2502.18553](http://arxiv.org/abs/2502.18553)|null|
+|**2025-02-28**|**Applications of Statistical Field Theory in Deep Learning**|Zohar Ringel et.al.|[2502.18553](http://arxiv.org/abs/2502.18553)|null|
 |**2025-02-25**|**Convolutional neural networks for mineral prospecting through alteration mapping with remote sensing data**|Ehsan Farahbakhsh et.al.|[2502.18533](http://arxiv.org/abs/2502.18533)|null|
 |**2025-02-25**|**MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**|Zhuoqin Yang et.al.|[2502.18416](http://arxiv.org/abs/2502.18416)|null|
 |**2025-02-25**|**MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**|Sepehr Asgarian et.al.|[2502.18371](http://arxiv.org/abs/2502.18371)|null|
-|**2025-02-25**|**A Deep Neural Network Approach to Compact Source Removal**|M. Madarász et.al.|[2502.18345](http://arxiv.org/abs/2502.18345)|**[link](https://github.com/xmedimadix/compact-source-removal)**|
+|**2025-02-28**|**A Deep Neural Network Approach to Compact Source Removal**|M. Madarász et.al.|[2502.18345](http://arxiv.org/abs/2502.18345)|**[link](https://github.com/xmedimadix/compact-source-removal)**|
 |**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315](http://arxiv.org/abs/2502.18315)|null|
 |**2025-02-27**|**Bayesian Computation in Deep Learning**|Wenlong Chen et.al.|[2502.18300](http://arxiv.org/abs/2502.18300)|null|
 |**2025-02-25**|**Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints**|Mihaela Cătălina Stoian et.al.|[2502.18237](http://arxiv.org/abs/2502.18237)|**[link](https://github.com/mihaela-stoian/drl_dgm)**|
