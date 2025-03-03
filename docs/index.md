@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1440,7 +1440,7 @@ layout: default
 |**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|**[link](https://github.com/seatizendoi/zenodo-tools)**|
 |**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
 |**2025-02-25**|**Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning**|Runzhong Wang et.al.|[2502.17874](http://arxiv.org/abs/2502.17874)|null|
-|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|null|
+|**2025-02-25**|**EEGM2: An Efficient Mamba-2-Based Self-Supervised Framework for Long-Sequence EEG Modeling**|Jiazhen Hong et.al.|[2502.17873](http://arxiv.org/abs/2502.17873)|**[link](https://github.com/Jiazhen-Hong/EEGM2)**|
 |**2025-02-25**|**Sketch-1-to-3: One Single Sketch to 3D Detailed Face Reconstruction**|Liting Wen et.al.|[2502.17852](http://arxiv.org/abs/2502.17852)|null|
 |**2025-02-25**|**Weakly Supervised Pixel-Level Annotation with Visual Interpretability**|Basma Nasir et.al.|[2502.17824](http://arxiv.org/abs/2502.17824)|null|
 |**2025-02-25**|**An Overview of Large Language Models for Statisticians**|Wenlong Ji et.al.|[2502.17814](http://arxiv.org/abs/2502.17814)|null|
