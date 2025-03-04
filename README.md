@@ -352,7 +352,7 @@
 |**2025-02-23**|**Auxiliary Discrminator Sequence Generative Adversarial Networks (ADSeqGAN) for Few Sample Molecule Generation**|Haocheng Tang et.al.|[2502.16446](http://arxiv.org/abs/2502.16446)|**[link](https://github.com/clickff/adseqgan)**|
 |**2025-02-19**|**FragFM: Efficient Fragment-Based Molecular Generation via Discrete Flow Matching**|Joongwon Lee et.al.|[2502.15805](http://arxiv.org/abs/2502.15805)|null|
 |**2025-02-13**|**Diffusion Models for Molecules: A Survey of Methods and Tasks**|Liang Wang et.al.|[2502.09511](http://arxiv.org/abs/2502.09511)|**[link](https://github.com/azureleon1/awesome-molecular-diffusion-models)**|
-|**2025-02-06**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
+|**2025-03-01**|**Fast Direct: Query-Efficient Online Black-box Guidance for Diffusion-model Target Generation**|Kim Yong Tan et.al.|[2502.01692](http://arxiv.org/abs/2502.01692)|**[link](https://github.com/kimyong95/guide-stable-diffusion)**|
 |**2025-01-30**|**BARNN: A Bayesian Autoregressive and Recurrent Neural Network**|Dario Coscia et.al.|[2501.18665](http://arxiv.org/abs/2501.18665)|null|
 |**2025-01-21**|**Federated Discrete Denoising Diffusion Model for Molecular Generation with OpenFL**|Kevin Ta et.al.|[2501.12523](http://arxiv.org/abs/2501.12523)|**[link](https://github.com/securefederatedai/openfl)**|
 |**2025-01-10**|**GenMol: A Drug Discovery Generalist with Discrete Diffusion**|Seul Lee et.al.|[2501.06158](http://arxiv.org/abs/2501.06158)|null|
@@ -379,7 +379,7 @@
 |**2025-02-28**|**UniGEM: A Unified Approach to Generation and Property Prediction for Molecules**|Shikun Feng et.al.|[2410.10516](http://arxiv.org/abs/2410.10516)|null|
 |**2024-10-11**|**nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder**|Maksim Kuznetsov et.al.|[2410.09240](http://arxiv.org/abs/2410.09240)|null|
 |**2024-10-09**|**Chemistry-Inspired Diffusion with Non-Differentiable Guidance**|Yuchen Shen et.al.|[2410.06502](http://arxiv.org/abs/2410.06502)|null|
-|**2024-10-08**|**SymDiff: Equivariant Diffusion via Stochastic Symmetrisation**|Leo Zhang et.al.|[2410.06262](http://arxiv.org/abs/2410.06262)|null|
+|**2025-03-02**|**SymDiff: Equivariant Diffusion via Stochastic Symmetrisation**|Leo Zhang et.al.|[2410.06262](http://arxiv.org/abs/2410.06262)|null|
 |**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|**[link](https://github.com/liugangcode/Llamole)**|
 |**2025-02-10**|**Geometric Representation Condition Improves Equivariant Molecule Generation**|Zian Li et.al.|[2410.03655](http://arxiv.org/abs/2410.03655)|null|
 |**2024-10-04**|**Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**|Wenhao Gao et.al.|[2410.03494](http://arxiv.org/abs/2410.03494)|**[link](https://github.com/wenhao-gao/synformer)**|
