@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -723,7 +723,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-17**|**ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics**|Lorién López-Villellas et.al.|[2503.13075](http://arxiv.org/abs/2503.13075)|null|
+|**2025-03-17**|**ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics**|Lorién López-Villellas et.al.|[2503.13075](http://arxiv.org/abs/2503.13075)|**[link](https://github.com/LorienLV/_PAPER_ILVES)**|
 |**2025-03-16**|**Light-induced quantum friction of carbon nanotubes in water**|Tanuja Kistwal et.al.|[2503.12580](http://arxiv.org/abs/2503.12580)|null|
 |**2025-03-16**|**Antiferromagnetic two-dimensional transition-metal nitride Co $_2$N$_2$ layer with high N$\rm \acute{\textbf e}$ el temperature and Dirac fermions**|Lujia Tian et.al.|[2503.12413](http://arxiv.org/abs/2503.12413)|null|
 |**2025-03-14**|**Anthraphenylenes: Porous 2D Carbon Monolayers with Biphenyl-Anthracene Frameworks and Type-II Dirac line nodes**|K. A. L. Lima et.al.|[2503.11805](http://arxiv.org/abs/2503.11805)|null|
@@ -733,7 +733,7 @@ layout: default
 |**2025-03-14**|**Solubility and dissociation of ionic liquids in epoxides and cyclic carbonate by molecular dynamics simulation**|Sergio Dorado-Alfaro et.al.|[2503.11257](http://arxiv.org/abs/2503.11257)|null|
 |**2025-03-14**|**Tuning Electrode Wettability to Optimize Nanobubble Nucleation and Reaction Rates in Electrochemical Gas-Evolving Reactions**|Zhenlei Wanga et.al.|[2503.11110](http://arxiv.org/abs/2503.11110)|null|
 |**2025-03-13**|**Water is a superacid at extreme thermodynamic conditions**|Thomas Thévenet et.al.|[2503.10849](http://arxiv.org/abs/2503.10849)|null|
-|**2025-03-07**|**Active learning for parameter-free multiscale modeling of boundary lubrication**|Hannes Holey et.al.|[2503.09619](http://arxiv.org/abs/2503.09619)|null|
+|**2025-03-07**|**Active learning for parameter-free multiscale modeling of boundary lubrication**|Hannes Holey et.al.|[2503.09619](http://arxiv.org/abs/2503.09619)|**[link](https://github.com/hannes-holey/hans)**|
 |**2025-03-12**|**Melting of rods on a sphere via an intermediate hexatic phase**|Jaydeep Mandal et.al.|[2503.09362](http://arxiv.org/abs/2503.09362)|null|
 |**2025-03-12**|**Moiré-Driven Interfacial Thermal Transport in Twisted Transition Metal Dichalcogenides**|Wenwu Jiang et.al.|[2503.09141](http://arxiv.org/abs/2503.09141)|null|
 |**2025-03-11**|**The standard coil or globule phases cannot describe the denatured state of structured proteins and intrinsically disordered proteins**|F. Righini et.al.|[2503.08115](http://arxiv.org/abs/2503.08115)|null|
@@ -784,7 +784,7 @@ layout: default
 |**2025-02-17**|**Why is the strength of a polymer network so low?**|Shaswat Mohanty et.al.|[2502.11339](http://arxiv.org/abs/2502.11339)|**[link](https://gitlab.com/micronano_public/polybranchx)**|
 |**2025-02-19**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149](http://arxiv.org/abs/2502.11149)|null|
 |**2025-02-15**|**Thermal response functions and second sound in single-layer hexagonal boron nitride**|Patrick K. Schelling et.al.|[2502.10649](http://arxiv.org/abs/2502.10649)|null|
-|**2025-02-11**|**Iterative charge equilibration for fourth-generation high-dimensional neural network potentials**|Emir Kocer et.al.|[2502.07907](http://arxiv.org/abs/2502.07907)|null|
+|**2025-03-17**|**Iterative charge equilibration for fourth-generation high-dimensional neural network potentials**|Emir Kocer et.al.|[2502.07907](http://arxiv.org/abs/2502.07907)|null|
 |**2025-02-11**|**Adsorption Behavior of Greenhouse Gases on Carbon Nanobelts: A Semi-Empirical Tight-Binding Approach for Environmental Application**|C. Aguiar et.al.|[2502.07690](http://arxiv.org/abs/2502.07690)|null|
 |**2025-02-10**|**Theoretical Predictions of MB5N5: Atom-Stuffed Boronitride Clathrate Cages Derived from the High-Pressure Superhydride**|Nisha Geng et.al.|[2502.06700](http://arxiv.org/abs/2502.06700)|null|
 |**2025-02-10**|**The Ridge Integration Method and its Application to Molecular Sieving, Demonstrated for Gas Purification via Graphdiyne Membranes**|Christian W. Binder et.al.|[2502.06654](http://arxiv.org/abs/2502.06654)|**[link](https://github.com/hauser-group/ridge_integrator)**|
@@ -1510,7 +1510,7 @@ layout: default
 |**2025-03-13**|**Explainable Bayesian deep learning through input-skip Latent Binary Bayesian Neural Networks**|Eirik Høyheim et.al.|[2503.10496](http://arxiv.org/abs/2503.10496)|**[link](https://github.com/eirihoyh/ISLaB-LBBNN)**|
 |**2025-03-13**|**Applying Tabular Deep Learning Models to Estimate Crash Injury Types of Young Motorcyclists**|Shriyank Somvanshi et.al.|[2503.10474](http://arxiv.org/abs/2503.10474)|null|
 |**2025-03-16**|**Deep Learning based discovery of Integrable Systems**|Shailesh Lal et.al.|[2503.10469](http://arxiv.org/abs/2503.10469)|null|
-|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468](http://arxiv.org/abs/2503.10468)|null|
+|**2025-03-13**|**OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary**|Yifeng Yang et.al.|[2503.10468](http://arxiv.org/abs/2503.10468)|**[link](https://github.com/zxk1212/OODD)**|
 |**2025-03-13**|**BeamLLM: Vision-Empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2503.10432](http://arxiv.org/abs/2503.10432)|null|
 |**2025-03-13**|**Low Complexity Point Tracking of the Myocardium in 2D Echocardiography**|Artem Chernyshov et.al.|[2503.10431](http://arxiv.org/abs/2503.10431)|**[link](https://github.com/artemcher/myotracker)**|
 |**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398](http://arxiv.org/abs/2503.10398)|null|
