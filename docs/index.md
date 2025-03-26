@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1511,7 +1511,7 @@ layout: default
 |**2025-03-21**|**Improving mmWave based Hand Hygiene Monitoring through Beam Steering and Combining Techniques**|Isura Nirmal et.al.|[2503.16764](http://arxiv.org/abs/2503.16764)|null|
 |**2025-03-21**|**Rethinking the Role of Spatial Mixing**|George Cazenavette et.al.|[2503.16760](http://arxiv.org/abs/2503.16760)|null|
 |**2025-03-20**|**Ordered Topological Deep Learning: a Network Modeling Case Study**|Guillermo Bernárdez et.al.|[2503.16746](http://arxiv.org/abs/2503.16746)|null|
-|**2025-03-20**|**CTorch: PyTorch-Compatible GPU-Accelerated Auto-Differentiable Projector Toolbox for Computed Tomography**|Xiao Jiang et.al.|[2503.16741](http://arxiv.org/abs/2503.16741)|null|
+|**2025-03-24**|**CTorch: PyTorch-Compatible GPU-Accelerated Auto-Differentiable Projector Toolbox for Computed Tomography**|Xiao Jiang et.al.|[2503.16741](http://arxiv.org/abs/2503.16741)|null|
 |**2025-03-24**|**Design and Implementation of an FPGA-Based Tiled Matrix Multiplication Accelerator for Transformer Self-Attention on the Xilinx KV260 SoM**|Richie Li et.al.|[2503.16731](http://arxiv.org/abs/2503.16731)|**[link](https://github.com/Richielee630/TMMA)**|
 |**2025-03-20**|**Deep-TAO: The Deep Learning Transient Astronomical Object data set for Astronomical Transient Event Classification**|John F. Suárez-Pérez et.al.|[2503.16714](http://arxiv.org/abs/2503.16714)|null|
 |**2025-03-20**|**NeuroSep-CP-LCB: A Deep Learning-based Contextual Multi-armed Bandit Algorithm with Uncertainty Quantification for Early Sepsis Prediction**|Anni Zhou et.al.|[2503.16708](http://arxiv.org/abs/2503.16708)|null|
