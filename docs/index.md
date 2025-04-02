@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -422,7 +422,7 @@ layout: default
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
 |**2024-06-03**|**TAGMol: Target-Aware Gradient-guided Molecule Generation**|Vineeth Dorna et.al.|[2406.01650](http://arxiv.org/abs/2406.01650)|**[link](https://github.com/MoleculeAI/TAGMol)**|
 |**2024-10-29**|**Pessimistic Backward Policy for GFlowNets**|Hyosoon Jang et.al.|[2405.16012](http://arxiv.org/abs/2405.16012)|**[link](https://github.com/hsjang0/Pessimistic-Backward-Policy-for-GFlowNets)**|
-|**2024-04-04**|**GP-MoLFormer: A Foundation Model For Molecular Generation**|Jerret Ross et.al.|[2405.04912](http://arxiv.org/abs/2405.04912)|null|
+|**2025-03-31**|**GP-MoLFormer: A Foundation Model For Molecular Generation**|Jerret Ross et.al.|[2405.04912](http://arxiv.org/abs/2405.04912)|null|
 |**2024-07-16**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|**[link](https://github.com/seojin-kim/hi-mol)**|
 |**2024-10-16**|**SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints**|Miruna Cretu et.al.|[2405.01155](http://arxiv.org/abs/2405.01155)|**[link](https://github.com/mirunacrt/synflownet)**|
 |**2024-08-15**|**Leveraging Active Subspaces to Capture Epistemic Model Uncertainty in Deep Generative Models for Molecular Design**|A N M Nafiz Abeer et.al.|[2405.00202](http://arxiv.org/abs/2405.00202)|null|
