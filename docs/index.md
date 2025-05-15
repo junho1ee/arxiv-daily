@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1594,7 +1594,7 @@ layout: default
 |**2025-05-12**|**Joint Graph Convolution and Sequential Modeling for Scalable Network Traffic Estimation**|Nan Jiang et.al.|[2505.07674](http://arxiv.org/abs/2505.07674)|null|
 |**2025-05-12**|**Breast Cancer Classification in Deep Ultraviolet Fluorescence Images Using a Patch-Level Vision Transformer Framework**|Pouya Afshin et.al.|[2505.07654](http://arxiv.org/abs/2505.07654)|null|
 |**2025-05-12**|**Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods,Datasets,and Future Directions**|Yi Zhang et.al.|[2505.07611](http://arxiv.org/abs/2505.07611)|null|
-|**2025-05-12**|**Security through the Eyes of AI: How Visualization is Shaping Malware Detection**|Asmitha K. A. et.al.|[2505.07574](http://arxiv.org/abs/2505.07574)|null|
+|**2025-05-13**|**Security through the Eyes of AI: How Visualization is Shaping Malware Detection**|Matteo Brosolo et.al.|[2505.07574](http://arxiv.org/abs/2505.07574)|null|
 |**2025-05-12**|**Adaptive Latent-Space Constraints in Personalized FL**|Sana Ayromlou et.al.|[2505.07525](http://arxiv.org/abs/2505.07525)|**[link](https://github.com/vectorinstitute/fl4health)**|
 |**2025-05-12**|**EAGLE: Contrastive Learning for Efficient Graph Anomaly Detection**|Jing Ren et.al.|[2505.07508](http://arxiv.org/abs/2505.07508)|null|
 |**2025-05-12**|**Evaluating the Scalability of Binary and Ternary CNN Workloads on RRAM-based Compute-in-Memory Accelerators**|José Cubero-Cascante et.al.|[2505.07490](http://arxiv.org/abs/2505.07490)|null|
