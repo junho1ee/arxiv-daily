@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1639,7 +1639,7 @@ layout: default
 |**2025-05-20**|**Handloom Design Generation Using Generative Networks**|Rajat Kanti Bhattacharjee et.al.|[2505.14330](http://arxiv.org/abs/2505.14330)|null|
 |**2025-05-20**|**AquaSignal: An Integrated Framework for Robust Underwater Acoustic Analysis**|Eirini Panteli et.al.|[2505.14285](http://arxiv.org/abs/2505.14285)|null|
 |**2025-05-20**|**Application of Deep Learning to the Classification of Stokes Profiles: From the Quiet Sun to Sunspots**|Ryan James Campbell et.al.|[2505.14275](http://arxiv.org/abs/2505.14275)|null|
-|**2025-05-20**|**Hybrid Bernstein Normalizing Flows for Flexible Multivariate Density Regression with Interpretable Marginals**|Marcel Arpogaus et.al.|[2505.14164](http://arxiv.org/abs/2505.14164)|null|
+|**2025-05-20**|**Hybrid Bernstein Normalizing Flows for Flexible Multivariate Density Regression with Interpretable Marginals**|Marcel Arpogaus et.al.|[2505.14164](http://arxiv.org/abs/2505.14164)|**[link](https://github.com/MArpogaus/hybrid-flows)**|
 |**2025-05-20**|**RT-APNN for Solving Gray Radiative Transfer Equations**|Xizhe Xie et.al.|[2505.14144](http://arxiv.org/abs/2505.14144)|null|
 |**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
 |**2025-05-20**|**Collaborative Unlabeled Data Optimization**|Xinyi Shang et.al.|[2505.14117](http://arxiv.org/abs/2505.14117)|null|
