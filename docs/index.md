@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -574,7 +574,7 @@ layout: default
 |**2025-05-17**|**AdaptMol: Adaptive Fusion from Sequence String to Topological Structure for Few-shot Drug Discovery**|Yifan Dai et.al.|[2505.11878](http://arxiv.org/abs/2505.11878)|null|
 |**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120](http://arxiv.org/abs/2505.10120)|null|
 |**2025-05-13**|**A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML**|Aravindh Nivas Marimuthu et.al.|[2505.08688](http://arxiv.org/abs/2505.08688)|null|
-|**2025-05-16**|**Impact of SMILES Notational Inconsistencies on Chemical Language Model Performance**|Yosuke Kikuchi et.al.|[2505.07139](http://arxiv.org/abs/2505.07139)|null|
+|**2025-05-16**|**Impact of SMILES Notational Inconsistencies on Chemical Language Model Performance**|Yosuke Kikuchi et.al.|[2505.07139](http://arxiv.org/abs/2505.07139)|**[link](https://github.com/mizuno-group/notationalinconsistency)**|
 |**2025-05-16**|**34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery**|Yoel Zimmermann et.al.|[2505.03049](http://arxiv.org/abs/2505.03049)|null|
 |**2025-05-03**|**BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models**|Evan R. Antoniuk et.al.|[2505.01912](http://arxiv.org/abs/2505.01912)|null|
 |**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
@@ -1590,19 +1590,19 @@ layout: default
 |**2025-05-22**|**End-to-End Framework for Predicting the Remaining Useful Life of Lithium-Ion Batteries**|Khoa Tran et.al.|[2505.16664](http://arxiv.org/abs/2505.16664)|null|
 |**2025-05-22**|**Synthesis of Ventilator Dyssynchrony Waveforms using a Hybrid Generative Model and a Lung Model**|Sagar Deep Deb et.al.|[2505.16462](http://arxiv.org/abs/2505.16462)|null|
 |**2025-05-22**|**CMRINet: Joint Groupwise Registration and Segmentation for Cardiac Function Quantification from Cine-MRI**|Mohamed S. Elmahdy et.al.|[2505.16452](http://arxiv.org/abs/2505.16452)|null|
-|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402](http://arxiv.org/abs/2505.16402)|null|
+|**2025-05-22**|**AdvReal: Adversarial Patch Generation Framework with Application to Adversarial Safety Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402](http://arxiv.org/abs/2505.16402)|**[link](https://github.com/huangyh98/advreal)**|
 |**2025-05-22**|**Estimating Perceptual Attributes of Haptic Textures Using Visuo-Tactile Data**|Mudassir Ibrahim Awan et.al.|[2505.16352](http://arxiv.org/abs/2505.16352)|null|
 |**2025-05-22**|**Is Quantum Optimization Ready? An Effort Towards Neural Network Compression using Adiabatic Quantum Computing**|Zhehui Wanga et.al.|[2505.16332](http://arxiv.org/abs/2505.16332)|null|
 |**2025-05-22**|**No Black Boxes: Interpretable and Interactable Predictive Healthcare with Knowledge-Enhanced Agentic Causal Discovery**|Xiaoxue Han et.al.|[2505.16288](http://arxiv.org/abs/2505.16288)|null|
-|**2025-05-22**|**Brand: Managing Training Data with Batched Random Access**|Yuhao Li et.al.|[2505.16280](http://arxiv.org/abs/2505.16280)|null|
-|**2025-05-22**|**All You Need is "Leet": Evading Hate-speech Detection AI**|Sampanna Yashwant Kahu et.al.|[2505.16263](http://arxiv.org/abs/2505.16263)|null|
+|**2025-05-22**|**Brand: Managing Training Data with Batched Random Access**|Yuhao Li et.al.|[2505.16280](http://arxiv.org/abs/2505.16280)|**[link](https://github.com/brand-official/brand)**|
+|**2025-05-22**|**All You Need is "Leet": Evading Hate-speech Detection AI**|Sampanna Yashwant Kahu et.al.|[2505.16263](http://arxiv.org/abs/2505.16263)|**[link](https://github.com/sampannakahu/all_you_need_is_leet)**|
 |**2025-05-22**|**Realistic Evaluation of TabPFN v2 in Open Environments**|Zi-Jian Cheng et.al.|[2505.16226](http://arxiv.org/abs/2505.16226)|null|
 |**2025-05-22**|**MADCluster: Model-agnostic Anomaly Detection with Self-supervised Clustering Network**|Sangyong Lee et.al.|[2505.16223](http://arxiv.org/abs/2505.16223)|null|
 |**2025-05-22**|**TRAIL: Transferable Robust Adversarial Images via Latent diffusion**|Yuhao Xue et.al.|[2505.16166](http://arxiv.org/abs/2505.16166)|null|
-|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|null|
+|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|**[link](https://github.com/wlydlut/uhd-image-restoration-survey)**|
 |**2025-05-22**|**BadDepth: Backdoor Attacks Against Monocular Depth Estimation in the Physical World**|Ji Guo et.al.|[2505.16154](http://arxiv.org/abs/2505.16154)|null|
-|**2025-05-22**|**Beamforming-Codebook-Aware Channel Knowledge Map Construction for Multi-Antenna Systems**|Haohan Wang et.al.|[2505.16132](http://arxiv.org/abs/2505.16132)|null|
-|**2025-05-22**|**Robust Invariant Representation Learning by Distribution Extrapolation**|Kotaro Yoshida et.al.|[2505.16126](http://arxiv.org/abs/2505.16126)|null|
+|**2025-05-22**|**Beamforming-Codebook-Aware Channel Knowledge Map Construction for Multi-Antenna Systems**|Haohan Wang et.al.|[2505.16132](http://arxiv.org/abs/2505.16132)|**[link](https://github.com/github-whh/transunet)**|
+|**2025-05-23**|**Robust Invariant Representation Learning by Distribution Extrapolation**|Kotaro Yoshida et.al.|[2505.16126](http://arxiv.org/abs/2505.16126)|null|
 |**2025-05-21**|**FR-Mamba: Time-Series Physical Field Reconstruction Based on State Space Model**|Jiahuan Long et.al.|[2505.16083](http://arxiv.org/abs/2505.16083)|null|
 |**2025-05-21**|**Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation**|Gowtham Premananth et.al.|[2505.16044](http://arxiv.org/abs/2505.16044)|null|
 |**2025-05-21**|**An Approach Towards Identifying Bangladeshi Leaf Diseases through Transfer Learning and XAI**|Faika Fairuj Preotee et.al.|[2505.16033](http://arxiv.org/abs/2505.16033)|null|
@@ -11163,7 +11163,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-17**|**Multi-Ligand Simultaneous Docking Analysis of Moringa Oleifera Phytochemicals Reveals Enhanced BCL-2 Inhibition via Synergistic Action**|Asmita Saha et.al.|[2505.12073](http://arxiv.org/abs/2505.12073)|null|
 |**2025-05-17**|**Prediction of Novel CXCR7 Inhibitors Using QSAR Modeling and Validation via Molecular Docking**|Belaguppa Manjunath Ashwin Desai et.al.|[2505.12055](http://arxiv.org/abs/2505.12055)|null|
-|**2025-05-13**|**DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation**|Dan Luo et.al.|[2505.11529](http://arxiv.org/abs/2505.11529)|null|
+|**2025-05-13**|**DynamicDTA: Drug-Target Binding Affinity Prediction Using Dynamic Descriptors and Graph Representation**|Dan Luo et.al.|[2505.11529](http://arxiv.org/abs/2505.11529)|**[link](https://github.com/shmily-ld/dynamicdta)**|
 |**2025-05-13**|**Computational Analysis using Multi-ligand Simultaneous Docking of Withaferin A and Garcinol Reveals Enhanced BCL-2 and AKT-1 Inhibition**|Pronama Biswas et.al.|[2505.08632](http://arxiv.org/abs/2505.08632)|null|
 |**2025-05-12**|**In Silico Prediction and Validation of LmGt Inhibitors Using QSAR and Molecular Docking Approaches**|Pronama Biswas et.al.|[2505.07748](http://arxiv.org/abs/2505.07748)|null|
 |**2025-05-14**|**Multi-Objective-Guided Discrete Flow Matching for Controllable Biological Sequence Design**|Tong Chen et.al.|[2505.07086](http://arxiv.org/abs/2505.07086)|null|
