@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -408,7 +408,7 @@ layout: default
 |**2024-11-19**|**Balancing property optimization and constraint satisfaction for constrained multi-property molecular optimization**|Xin Xia et.al.|[2411.15183](http://arxiv.org/abs/2411.15183)|**[link](https://github.com/ahu-bioinf-lab/CMOMO-master)**|
 |**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
 |**2024-11-18**|**Molecule Generation with Fragment Retrieval Augmentation**|Seul Lee et.al.|[2411.12078](http://arxiv.org/abs/2411.12078)|null|
-|**2024-11-10**|**MolMiner: Transformer architecture for fragment-based autoregressive generation of molecular stories**|Raul Ortega Ochoa et.al.|[2411.06608](http://arxiv.org/abs/2411.06608)|null|
+|**2025-05-23**|**MolMiner: Towards Controllable, 3D-Aware, Fragment-Based Molecular Design**|Raul Ortega-Ochoa et.al.|[2411.06608](http://arxiv.org/abs/2411.06608)|null|
 |**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
 |**2024-11-01**|**Conditional Synthesis of 3D Molecules with Time Correction Sampler**|Hojung Jung et.al.|[2411.00551](http://arxiv.org/abs/2411.00551)|null|
 |**2024-10-31**|**Diffusion Twigs with Loop Guidance for Conditional Graph Generation**|Giangiacomo Mercatali et.al.|[2410.24012](http://arxiv.org/abs/2410.24012)|**[link](https://github.com/aalto-quml/diffusion_twigs)**|
