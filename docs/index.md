@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -242,7 +242,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034](http://arxiv.org/abs/2505.23034)|null|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
-|**2025-04-02**|**An AI-powered Public Health Automated Kiosk System for Personalized Care: An Experimental Pilot Study**|Sonya Falahati et.al.|[2504.13880](http://arxiv.org/abs/2504.13880)|null|
+|**2025-06-02**|**An AI-powered Public Health Automated Kiosk System for Personalized Care: An Experimental Pilot Study**|Sonya Falahati et.al.|[2504.13880](http://arxiv.org/abs/2504.13880)|null|
 |**2025-03-30**|**Addressing Model Overcomplexity in Drug-Drug Interaction Prediction With Molecular Fingerprints**|Manel Gil-Sorribes et.al.|[2503.23550](http://arxiv.org/abs/2503.23550)|null|
 |**2025-02-21**|**MMRAG: Multi-Mode Retrieval-Augmented Generation with Large Language Models for Biomedical In-Context Learning**|Zaifu Zhan et.al.|[2502.15954](http://arxiv.org/abs/2502.15954)|null|
 |**2025-03-21**|**Knowledge-aware contrastive heterogeneous molecular graph learning**|Mukun Chen et.al.|[2502.11711](http://arxiv.org/abs/2502.11711)|null|
@@ -396,7 +396,7 @@ layout: default
 |**2025-03-07**|**Mol-CADiff: Causality-Aware Autoregressive Diffusion for Molecule Generation**|Md Atik Ahamed et.al.|[2503.05499](http://arxiv.org/abs/2503.05499)|null|
 |**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|**[link](https://github.com/jiajunyu1999/LLM4Drug)**|
 |**2025-03-04**|**Straight-Line Diffusion Model for Efficient 3D Molecular Generation**|Yuyan Ni et.al.|[2503.02918](http://arxiv.org/abs/2503.02918)|**[link](https://github.com/fengshikun/SLDM)**|
-|**2025-03-03**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
+|**2025-06-02**|**Dynamic Search for Inference-Time Alignment in Diffusion Models**|Xiner Li et.al.|[2503.02039](http://arxiv.org/abs/2503.02039)|null|
 |**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|**[link](https://github.com/ivanniu/inversiongnn)**|
 |**2025-03-02**|**Molecule Generation for Target Protein Binding with Hierarchical Consistency Diffusion Model**|Guanlue Li et.al.|[2503.00975](http://arxiv.org/abs/2503.00975)|**[link](https://github.com/guanlueli/AMDiff)**|
 |**2025-02-26**|**A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation**|Anthony M. Smaldone et.al.|[2502.19214](http://arxiv.org/abs/2502.19214)|**[link](https://github.com/anthonysmaldone/quantum-transformer)**|
@@ -1696,7 +1696,7 @@ layout: default
 |**2025-05-28**|**DAM: Domain-Aware Module for Multi-Domain Dataset Condensation**|Jaehyun Choi et.al.|[2505.22387](http://arxiv.org/abs/2505.22387)|null|
 |**2025-05-28**|**Model-free estimation of the Cramér-Rao bound for deep-learning microscopy in complex media**|Ilya Starshynov et.al.|[2505.22330](http://arxiv.org/abs/2505.22330)|null|
 |**2025-05-28**|**FGS-Audio: Fixed-Decoder Framework for Audio Steganography with Adversarial Perturbation Generation**|Jialin Yan et.al.|[2505.22266](http://arxiv.org/abs/2505.22266)|null|
-|**2025-05-28**|**B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data**|Magdalena Proszewska et.al.|[2505.22252](http://arxiv.org/abs/2505.22252)|null|
+|**2025-05-28**|**B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data**|Magdalena Proszewska et.al.|[2505.22252](http://arxiv.org/abs/2505.22252)|**[link](https://github.com/mproszewska/B-XAIC)**|
 |**2025-05-28**|**Algorithm Unrolling-based Denoising of Multimodal Graph Signals**|Hayate Kojima et.al.|[2505.22175](http://arxiv.org/abs/2505.22175)|null|
 |**2025-05-28**|**The informativeness of the gradient revisited**|Rustem Takhanov et.al.|[2505.22158](http://arxiv.org/abs/2505.22158)|null|
 |**2025-05-28**|**High Volume Rate 3D Ultrasound Reconstruction with Diffusion Models**|Tristan S. W. Stevens et.al.|[2505.22090](http://arxiv.org/abs/2505.22090)|null|
