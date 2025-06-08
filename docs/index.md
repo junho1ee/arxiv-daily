@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -26,7 +26,7 @@ layout: default
 |**2025-05-06**|**Quantum QSAR for drug discovery**|Alejandro Giraldo et.al.|[2505.04648](http://arxiv.org/abs/2505.04648)|null|
 |**2025-04-27**|**Heterogeneous network drug-target interaction prediction model based on graph wavelet transform and multi-level contrastive learning**|Wenfeng Dai et.al.|[2504.20103](http://arxiv.org/abs/2504.20103)|**[link](https://github.com/chromaprim/SHGCL_DTI_GWT)**|
 |**2025-04-25**|**Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics**|Maodong Li et.al.|[2504.18367](http://arxiv.org/abs/2504.18367)|null|
-|**2025-05-25**|**Heterogeneous networks in drug-target interaction prediction**|Mohammad Molaee et.al.|[2504.16152](http://arxiv.org/abs/2504.16152)|null|
+|**2025-05-25**|**Heterogeneous networks in drug-target interaction prediction**|Mohammad Molaee et.al.|[2504.16152](http://arxiv.org/abs/2504.16152)|**[link](https://github.com/wyx2012/bg-dti)**|
 |**2025-04-12**|**Tunable Molecular Interactions Near an Atomic Feshbach Resonance: Stability and Collapse of a Molecular Bose-Einstein Condensate**|Zhiqiang Wang et.al.|[2504.09183](http://arxiv.org/abs/2504.09183)|null|
 |**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454](http://arxiv.org/abs/2504.05454)|null|
 |**2025-04-02**|**HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks**|Jiannuo Li et.al.|[2504.02014](http://arxiv.org/abs/2504.02014)|null|
@@ -107,7 +107,7 @@ layout: default
 |**2024-11-13**|**Unified Mechanics on Thermodynamics, Classical Mechanics, Quantum Mechanics**|Henmei Ni et.al.|[2408.06005](http://arxiv.org/abs/2408.06005)|null|
 |**2024-10-14**|**Barlow Twins Deep Neural Network for Advanced 1D Drug-Target Interaction Prediction**|Maximilian G. Schuh et.al.|[2408.00040](http://arxiv.org/abs/2408.00040)|**[link](https://github.com/maxischuh/BarlowDTI)**|
 |**2024-07-19**|**Achieving Well-Informed Decision-Making in Drug Discovery: A Comprehensive Calibration Study using Neural Network-Based Structure-Activity Models**|Hannah Rosa Friesacher et.al.|[2407.14185](http://arxiv.org/abs/2407.14185)|**[link](https://github.com/hannahrosafriesacher/CalibrationStudy)**|
-|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|**[link](https://github.com/pinglab-utils/rugged)**|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|null|
 |**2024-07-17**|**A statistical mechanics investigation of Unfolded Protein Response across organisms**|Nicole Luchetti et.al.|[2407.12464](http://arxiv.org/abs/2407.12464)|null|
 |**2024-07-14**|**MKDTI: Predicting drug-target interactions via multiple kernel fusion on graph attention network**|Yuhuan Zhou et.al.|[2407.10055](http://arxiv.org/abs/2407.10055)|null|
 |**2024-07-15**|**Dipolar droplets of strongly interacting molecules**|Tim Langen et.al.|[2407.09391](http://arxiv.org/abs/2407.09391)|null|
@@ -375,7 +375,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-01**|**Neuro-Symbolic Generative Diffusion Models for Physically Grounded, Robust, and Safe Generation**|Jacob K. Christopher et.al.|[2506.01121](http://arxiv.org/abs/2506.01121)|null|
 |**2025-05-31**|**Diffusion Models for Increasing Accuracy in Olfaction Sensors and Datasets**|Kordel K. France et.al.|[2506.00455](http://arxiv.org/abs/2506.00455)|null|
-|**2025-05-29**|**Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages**|Michael Sun et.al.|[2505.22948](http://arxiv.org/abs/2505.22948)|null|
+|**2025-05-29**|**Foundation Molecular Grammar: Multi-Modal Foundation Models Induce Interpretable Molecular Graph Languages**|Michael Sun et.al.|[2505.22948](http://arxiv.org/abs/2505.22948)|**[link](https://github.com/shiningsunnyday/induction)**|
 |**2025-05-29**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
 |**2025-05-27**|**Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations**|Hao Li et.al.|[2505.21318](http://arxiv.org/abs/2505.21318)|null|
 |**2025-05-27**|**MT-Mol:Multi Agent System with Tool-based Reasoning for Molecular Optimization**|Hyomin Kim et.al.|[2505.20820](http://arxiv.org/abs/2505.20820)|null|
@@ -588,7 +588,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-02**|**Recent Developments in GNNs for Drug Discovery**|Zhengyu Fang et.al.|[2506.01302](http://arxiv.org/abs/2506.01302)|null|
-|**2025-05-28**|**Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems**|Christoph Brunken et.al.|[2505.22397](http://arxiv.org/abs/2505.22397)|null|
+|**2025-05-28**|**Machine Learning Interatomic Potentials: library for efficient training, model development and simulation of molecular systems**|Christoph Brunken et.al.|[2505.22397](http://arxiv.org/abs/2505.22397)|**[link](https://github.com/instadeepai/mlip)**|
 |**2025-05-17**|**AdaptMol: Adaptive Fusion from Sequence String to Topological Structure for Few-shot Drug Discovery**|Yifan Dai et.al.|[2505.11878](http://arxiv.org/abs/2505.11878)|null|
 |**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120](http://arxiv.org/abs/2505.10120)|null|
 |**2025-05-13**|**A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML**|Aravindh Nivas Marimuthu et.al.|[2505.08688](http://arxiv.org/abs/2505.08688)|null|
@@ -11650,7 +11650,7 @@ layout: default
 |**2025-05-28**|**Topological Machine Learning for Protein-Nucleic Acid Binding Affinity Changes Upon Mutation**|Xiang Liu et.al.|[2505.22786](http://arxiv.org/abs/2505.22786)|**[link](https://github.com/liuxiangmath/topoml)**|
 |**2025-05-28**|**HelixDesign-Binder: A Scalable Production-Grade Platform for Binder Design Built on HelixFold3**|Jie Gao et.al.|[2505.21873](http://arxiv.org/abs/2505.21873)|null|
 |**2025-05-27**|**TumorHoPe2: An updated database for Tumor Homing Peptides**|Diksha Kashyap et.al.|[2505.20913](http://arxiv.org/abs/2505.20913)|null|
-|**2025-05-14**|**Sequence-Only Prediction of Binding Affinity Changes: A Robust and Interpretable Model for Antibody Engineering**|Chen Liu et.al.|[2505.20301](http://arxiv.org/abs/2505.20301)|null|
+|**2025-05-14**|**Sequence-Only Prediction of Binding Affinity Changes: A Robust and Interpretable Model for Antibody Engineering**|Chen Liu et.al.|[2505.20301](http://arxiv.org/abs/2505.20301)|**[link](https://github.com/code4luck/protattba)**|
 |**2025-05-26**|**Beyond Simple Concatenation: Fairly Assessing PLM Architectures for Multi-Chain Protein-Protein Interactions Prediction**|Hazem Alsamkary et.al.|[2505.20036](http://arxiv.org/abs/2505.20036)|null|
 |**2025-05-31**|**Tokenizing Electron Cloud in Protein-Ligand Interaction Learning**|Haitao Lin et.al.|[2505.19014](http://arxiv.org/abs/2505.19014)|null|
 |**2025-05-17**|**Multi-Ligand Simultaneous Docking Analysis of Moringa Oleifera Phytochemicals Reveals Enhanced BCL-2 Inhibition via Synergistic Action**|Asmita Saha et.al.|[2505.12073](http://arxiv.org/abs/2505.12073)|null|
