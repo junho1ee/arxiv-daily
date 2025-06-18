@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1657,7 +1657,7 @@ layout: default
 |**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
 |**2025-06-16**|**Slanted light-sheet array microscopy for large volume imaging at rates exceeding 100 Hz**|Kai Long et.al.|[2506.13664](http://arxiv.org/abs/2506.13664)|null|
-|**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652](http://arxiv.org/abs/2506.13652)|null|
+|**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652](http://arxiv.org/abs/2506.13652)|**[link](https://github.com/Graph-Machine-Learning-Group/peakweather-wind-forecasting)**|
 |**2025-06-16**|**Integrated Pipeline for Monocular 3D Reconstruction and Finite Element Simulation in Industrial Applications**|Bowen Zheng et.al.|[2506.13573](http://arxiv.org/abs/2506.13573)|null|
 |**2025-06-16**|**Digging deeper: deep joint species distribution modeling reveals environmental drivers of Earthworm Communities**|Sara Si-moussi et.al.|[2506.13568](http://arxiv.org/abs/2506.13568)|null|
 |**2025-06-16**|**A Comprehensive Survey on Video Scene Parsing:Advances, Challenges, and Prospects**|Guohuan Xie et.al.|[2506.13552](http://arxiv.org/abs/2506.13552)|null|
