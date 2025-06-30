@@ -62,7 +62,7 @@ layout: default
 |**2025-02-09**|**LLMs for Drug-Drug Interaction Prediction: A Comprehensive Comparison**|Gabriele De Vito et.al.|[2502.06890](http://arxiv.org/abs/2502.06890)|null|
 |**2025-02-03**|**Docking-Aware Attention: Dynamic Protein Representations through Molecular Context Integration**|Amitay Sicherman et.al.|[2502.01461](http://arxiv.org/abs/2502.01461)|null|
 |**2025-02-02**|**Emamectin benzoate sensing using vivianenes (2D vivianites)**|Surbhi Slathia et.al.|[2502.00813](http://arxiv.org/abs/2502.00813)|null|
-|**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179](http://arxiv.org/abs/2501.19179)|null|
+|**2025-06-27**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179](http://arxiv.org/abs/2501.19179)|null|
 |**2025-02-06**|**ReactEmbed: A Cross-Domain Framework for Protein-Molecule Representation Learning via Biochemical Reaction Networks**|Amitay Sicherman et.al.|[2501.18278](http://arxiv.org/abs/2501.18278)|**[link](https://github.com/amitaysicherman/reactembed)**|
 |**2025-01-28**|**Bridging spatial and temporal scales of developmental gene regulation**|Andrés H. Cardona et.al.|[2501.16799](http://arxiv.org/abs/2501.16799)|null|
 |**2025-03-27**|**Inductive-Associative Meta-learning Pipeline with Human Cognitive Patterns for Unseen Drug-Target Interaction Prediction**|Xiaoqing Lian et.al.|[2501.16391](http://arxiv.org/abs/2501.16391)|**[link](https://github.com/lian-xiao/biobridge)**|
@@ -821,6 +821,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Predicting Thermodynamics of Liquid Water from Time Series Analysis**|Małgorzata J. Zimoń et.al.|[2506.21821](http://arxiv.org/abs/2506.21821)|null|
+|**2025-06-24**|**Pressure dependence of liquid iron viscosity from machine-learning molecular dynamics**|Kai Luo et.al.|[2506.21626](http://arxiv.org/abs/2506.21626)|null|
 |**2025-06-25**|**Bridging Classical Molecular Dynamics and Quantum Foundations for Comprehensive Protein Structural Analysis**|Don Roosan et.al.|[2506.20830](http://arxiv.org/abs/2506.20830)|null|
 |**2025-06-25**|**STable AutoCorrelation Integral Estimator (STACIE): Robust and accurate transport properties from molecular dynamics simulations**|Gözdenur Toraman et.al.|[2506.20438](http://arxiv.org/abs/2506.20438)|null|
 |**2025-06-25**|**Shape-determined kinetic pathways in two-dimensional solid-solid phase transitions**|Ruijian Zhu et.al.|[2506.20423](http://arxiv.org/abs/2506.20423)|null|
@@ -890,7 +892,7 @@ layout: default
 |**2025-05-21**|**Entropy exchange in an inter-correlating binary quasi-classical system: Concept of entropy-bath accelerated molecular dynamics**|Projesh Kumar Roy et.al.|[2505.15474](http://arxiv.org/abs/2505.15474)|null|
 |**2025-05-21**|**Bonding relay for room-temperature oxide plasticity like metals**|Xiangkai Chen et.al.|[2505.15266](http://arxiv.org/abs/2505.15266)|null|
 |**2025-05-20**|**Structural States of Filamentary Microgravity Dusty Plasma**|Emerson Gehr et.al.|[2505.14576](http://arxiv.org/abs/2505.14576)|null|
-|**2025-05-20**|**Pressure Waves During Granular Flows in Varying Gravity Environments**|Abigail Tadlock et.al.|[2505.14525](http://arxiv.org/abs/2505.14525)|null|
+|**2025-06-27**|**Pressure Waves During Granular Flows in Varying Gravity Environments**|Abigail Tadlock et.al.|[2505.14525](http://arxiv.org/abs/2505.14525)|null|
 |**2025-05-20**|**Influence of active breathing on rheology and jamming of amorphous solids: insights from microscopic and mesoscale analysis**|Sayantan Ghosh et.al.|[2505.14520](http://arxiv.org/abs/2505.14520)|null|
 |**2025-05-19**|**Early Stages of Self-Healing at Tungsten Grain Boundaries from Ab Initio Machine Learning Simulations**|Jorge Suárez-Recio et.al.|[2505.13744](http://arxiv.org/abs/2505.13744)|null|
 |**2025-05-19**|**Lattice thermal conductivity of 16 elemental metals from molecular dynamics simulations with a unified neuroevolution potential**|Shuo Cao et.al.|[2505.13179](http://arxiv.org/abs/2505.13179)|null|
@@ -1685,6 +1687,40 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429](http://arxiv.org/abs/2506.22429)|null|
+|**2025-06-27**|**Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**|Joe Johnson et.al.|[2506.22364](http://arxiv.org/abs/2506.22364)|null|
+|**2025-06-27**|**From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications**|Nouf Almesafri et.al.|[2506.22360](http://arxiv.org/abs/2506.22360)|null|
+|**2025-06-27**|**A Framework for Multi-source Privacy Preserving Epidemic Analysis**|Zihan Guan et.al.|[2506.22342](http://arxiv.org/abs/2506.22342)|null|
+|**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338](http://arxiv.org/abs/2506.22338)|null|
+|**2025-06-27**|**Cardiovascular disease classification using radiomics and geometric features from cardiac CT**|Ajay Mittal et.al.|[2506.22226](http://arxiv.org/abs/2506.22226)|null|
+|**2025-06-27**|**Advanced Deep Learning Techniques for Automated Segmentation of Type B Aortic Dissections**|Hao Xu et.al.|[2506.22222](http://arxiv.org/abs/2506.22222)|null|
+|**2025-06-27**|**REDELEX: A Framework for Relational Deep Learning Exploration**|Jakub Peleška et.al.|[2506.22199](http://arxiv.org/abs/2506.22199)|null|
+|**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190](http://arxiv.org/abs/2506.22190)|null|
+|**2025-06-27**|**MPipeMoE: Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism**|Zheng Zhang et.al.|[2506.22175](http://arxiv.org/abs/2506.22175)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
+|**2025-06-27**|**RetFiner: A Vision-Language Refinement Scheme for Retinal Foundation Models**|Ronald Fecso et.al.|[2506.22149](http://arxiv.org/abs/2506.22149)|null|
+|**2025-06-27**|**Earthquake Damage Grades Prediction using An Ensemble Approach Integrating Advanced Machine and Deep Learning Models**|Anurag Panda et.al.|[2506.22129](http://arxiv.org/abs/2506.22129)|null|
+|**2025-06-27**|**Transfer Learning for Assessing Heavy Metal Pollution in Seaports Sediments**|Tin Lai et.al.|[2506.22096](http://arxiv.org/abs/2506.22096)|null|
+|**2025-06-27**|**HOLISMOKES XVIII: Detecting strongly lensed SNe Ia from time series of multi-band LSST-like imaging data**|Satadru Bag et.al.|[2506.22076](http://arxiv.org/abs/2506.22076)|null|
+|**2025-06-27**|**EnLVAM: Enhanced Left Ventricle Linear Measurements Utilizing Anatomical Motion Mode**|Durgesh K. Singh et.al.|[2506.22063](http://arxiv.org/abs/2506.22063)|null|
+|**2025-06-27**|**crypto price prediction using lstm+xgboost**|Mehul Gautam et.al.|[2506.22055](http://arxiv.org/abs/2506.22055)|null|
+|**2025-06-27**|**Towards Scalable and Robust White Matter Lesion Localization via Multimodal Deep Learning**|Julia Machnio et.al.|[2506.22041](http://arxiv.org/abs/2506.22041)|null|
+|**2025-06-27**|**SPTCStencil: Unleashing Sparse Tensor Cores for Stencil Computation via Strided Swap**|Qiqi GU et.al.|[2506.22035](http://arxiv.org/abs/2506.22035)|null|
+|**2025-06-27**|**Seismic resolution enhancement via deep Learning with Knowledge Distillation and Domain Adaptation**|Hanpeng Cai et.al.|[2506.22018](http://arxiv.org/abs/2506.22018)|null|
+|**2025-06-27**|**Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**|Qi Gao et.al.|[2506.22012](http://arxiv.org/abs/2506.22012)|null|
+|**2025-06-27**|**GKNet: Graph Kalman Filtering and Model Inference via Model-based Deep Learning**|Mohammad Sabbaqi et.al.|[2506.22004](http://arxiv.org/abs/2506.22004)|null|
+|**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945](http://arxiv.org/abs/2506.21945)|null|
+|**2025-06-27**|**A Deep Learning Algorithm Based on CNN-LSTM Framework for Predicting Cancer Drug Sales Volume**|Yinghan Li et.al.|[2506.21927](http://arxiv.org/abs/2506.21927)|null|
+|**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
+|**2025-06-27**|**Visual Content Detection in Educational Videos with Transfer Learning and Dataset Enrichment**|Dipayan Biswas et.al.|[2506.21903](http://arxiv.org/abs/2506.21903)|null|
+|**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
+|**2025-06-27**|**Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer**|Yuansheng Li et.al.|[2506.21880](http://arxiv.org/abs/2506.21880)|null|
+|**2025-06-27**|**SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space**|Ekaterina Redekop et.al.|[2506.21857](http://arxiv.org/abs/2506.21857)|null|
+|**2025-06-27**|**LinguaSynth: Heterogeneous Linguistic Signals for News Classification**|Duo Zhang et.al.|[2506.21848](http://arxiv.org/abs/2506.21848)|null|
+|**2025-06-27**|**Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification**|Weitao Tang et.al.|[2506.21828](http://arxiv.org/abs/2506.21828)|null|
+|**2025-06-26**|**Offensive Language Detection on Social Media Using XLNet**|Reem Alothman et.al.|[2506.21795](http://arxiv.org/abs/2506.21795)|null|
+|**2025-06-26**|**Early Glaucoma Detection using Deep Learning with Multiple Datasets of Fundus Images**|Rishiraj Paul Chowdhury et.al.|[2506.21770](http://arxiv.org/abs/2506.21770)|null|
+|**2025-06-26**|**Storm Surge in Color: RGB-Encoded Physics-Aware Deep Learning for Storm Surge Forecasting**|Jinpai Zhao et.al.|[2506.21743](http://arxiv.org/abs/2506.21743)|null|
 |**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499](http://arxiv.org/abs/2506.21499)|null|
 |**2025-06-26**|**A Comprehensive Dataset for Underground Miner Detection in Diverse Scenario**|Cyrus Addy et.al.|[2506.21451](http://arxiv.org/abs/2506.21451)|null|
 |**2025-06-26**|**Benchmarking Deep Learning and Vision Foundation Models for Atypical vs. Normal Mitosis Classification with Cross-Dataset Evaluation**|Sweta Banerjee et.al.|[2506.21444](http://arxiv.org/abs/2506.21444)|null|
