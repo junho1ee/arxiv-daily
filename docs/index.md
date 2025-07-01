@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1760,7 +1760,7 @@ layout: default
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
 |**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
 |**2025-06-25**|**A Deep Learning Approach to Identify Rock Bolts in Complex 3D Point Clouds of Underground Mines Captured Using Mobile Laser Scanners**|Dibyayan Patra et.al.|[2506.20464](http://arxiv.org/abs/2506.20464)|null|
-|**2025-06-25**|**Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images**|Fangyijie Wang et.al.|[2506.20407](http://arxiv.org/abs/2506.20407)|null|
+|**2025-06-27**|**Fusing Radiomic Features with Deep Representations for Gestational Age Estimation in Fetal Ultrasound Images**|Fangyijie Wang et.al.|[2506.20407](http://arxiv.org/abs/2506.20407)|null|
 |**2025-06-25**|**A Novel Large Vision Foundation Model (LVFM)-based Approach for Generating High-Resolution Canopy Height Maps in Plantations for Precision Forestry Management**|Shen Tan et.al.|[2506.20388](http://arxiv.org/abs/2506.20388)|null|
 |**2025-06-25**|**InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust Image Zero-Watermarking**|Abdullah All Tanvir et.al.|[2506.20370](http://arxiv.org/abs/2506.20370)|null|
 |**2025-06-25**|**On the ability of Deep Neural Networks to Learn Granger Causality in Multi-Variate Time Series Data**|Malik Shahid Sultan et.al.|[2506.20347](http://arxiv.org/abs/2506.20347)|null|
