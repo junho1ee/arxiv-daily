@@ -34,7 +34,7 @@ layout: default
 |**2025-05-13**|**Measurements of molecular size and shape on a chip**|Xin Zhu et.al.|[2505.08452](http://arxiv.org/abs/2505.08452)|null|
 |**2025-05-11**|**Observation of modulation-induced Feshbach resonance**|Tongkang Wang et.al.|[2505.06871](http://arxiv.org/abs/2505.06871)|null|
 |**2025-05-08**|**EquiHGNN: Scalable Rotationally Equivariant Hypergraph Neural Networks**|Tien Dang et.al.|[2505.05650](http://arxiv.org/abs/2505.05650)|**[link](https://github.com/hysonlab/equihgnn)**|
-|**2025-05-06**|**Quantum QSAR for drug discovery**|Alejandro Giraldo et.al.|[2505.04648](http://arxiv.org/abs/2505.04648)|null|
+|**2025-07-08**|**Quantum QSAR for drug discovery**|Alejandro Giraldo et.al.|[2505.04648](http://arxiv.org/abs/2505.04648)|null|
 |**2025-04-27**|**Heterogeneous network drug-target interaction prediction model based on graph wavelet transform and multi-level contrastive learning**|Wenfeng Dai et.al.|[2504.20103](http://arxiv.org/abs/2504.20103)|**[link](https://github.com/chromaprim/SHGCL_DTI_GWT)**|
 |**2025-04-25**|**Enhanced Sampling, Public Dataset and Generative Model for Drug-Protein Dissociation Dynamics**|Maodong Li et.al.|[2504.18367](http://arxiv.org/abs/2504.18367)|null|
 |**2025-05-25**|**Heterogeneous networks in drug-target interaction prediction**|Mohammad Molaee et.al.|[2504.16152](http://arxiv.org/abs/2504.16152)|**[link](https://github.com/wyx2012/bg-dti)**|
@@ -384,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Navigating Sparse Molecular Data with Stein Diffusion Guidance**|Van Khoa Nguyen et.al.|[2507.05482](http://arxiv.org/abs/2507.05482)|null|
 |**2025-06-26**|**Large Language Model Agent for Modular Task Execution in Drug Discovery**|Janghoon Ock et.al.|[2507.02925](http://arxiv.org/abs/2507.02925)|null|
 |**2025-07-01**|**TABASCO: A Fast, Simplified Model for Molecular Generation with Improved Physical Quality**|Carlos Vonessen et.al.|[2507.00899](http://arxiv.org/abs/2507.00899)|null|
 |**2025-06-26**|**Diverse Mini-Batch Selection in Reinforcement Learning for Efficient Chemical Exploration in de novo Drug Design**|Hampus Gummesson Svensson et.al.|[2506.21158](http://arxiv.org/abs/2506.21158)|null|
@@ -832,6 +833,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**On void formation during the simulated tensile testing of polymer-filler particle composites**|John J. Karnes et.al.|[2507.05547](http://arxiv.org/abs/2507.05547)|null|
 |**2025-06-30**|**Atomistic study of dislocation formation during Ge epitaxy on Si**|Luis Martín-Encinar et.al.|[2507.05082](http://arxiv.org/abs/2507.05082)|null|
 |**2025-07-07**|**Computing dielectric spectra in molecular dynamics simulations: using a cavity to disentangle self and cross correlations**|Marceau Hénot et.al.|[2507.04908](http://arxiv.org/abs/2507.04908)|null|
 |**2025-07-07**|**Torsional Behavior of Carbon-Doped Ferrous Nanowires: Atomic-Scale Insights from MD Simulations**|Charith L. Hirimuthugodage et.al.|[2507.04901](http://arxiv.org/abs/2507.04901)|null|
@@ -1714,8 +1716,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Deep Learning Optimization of Two-State Pinching Antennas Systems**|Odysseas G. Karagiannidis et.al.|[2507.06222](http://arxiv.org/abs/2507.06222)|null|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
+|**2025-07-08**|**Learning-Enhanced Variational Regularization for Electrical Impedance Tomography via \Calderon's Method**|Kai Li et.al.|[2507.06114](http://arxiv.org/abs/2507.06114)|null|
+|**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
+|**2025-07-08**|**ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models**|Chihan Huang et.al.|[2507.06078](http://arxiv.org/abs/2507.06078)|null|
+|**2025-07-08**|**ECORE: Energy-Conscious Optimized Routing for Deep Learning Models at the Edge**|Daghash K. Alqahtani et.al.|[2507.06011](http://arxiv.org/abs/2507.06011)|null|
+|**2025-07-08**|**KnowIt: Deep Time Series Modeling and Interpretation**|M. W. Theunissen et.al.|[2507.06009](http://arxiv.org/abs/2507.06009)|null|
+|**2025-07-08**|**AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization**|Deepak Raina et.al.|[2507.05979](http://arxiv.org/abs/2507.05979)|null|
+|**2025-07-08**|**Chat-Ghosting: A Comparative Study of Methods for Auto-Completion in Dialog Systems**|Sandeep Mishra et.al.|[2507.05940](http://arxiv.org/abs/2507.05940)|null|
+|**2025-07-08**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938](http://arxiv.org/abs/2507.05938)|null|
+|**2025-07-08**|**A novel framework for fully-automated co-registration of intravascular ultrasound and optical coherence tomography imaging data**|Xingwei He et.al.|[2507.05883](http://arxiv.org/abs/2507.05883)|null|
+|**2025-07-08**|**Concept-Based Mechanistic Interpretability Using Structured Knowledge Graphs**|Sofiia Chorna et.al.|[2507.05810](http://arxiv.org/abs/2507.05810)|null|
+|**2025-07-08**|**Neural Unfolding of the Chiral Magnetic Effect in Heavy-Ion Collisions**|Shuang Guo et.al.|[2507.05808](http://arxiv.org/abs/2507.05808)|null|
+|**2025-07-08**|**From Motion to Meaning: Biomechanics-Informed Neural Network for Explainable Cardiovascular Disease Identification**|Comte Valentin et.al.|[2507.05783](http://arxiv.org/abs/2507.05783)|null|
+|**2025-07-08**|**Hyperspectral Anomaly Detection Methods: A Survey and Comparative Study**|Aayushma Pant et.al.|[2507.05730](http://arxiv.org/abs/2507.05730)|null|
+|**2025-07-08**|**DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**|Hyeongchan Ham et.al.|[2507.05710](http://arxiv.org/abs/2507.05710)|null|
+|**2025-07-08**|**AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs**|Shangzhan Li et.al.|[2507.05687](http://arxiv.org/abs/2507.05687)|null|
+|**2025-07-08**|**Canine Clinical Gait Analysis for Orthopedic and Neurological Disorders: An Inertial Deep-Learning Approach**|Netta Palez et.al.|[2507.05671](http://arxiv.org/abs/2507.05671)|null|
+|**2025-07-08**|**PINNs Study for the Bekki-Nozaki Chaos in the Non-linear Schrödinger equation**|N. Sawado et.al.|[2507.05664](http://arxiv.org/abs/2507.05664)|null|
+|**2025-07-08**|**FACT: the Features At Convergence Theorem for neural networks**|Enric Boix-Adsera et.al.|[2507.05644](http://arxiv.org/abs/2507.05644)|null|
+|**2025-07-08**|**DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective**|Shuo Shao et.al.|[2507.05622](http://arxiv.org/abs/2507.05622)|null|
+|**2025-07-07**|**Deep Learning of Continuous and Structured Policies for Aggregated Heterogeneous Treatment Effects**|Jennifer Y. Zhang et.al.|[2507.05511](http://arxiv.org/abs/2507.05511)|null|
+|**2025-07-07**|**Heterogeneous Causal Learning for Optimizing Aggregated Functions in User Growth**|Shuyang Du et.al.|[2507.05510](http://arxiv.org/abs/2507.05510)|null|
+|**2025-07-07**|**Beyond Communication Overhead: A Multilevel Monte Carlo Approach for Mitigating Compression Bias in Distributed Learning**|Ze'ev Zukerman et.al.|[2507.05508](http://arxiv.org/abs/2507.05508)|null|
+|**2025-07-07**|**Predicting mutational effects on protein binding from folding energy**|Arthur Deng et.al.|[2507.05502](http://arxiv.org/abs/2507.05502)|null|
+|**2025-07-07**|**Explainable Hierarchical Deep Learning Neural Networks (Ex-HiDeNN)**|Reza T. Batley et.al.|[2507.05498](http://arxiv.org/abs/2507.05498)|null|
+|**2025-07-07**|**Self-supervised Deep Learning for Denoising in Ultrasound Microvascular Imaging**|Lijie Huang et.al.|[2507.05451](http://arxiv.org/abs/2507.05451)|null|
+|**2025-07-07**|**Robotic System with AI for Real Time Weed Detection, Canopy Aware Spraying, and Droplet Pattern Evaluation**|Inayat Rasool et.al.|[2507.05432](http://arxiv.org/abs/2507.05432)|null|
+|**2025-07-07**|**EmissionNet: Air Quality Pollution Forecasting for Agriculture**|Prady Saligram et.al.|[2507.05416](http://arxiv.org/abs/2507.05416)|null|
+|**2025-07-07**|**AXLearn: Modular Large Model Training on Heterogeneous Infrastructure**|Mark Lee et.al.|[2507.05411](http://arxiv.org/abs/2507.05411)|null|
+|**2025-07-07**|**Enhancing Underwater Images Using Deep Learning with Subjective Image Quality Integration**|Jose M. Montero et.al.|[2507.05393](http://arxiv.org/abs/2507.05393)|null|
+|**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[2507.05376](http://arxiv.org/abs/2507.05376)|null|
+|**2025-07-07**|**Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions**|Bastien Milani et.al.|[2507.05312](http://arxiv.org/abs/2507.05312)|null|
+|**2025-07-05**|**Enhancing Learning Path Recommendation via Multi-task Learning**|Afsana Nasrin et.al.|[2507.05295](http://arxiv.org/abs/2507.05295)|null|
 |**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247](http://arxiv.org/abs/2507.05247)|null|
-|**2025-07-07**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
+|**2025-07-08**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221](http://arxiv.org/abs/2507.05221)|null|
 |**2025-07-07**|**$\varphi$ -Adapt: A Physics-Informed Adaptation Learning Approach to 2D Quantum Material Discovery**|Hoang-Quan Nguyen et.al.|[2507.05184](http://arxiv.org/abs/2507.05184)|null|
 |**2025-07-07**|**Hardware-efficient tractable probabilistic inference for TinyML Neurosymbolic AI applications**|Jelin Leslin et.al.|[2507.05141](http://arxiv.org/abs/2507.05141)|null|
 |**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134](http://arxiv.org/abs/2507.05134)|null|
@@ -1723,7 +1759,7 @@ layout: default
 |**2025-07-07**|**Deep Learning Based Antenna Selection Technique for RIS-Empowered RQSM System**|Burak Ahmet Ozden et.al.|[2507.05071](http://arxiv.org/abs/2507.05071)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
 |**2025-07-07**|**AI for the Routine, Humans for the Complex: Accuracy-Driven Data Labelling with Mixed Integer Linear Programming**|Mohammad Hossein Amini et.al.|[2507.04990](http://arxiv.org/abs/2507.04990)|null|
-|**2025-07-07**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
+|**2025-07-08**|**Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning**|Ruihao Zhang et.al.|[2507.04981](http://arxiv.org/abs/2507.04981)|null|
 |**2025-07-07**|**Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models**|Eunseop Yoon et.al.|[2507.04976](http://arxiv.org/abs/2507.04976)|null|
 |**2025-07-07**|**RainShift: A Benchmark for Precipitation Downscaling Across Geographies**|Paula Harder et.al.|[2507.04930](http://arxiv.org/abs/2507.04930)|null|
 |**2025-07-07**|**Uncovering Neuroimaging Biomarkers of Brain Tumor Surgery with AI-Driven Methods**|Carmen Jimenez-Mesa et.al.|[2507.04881](http://arxiv.org/abs/2507.04881)|null|
