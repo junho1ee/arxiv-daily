@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1787,7 +1787,7 @@ layout: default
 |**2025-07-10**|**Uncertainty Quantification for Motor Imagery BCI -- Machine Learning vs. Deep Learning**|Joris Suurmeijer et.al.|[2507.07511](http://arxiv.org/abs/2507.07511)|null|
 |**2025-07-10**|**Semi-supervised learning and integration of multi-sequence MR-images for carotid vessel wall and plaque segmentation**|Marie-Christine Pali et.al.|[2507.07496](http://arxiv.org/abs/2507.07496)|null|
 |**2025-07-10**|**Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data**|Yuki Nishio et.al.|[2507.07454](http://arxiv.org/abs/2507.07454)|null|
-|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-12**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
 |**2025-07-10**|**Computation-resource-efficient Task-oriented Communications**|Jingwen Fu et.al.|[2507.07422](http://arxiv.org/abs/2507.07422)|null|
 |**2025-07-10**|**GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation**|Fardin Rastakhiz et.al.|[2507.07414](http://arxiv.org/abs/2507.07414)|null|
 |**2025-07-10**|**Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models**|Jikesh Thapa et.al.|[2507.07406](http://arxiv.org/abs/2507.07406)|null|
