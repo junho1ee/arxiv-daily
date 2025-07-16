@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -387,7 +387,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-14**|**TextOmics-Guided Diffusion for Hit-like Molecular Generation**|Hang Yuan et.al.|[2507.09982](http://arxiv.org/abs/2507.09982)|null|
 |**2025-07-11**|**Shortening the Trajectories: Identity-Aware Gaussian Approximation for Efficient 3D Molecular Generation**|Jingxiang Qu et.al.|[2507.09043](http://arxiv.org/abs/2507.09043)|null|
 |**2025-06-25**|**Unraveling the Potential of Diffusion Models in Small Molecule Generation**|Peining Zhang et.al.|[2507.08005](http://arxiv.org/abs/2507.08005)|null|
@@ -620,7 +620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-07**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
+|**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920](http://arxiv.org/abs/2507.03920)|null|
 |**2025-07-04**|**Multi-Level Fusion Graph Neural Network for Molecule Property Prediction**|XiaYu Liu et.al.|[2507.03430](http://arxiv.org/abs/2507.03430)|null|
 |**2025-07-04**|**MolVision: Molecular Property Prediction with Vision Language Models**|Deepan Adak et.al.|[2507.03283](http://arxiv.org/abs/2507.03283)|null|
@@ -12800,7 +12800,7 @@ layout: default
 |**2025-04-24**|**LLM Agent Swarm for Hypothesis-Driven Drug Discovery**|Kevin Song et.al.|[2504.17967](http://arxiv.org/abs/2504.17967)|null|
 |**2025-04-22**|**Accurate and generalizable protein-ligand binding affinity prediction with geometric deep learning**|Krinos Li et.al.|[2504.16261](http://arxiv.org/abs/2504.16261)|null|
 |**2025-04-13**|**Rethinking the generalization of drug target affinity prediction algorithms via similarity aware evaluation**|Chenbin Zhang et.al.|[2504.09481](http://arxiv.org/abs/2504.09481)|**[link](https://github.com/amshoreline/sae)**|
-|**2025-04-10**|**Compositional Flows for 3D Molecule and Synthesis Pathway Co-design**|Tony Shen et.al.|[2504.08051](http://arxiv.org/abs/2504.08051)|null|
+|**2025-07-15**|**Compositional Flows for 3D Molecule and Synthesis Pathway Co-design**|Tony Shen et.al.|[2504.08051](http://arxiv.org/abs/2504.08051)|null|
 |**2025-04-07**|**Bidirectional Hierarchical Protein Multi-Modal Representation Learning**|Xuefeng Liu et.al.|[2504.04770](http://arxiv.org/abs/2504.04770)|null|
 |**2025-04-07**|**EquiCPI: SE(3)-Equivariant Geometric Deep Learning for Structure-Aware Prediction of Compound-Protein Interactions**|Ngoc-Quang Nguyen et.al.|[2504.04654](http://arxiv.org/abs/2504.04654)|**[link](https://github.com/dmis-lab/EquiCPI)**|
 |**2025-04-02**|**HCAF-DTA: drug-target binding affinity prediction with cross-attention fused hypergraph neural networks**|Jiannuo Li et.al.|[2504.02014](http://arxiv.org/abs/2504.02014)|null|
