@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -12886,7 +12886,7 @@ layout: default
 |**2025-06-21**|**AbRank: A Benchmark Dataset and Metric-Learning Framework for Antibody-Antigen Affinity Ranking**|Chunan Liu et.al.|[2506.17857](http://arxiv.org/abs/2506.17857)|null|
 |**2025-06-16**|**Evolutionary chemical learning in dimerization networks**|Alexei V. Tkachenko et.al.|[2506.14006](http://arxiv.org/abs/2506.14006)|**[link](https://github.com/atkachen00/chemclassifierweb)**|
 |**2025-06-16**|**Seq2Bind Webserver for Decoding Binding Hotspots directly from Sequences using Fine-Tuned Protein Language Models**|Xiang Ma et.al.|[2506.13830](http://arxiv.org/abs/2506.13830)|null|
-|**2025-07-04**|**KEPLA: A Knowledge-Enhanced Deep Learning Framework for Accurate Protein-Ligand Binding Affinity Prediction**|Han Liu et.al.|[2506.13196](http://arxiv.org/abs/2506.13196)|null|
+|**2025-07-18**|**KEPLA: A Knowledge-Enhanced Deep Learning Framework for Accurate Protein-Ligand Binding Affinity Prediction**|Han Liu et.al.|[2506.13196](http://arxiv.org/abs/2506.13196)|null|
 |**2025-06-11**|**Natural Language Guided Ligand-Binding Protein Design**|Zhenqiao Song et.al.|[2506.09332](http://arxiv.org/abs/2506.09332)|null|
 |**2025-05-17**|**Llama-Affinity: A Predictive Antibody Antigen Binding Model Integrating Antibody Sequences with Llama3 Backbone Architecture**|Delower Hossain et.al.|[2506.09052](http://arxiv.org/abs/2506.09052)|null|
 |**2025-06-09**|**Diffusion Sequence Models for Enhanced Protein Representation and Generation**|Logan Hallee et.al.|[2506.08293](http://arxiv.org/abs/2506.08293)|**[link](https://github.com/Gleghorn-Lab/DSM)**|
