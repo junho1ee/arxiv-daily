@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## DTI
@@ -1860,7 +1860,7 @@ layout: default
 |**2025-07-17**|**DASViT: Differentiable Architecture Search for Vision Transformer**|Pengjin Wu et.al.|[2507.13079](http://arxiv.org/abs/2507.13079)|null|
 |**2025-07-17**|**Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization**|Songlin Li et.al.|[2507.13018](http://arxiv.org/abs/2507.13018)|null|
 |**2025-07-17**|**WaveletInception Networks for Drive-by Vibration-Based Infrastructure Health Monitoring**|Reza Riahi Samani et.al.|[2507.12969](http://arxiv.org/abs/2507.12969)|null|
-|**2025-07-17**|**Adaptive feature capture method for solving partial differential equations with low regularity solutions**|Yangtao Deng et.al.|[2507.12941](http://arxiv.org/abs/2507.12941)|null|
+|**2025-07-21**|**Adaptive feature capture method for solving partial differential equations with low regularity solutions**|Yangtao Deng et.al.|[2507.12941](http://arxiv.org/abs/2507.12941)|null|
 |**2025-07-17**|**A Deep-Learning Framework for Land-Sliding Classification from Remote Sensing Image**|Hieu Tang et.al.|[2507.12939](http://arxiv.org/abs/2507.12939)|null|
 |**2025-07-17**|**Trace Reconstruction with Language Models**|Franziska Weindel et.al.|[2507.12927](http://arxiv.org/abs/2507.12927)|null|
 |**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|
